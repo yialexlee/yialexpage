@@ -3321,7 +3321,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 @media screen and (max-width: 1700px) {
     .s-header__logo {
-        left: 6rem;
+        left: 1rem;
     }
     .s-header__nav-wrap {
         padding-left: 19.6rem;
