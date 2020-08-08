@@ -1,9 +1,4 @@
-/* =================================================================== 
- * Flare Main Stylesheet
- * Template Ver. 1.0.0
- * 03-19-2020
- * ------------------------------------------------------------------
- *
+/*
  * TOC:
  * # settings and variables
  *      ## fonts
@@ -3530,13 +3525,13 @@ input::-moz-focus-inner {
     -ms-flex-align: end;
     -webkit-box-align: end;
     align-items: flex-end;
-    padding-top: 20vh;
+    padding-top: 1vh;
     padding-bottom: 7vh;
     position: relative;
 }
 
 .s-home__content h1 {
-    font-size: 22rem;
+    font-size: 20rem;
     font-weight: 600;
     letter-spacing: -.04em;
     line-height: 1;
