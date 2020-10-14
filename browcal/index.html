@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="main.css" />
+<style type="text/css">
+@font-face{font-family:roboto;
+ src:url("roboto-Thin.ttf");}
+ .roboto{
+ font-family:roboto;
+ }
+ @font-face{font-family:thin;
+ src:url("r.ttf");}
+ .thin{
+ font-family:thin;
+ }</style>
+ </head>
+<body class="thin" ><center>
+<p class="blank">  </p>
+<div style="border-style: solid;background-color:transparent;border-color:white;width:71.6%;border-radius:15px;">
+<br><center style="color:white;"><strong>Brow-Calculator</strong></center><br>
+<form name="calc" >
+<input value="0" class="field"  disabled="disabled"  name="txt" type="text"  >  
+<p>    </p><ul><li>
+<input onclick="sine()"    type="button"  class="functionBtn"  name="sin" value="sin"  >
+<input onclick="cos()"type="button" class="functionBtn"  name="pie" value="cos" nclick="" >
+<input onclick="tan()"type="button" class="functionBtn"  name="pie" value="tan" nclick="" >
+<input onclick="log()"type="button" class="functionBtn"  name="pie" value="log" nclick="" >
+<input id="modd"  onclick="modulo()"type="button" class="functionBtn"  name="pie" value="mod" nclick="" >
+<input onclick="changeTheme()"type="button" class="functionBtn special"  name="pie" style="color:#00ff00"  value="•°•°•" nclick="" >
+<input onclick="checkPie()"type="button" class="functionBtn special"  name="pie" value="MODE" nclick="" ></li><li>
+<li><input onclick="asine()"type="button" class="functionBtn"  name="pie" value="sin-¹" nclick="" >
+<input onclick="acos()"type="button" class="functionBtn"  name="pie" value="cos-¹" nclick="" >
+<input onclick="atan()"type="button" class="functionBtn"  name="pie" value="tan-¹" nclick="" >
+<input onclick="abs()"type="button" class="functionBtn"  name="pie" value="(—)" nclick="" >
+<input onclick="ran()"type="button" class="functionBtn"  name="pie" value="Ran#" nclick="" >
+<input onclick="floor()"type="button" class="functionBtn special"  name="pie" value="floor" nclick="" >
+<input onclick="ceil()"type="button" class="functionBtn special"  name="pie" value="ceil" nclick="" ></li><li>
+<input onclick="check(this.value)"type="button" class="functionBtn"  name="pie" value="(" nclick="" >
+<input onclick="check(this.value)"type="button" class="functionBtn"  name="pie" value=")" nclick="" >
+<input onclick="cube()"type="button" class="functionBtn"  name="pie" value="³√" nclick="" >
+<input onclick="square()"type="button" class="functionBtn"  name="pie" value="√" nclick="" >
+<input onclick="exp()"type="button" class="functionBtn"  name="pie" value="x²" nclick="" >
+<input onclick="fixd()"type="button" class="functionBtn special"  name="pie" value="fixed" nclick="" >
+<input onclick="round()"type="button" class="functionBtn special"  name="pie" value="round" nclick="" ></li>
+<li><input onclick="cent()"type="button" class="functionBtn"  name="pie" value="%" nclick="" >
+<input onclick="xinverse() "type="button" class="functionBtn"  name="pie" value="x-¹" nclick="" >
+<input onclick="checkPie()"type="button" class="functionBtn"  name="pie" value="π" nclick="" >
+<input onclick="fact()"type="button" class="functionBtn"  name="pie" value="!" nclick="" >
+<input onmousedown="timer1()" onclick="timer()"type="button" class="functionBtn" style=""  name="pie" value="{  }"  >
+<input onclick="paste()"type="button" class="functionBtn special"  name="pie" value="paste" style="background:#025" nclick="" >
+<input onclick="copy()"type="button" class="functionBtn special"  name="copi" value="copy" style="background-color:#009;" ></li>
+<p class="blank" >  </p><li>
+<input class="k"  onclick="check(this.value)" type="button" value="7"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" value="8"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" value="9"  name=""  >
+<input class="k powerkey"  onclick="del()" type="button" value="DEL"  name=""  >
+<input   onclick="clr()" type="button" class="powerkey k" value="CLS"  name=""  ></li>
+<li><input class="k" onclick="check(this.value)" type="button" value="4"  name=""  >
+<input class="k"  onclick="check(this.value)" type="button" value="5"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" value="6"  name=""  >
+<input class="k"  onclick="check(this.value)" type="button" class="operator" value="*"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" class="operator" value="/"  name=""  ></li>
+<li><input class="k"  onclick="check(this.value)" type="button" value="1"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" value="2"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" value="3"  name=""  >
+<input class="k"  onclick="check(this.value)" type="button" class="operator" value="+"  name=""  >
+<input class="k"  onclick="check(this.value)" type="button" class="operator" value="-"  name=""  ></li>
+<li><input class="k"  onclick="check(this.value)" type="button" value="0"  name=""  >
+<input class="k"  onclick="check(this.value)" type="button" value="."  name=""  >
+<input class="k" onclick="e()" type="button" value="E"  name=""  >
+<input class="k" onclick="check(this.value)" type="button" value="+"  name=""  >
+<input class="k" onclick="equal()" type="button" value="="  ></li></ul>
+<!--   
+<div id="pop" class="animate" >
+<div id="popcontent">
+<div id="closebtn" onclick="document.getElementById('pop').style.display='none';
+calc.txt.style.display='block';
+
+">x </div>
+ <center> <form name="fixform" >
+  <input id="fixme"  oninput="fixbtn()" value=""     name="fixfield" class="field2" > 
+
+  </form></center>
+  
+ </div>
+
+</div>
+
+-->
+<br></form></center>
+<script src="theme.js" type="text/javascript"></script>
+<script src="main.js"type="text/javascript"></script></div></body></html>
