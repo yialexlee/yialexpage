@@ -62,7 +62,7 @@ mp3: 'mp3/niji.mp3',
 ogg: ''
 },
 {
-title: 'テルーの唄(covered by 蒼莉奈)',
+title: 'テルーの唄 (covered by 蒼莉奈)',
 artist: '手嶌葵',
 album: 'ゲド戦記歌集',
 cover: 'img/teru.jpg',
