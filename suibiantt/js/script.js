@@ -158,6 +158,14 @@ mp3: 'mp3/halzion.mp3',
 ogg: ''
 },
 {
+title: '夜に駆ける',
+artist: 'YOASABI',
+album: '',
+cover: 'img/yorunikakeru.jpg',
+mp3: 'mp3/yorunikakeru.mp3',
+ogg: ''
+},
+{
 title: '夜に駆ける - THE HOME TAKE (幾田りら)',
 artist: 'YOASABI',
 album: '',
