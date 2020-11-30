@@ -8,7 +8,7 @@
 		{
 title: 'Chenparty',
 artist: 'Schnuffel',
-album: 'Chenparty.mp3',
+album: 'Chenparty',
 cover:'img/Chenparty.jpg',
 mp3: 'mp3/Chenparty.mp3',
 ogg: ''
@@ -16,7 +16,7 @@ ogg: ''
 {
 title: 'Lovesick Girl',
 artist: 'Blackpink',
-album: 'Lovesick Girl.mp3',
+album: 'BLACKPINKTHEALBUM',
 cover: 'img/lovesickgirl.jpg',
 mp3: 'mp3/lovesickgirl.mp3',
 ogg: ''
@@ -24,25 +24,33 @@ ogg: ''
 {
 title: 'WANNABE',
 artist: 'ITZY',
-album: 'WANNABE.mp3',
+album: 'ITz Me',
 cover: 'img/WANNABE.jpg',
 mp3: 'mp3/WANNABE.mp3',
 ogg: ''
 },
 {
-title: 'Insideyou',
+title: 'Inside You',
 artist: 'Milet',
-album: 'Insideyou.mp3',
+album: 'Eyes',
 cover: 'img/insideyou.jpg',
 mp3: 'mp3/insideyou.mp3',
 ogg: ''
 },
 {
-title: 'Wecangethigh',
+title: 'We Can Get High',
 artist: 'Galantis & Yellow Claw',
-album: 'wecangethigh.mp3',
+album: 'We Can Get High',
 cover: 'img/wecangethigh.jpg',
 mp3: 'mp3/wecangethigh.mp3',
+ogg: ''
+},
+		{
+title: '谪仙',
+artist: '叶里',
+album: '',
+cover: 'img/zhexian.jpg',
+mp3: 'mp3/zhexian.mp3',
 ogg: ''
 },];
 
