@@ -108,6 +108,30 @@ album: '炎',
 cover: 'img/yan.jpg',
 mp3: 'mp3/yan.mp3',
 ogg: ''
+},
+{
+title: 'Bless You',
+artist: '家入レオ',
+album: '',
+cover: 'img/blessyou.jpg',
+mp3: 'mp3/blessyou.mp3',
+ogg: ''
+},
+{
+title: '春はゆく',
+artist: 'Aimer',
+album: '春はゆく / marie',
+cover: 'img/haruwayuku.jpg',
+mp3: 'mp3/haruwayuku.mp3',
+ogg: ''
+},
+{
+title: 'DADDY ! DADDY ! DO ! feat. 鈴木愛理',
+artist: '鈴木雅之',
+album: 'ALL TIME ROCK N ROLL',
+cover: 'img/daddy.jpg',
+mp3: 'mp3/daddy.mp3',
+ogg: ''
 },];
 
 	// Load playlist
