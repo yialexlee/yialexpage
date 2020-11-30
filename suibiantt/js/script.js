@@ -52,6 +52,62 @@ album: '',
 cover: 'img/zhexian.jpg',
 mp3: 'mp3/zhexian.mp3',
 ogg: ''
+},
+{
+title: '虹',
+artist: '菅田将暉',
+album: '',
+cover: 'img/niji.jpg',
+mp3: 'mp3/niji.mp3',
+ogg: ''
+},
+{
+title: 'テルーの唄(covered by 蒼莉奈)',
+artist: '手嶌葵',
+album: 'ゲド戦記歌集',
+cover: 'img/teru.jpg',
+mp3: 'mp3/teru.mp3',
+ogg: ''
+},
+{
+title: '同歸',
+artist: '雲の泣',
+album: '明教·劍網三',
+cover: 'img/tonggui.jpg',
+mp3: 'mp3/tonggui.mp3',
+ogg: ''
+},
+{
+title: 'Da zero a cento',
+artist: 'Baby K',
+album: '',
+cover: 'img/dazeroacento.jpg',
+mp3: 'mp3/dazeroacento.mp3',
+ogg: ''
+},
+{
+title: 'You(=I)',
+artist: '볼빨간사춘기',
+album: 'Full Album RED PLANET',
+cover: 'img/you.jpg',
+mp3: 'mp3/you.mp3',
+ogg: ''
+},
+{
+title: 'Alien',
+artist: '이수현',
+album: 'ALIEN',
+cover: 'img/alien.jpg',
+mp3: 'mp3/alien.mp3',
+ogg: ''
+},
+{
+title: '炎',
+artist: 'LISA',
+album: '炎',
+cover: 'img/yan.jpg',
+mp3: 'mp3/yan.mp3',
+ogg: ''
 },];
 
 	// Load playlist
