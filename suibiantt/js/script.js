@@ -132,6 +132,46 @@ album: 'ALL TIME ROCK N ROLL',
 cover: 'img/daddy.jpg',
 mp3: 'mp3/daddy.mp3',
 ogg: ''
+},
+{
+title: '휘파람 Whistle',
+artist: 'Blackpink',
+album: 'SQUARE ONE',
+cover: 'img/whistle.jpg',
+mp3: 'mp3/whistle.mp3',
+ogg: ''
+},
+{
+title: '누구없소',
+artist: 'LEE HI',
+album: '24℃',
+cover: 'img/noone.jpg',
+mp3: 'mp3/noone.mp3',
+ogg: ''
+},
+{
+title: 'ハルジオン',
+artist: 'YOASABI',
+album: '',
+cover: 'img/halzion.jpg',
+mp3: 'mp3/halzion.mp3',
+ogg: ''
+},
+{
+title: '夜に駆ける - THE HOME TAKE (幾田りら)',
+artist: 'YOASABI',
+album: '',
+cover: 'img/yorunikakeru-c.jpg',
+mp3: 'mp3/yorunikakeru-c.mp3',
+ogg: ''
+},
+{
+title: '再会',
+artist: 'LISA x Uru',
+album: '',
+cover: 'img/saikai.jpg',
+mp3: 'mp3/saikai.mp3',
+ogg: ''
 },];
 
 	// Load playlist
