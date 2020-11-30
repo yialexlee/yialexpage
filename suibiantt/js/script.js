@@ -22,7 +22,7 @@ mp3: 'mp3/lovesickgirl.mp3',
 ogg: ''
 },
 {
-title: 'WANNABE.mp3',
+title: 'WANNABE',
 artist: 'ITZY',
 album: 'WANNABE.mp3',
 cover: 'img/WANNABE.jpg',
@@ -30,11 +30,19 @@ mp3: 'mp3/WANNABE.mp3',
 ogg: ''
 },
 {
-title: 'Insideyou.mp3',
+title: 'Insideyou',
 artist: 'Milet',
 album: 'Insideyou.mp3',
 cover: 'img/insideyou.jpg',
 mp3: 'mp3/insideyou.mp3',
+ogg: ''
+},
+{
+title: 'Wecangethigh',
+artist: 'Galantis & Yellow Claw',
+album: 'wecangethigh.mp3',
+cover: 'img/wecangethigh.jpg',
+mp3: 'mp3/wecangethigh.mp3',
 ogg: ''
 },];
 
