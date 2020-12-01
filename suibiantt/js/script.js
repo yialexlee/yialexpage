@@ -190,6 +190,14 @@ mp3: 'mp3/yeban.mp3',
 ogg: ''
 },
 {
+title: '梅香如故',
+artist: '毛不易、周深',
+album: '梅香如故 - 電視劇《如懿傳》片尾曲',
+cover: 'img/meixiang.jpg',
+mp3: 'mp3/meixiang.mp3',
+ogg: ''
+},
+{
 title: '无问',
 artist: '周深',
 album: '',
