@@ -180,6 +180,110 @@ album: '',
 cover: 'img/saikai.jpg',
 mp3: 'mp3/saikai.mp3',
 ogg: ''
+},
+{
+title: '月半小夜曲',
+artist: '李克勤、周深',
+album: '',
+cover: 'img/yeban.jpg',
+mp3: 'mp3/yeban.mp3',
+ogg: ''
+},
+{
+title: '无问',
+artist: '周深',
+album: '',
+cover: 'img/wuwen.jpg',
+mp3: 'mp3/wuwen.mp3',
+ogg: ''
+},
+{
+title: '无问 (现场版）',
+artist: '刘乐瑶',
+album: '',
+cover: 'img/wuwen-c.jpg',
+mp3: 'mp3/wuwen-c.mp3',
+ogg: ''
+},
+{
+title: 'Super Power Girl',
+artist: 'Moon Sung Nam',
+album: 'Strong Woman Do Bong Soon, Pt. 7 (Original Television Soundtrack)',
+cover: 'img/powergirl.jpg',
+mp3: 'mp3/powergirl.mp3',
+ogg: ''
+},
+{
+title: 'I Mean',
+artist: 'UNI.T(유니티)',
+album: '',
+cover: 'img/imean.jpg',
+mp3: 'mp3/imean.mp3',
+ogg: ''
+},
+{
+title: 'BAAM',
+artist: 'MOMOLAND(모모랜드)',
+album: 'Fun to The World',
+cover: 'img/baam.jpg',
+mp3: 'mp3/baam.mp3',
+ogg: ''
+},
+{
+title: 'BBoom BBoom',
+artist: 'MOMOLAND(모모랜드)',
+album: 'GREAT!',
+cover: 'img/bboom.jpg',
+mp3: 'mp3/bboom.mp3',
+ogg: ''
+},
+{
+title: 'How You Like That',
+artist: 'Blackpink',
+album: 'BLACKPINKTHEALBUM',
+cover: 'img/howulikethat.jpg',
+mp3: 'mp3/howulikethat.mp3',
+ogg: ''
+},
+{
+title: 'Eden',
+artist: 'MONKEY MAJIK',
+album: '',
+cover: 'img/eden.jpg',
+mp3: 'mp3/eden.mp3',
+ogg: ''
+},
+{
+title: '打上花火',
+artist: 'DAOKO×米津玄師',
+album: '打上花火',
+cover: 'img/hanabi.jpg',
+mp3: 'mp3/hanabi.mp3',
+ogg: ''
+},
+{
+title: '僕が死のうと思ったのは',
+artist: '中島美嘉',
+album: '',
+cover: 'img/shinohodo.jpg',
+mp3: 'mp3/shinohodo.mp3',
+ogg: ''
+},
+{
+title: '夢と葉桜',
+artist: 'ヲタみん',
+album: '',
+cover: 'img/hazakura.jpg',
+mp3: 'mp3/hazakura.mp3',
+ogg: ''
+},
+{
+title: '生きていたんだよな',
+artist: 'あいみょん',
+album: '',
+cover: 'img/ikite.jpg',
+mp3: 'mp3/ikite.mp3',
+ogg: ''
 },];
 
 	// Load playlist
