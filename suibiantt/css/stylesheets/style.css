@@ -10,7 +10,7 @@ a { outline: none; text-decoration: none; }
 .cor_bs,.cor_bs:hover{color:#ffffff;}
 .keBody{background:url(../images/bodyBg.jpg) repeat #333;}
 .keTitle{height:100px; line-height:100px; font-size:30px; font-family:'微软雅黑'; color:#FFF; text-align:center; background:url(../images/bodyBg3.jpg) repeat-x bottom left; font-weight:normal}
-.kePublic{background:#333; padding:50px;}
+.kePublic{background:#333; padding:1px;}
 .keBottom{color:#FFF; padding-top:25px; line-height:28px; text-align:center; font-family:'微软雅黑'; background:url(../images/bodyBg2.jpg) repeat-x top left; padding-bottom:25px}
 .keTxtP{font-size:16px; color:#ffffff;}
 .keUrl{color:#FFF; font-size:30px;}
