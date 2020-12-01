@@ -14,7 +14,19 @@
 <script src="js/jquery-1.7.2.min.js"></script>
 
 </head>
-
+<style type="text/css">
+    #box {
+        
+        height: 490px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        
+       
+    }
+    #box::-webkit-scrollbar {
+        display: none;
+    }
+</style>
 <body class="keBody">
 
 <h1 class="keTitle">随便听听线上歌曲播放器</h1>
@@ -92,13 +104,13 @@
 	</div>
 
 </div>
-
+<div id="box">
 <ul id="playlist"></ul>
 
 <script src="js/jquery-ui-1.8.17.custom.min.js"></script>
 
 <script src="js/script.js"></script>
-
+</div>
 
 </div>
 
