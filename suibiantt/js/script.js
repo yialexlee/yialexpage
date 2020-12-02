@@ -292,6 +292,142 @@ album: '',
 cover: 'img/ikite.jpg',
 mp3: 'mp3/ikite.mp3',
 ogg: ''
+},
+{
+title: 'Feeling So Good',
+artist: 'Ashley Tisdale',
+album: '',
+cover: 'img/feelingsogood.jpg',
+mp3: 'mp3/feelingsogood.mp3',
+ogg: ''
+},
+{
+title: 'Speechless (cover by 이수현)',
+artist: 'Naomi Scott',
+album: '',
+cover: 'img/speechless.jpg',
+mp3: 'mp3/speechless.mp3',
+ogg: ''
+},
+{
+title: 'Bidadari (cover by 蔡恩雨)',
+artist: 'Ismail Izzani',
+album: '',
+cover: 'img/bidadari.jpg',
+mp3: 'mp3/bidadari.mp3',
+ogg: ''
+},
+{
+title: 'Flashlight',
+artist: 'Jessie J',
+album: '',
+cover: 'img/flashlight.jpg',
+mp3: 'mp3/flashlight.mp3',
+ogg: ''
+},
+{
+title: 'Loved You Once',
+artist: 'Clara Mae',
+album: '',
+cover: 'img/loveduonce.jpg',
+mp3: 'mp3/loveduonce.mp3',
+ogg: ''
+},
+{
+title: 'Oh Yeah',
+artist: 'Wildflowers feat. Christine Smit',
+album: '',
+cover: 'img/ohyeah.jpg',
+mp3: 'mp3/ohyeah.mp3',
+ogg: ''
+},
+{
+title: 'Let Me Down Slowly',
+artist: 'Alec Benjamin',
+album: '',
+cover: 'img/downslowly.jpg',
+mp3: 'mp3/downslowly.mp3',
+ogg: ''
+},
+{
+title: 'Natural',
+artist: 'Imagine Dragons',
+album: '',
+cover: 'img/natural.jpg',
+mp3: 'mp3/natural.mp3',
+ogg: ''
+},
+{
+title: 'Monsters',
+artist: 'Timeflies',
+album: '',
+cover: 'img/monsters.jpg',
+mp3: 'mp3/monsters.mp3',
+ogg: ''
+},
+{
+title: '那年初夏',
+artist: '任然',
+album: '禁獵社 No. 1',
+cover: 'img/nanianchuxia.jpg',
+mp3: 'mp3/nanianchuxia.mp3',
+ogg: ''
+},
+{
+title: '魔鬼中的天使【中国好聲音】第一期',
+artist: '康树龙',
+album: '【中国好聲音】第一期',
+cover: 'img/moguitianshi.jpg',
+mp3: 'mp3/moguitianshi.mp3',
+ogg: ''
+},
+{
+title: '山海【中国好聲音】第一期',
+artist: '黎真吾',
+album: '【中国好聲音】第一期',
+cover: 'img/shanhai.jpg',
+mp3: 'mp3/shanhai.mp3',
+ogg: ''
+},
+{
+title: 'ถ้าเขาจะรัก (ยืนเฉยๆเขาก็รัก) (Enough)',
+artist: 'First Anuwat',
+album: '',
+cover: 'img/enough.jpg',
+mp3: 'mp3/enough.mp3',
+ogg: ''
+},
+{
+title: 'แฟนใหม่หน้าคุ้น',
+artist: 'MAIYARAP ft. MILLI',
+album: '',
+cover: 'img/newfan.jpg',
+mp3: 'mp3/newfan.mp3',
+ogg: ''
+},
+{
+title: 'Who I Am',
+artist: 'Milet',
+album: '',
+cover: 'img/whoiam.jpg',
+mp3: 'mp3/whoiam.mp3',
+ogg: ''
+},
+{
+title: 'ぼくらのレットイットビー 針原 翼 / はりーP (feat. 初音ミク) (cover by 梦音)',
+artist: '針原 翼（はりーP）',
+album: '',
+cover: 'img/bokura.jpg',
+mp3: 'mp3/bokura.mp3',
+ogg: ''
+},
+{
+title: 'マリーゴールド',
+artist: 'あいみょん',
+album: '',
+cover: 'img/marigorudo.jpg',
+mp3: 'mp3/marigorudo.mp3',
+ogg: ''
 },];
 
 	// Load playlist
