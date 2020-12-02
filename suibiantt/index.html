@@ -24,6 +24,11 @@
     #box::-webkit-scrollbar {
         display: none;
     }
+	.box {padding-top:250px;position:fixed;top:0;right:0;z-index:9999;width:140px;cursor:pointer;margin:100px 0 0 0; overflow-x: hidden;}
+	.box{position:absolute;top:expression(eval(document.documentElement.scrollTop));}
+	.box a {display:block;position:relative;height:30px;line-height:30px;margin-bottom:2px;background:#fff;padding-right:10px;width:130px;overflow:hidden;color:#333;cursor:pointer;right:-110px;}
+	.box a:hover {text-decoration:none;color:#1974A1;}.box a:hover span {background:#5FA429}
+	.box a span {display:block;float:left;width:30px;background:#636871;color:#fff;font-size:16px;text-align:center;margin-right:10px;font-style:normal;}
 </style>
 <body class="keBody">
 
@@ -102,6 +107,76 @@
 	</div>
 
 </div>
+<div class="box">
+
+<a href='index-c.html'><span>中</span>中文歌曲歌单</a>
+<a href='index-e.html'><span>英</span>英语歌曲歌单</a>
+<a href='index-j.html'><span>日</span>日语歌曲歌单</a>
+<a href='index-k.html'><span>韩</span>韩语歌曲歌单</a>
+<a href='index-q.html'><span>其</span>其它语言歌单</a>
+<a href='index.html'><span>混</span>混合歌曲歌单</a>
+</div>
+<script type="text/javascript">
+
+$(function() {
+
+var timer = null;
+
+$(".box").mouseenter(function() {
+
+clearTimeout(timer);
+
+var that = $(this);
+
+timer = setTimeout(function() {
+
+that.find("a").each(function(index,ele){
+
+setTimeout(function(){
+
+$(ele).stop().animate({right:0},200);
+
+},50*index);
+
+})
+
+},200)
+
+}).mouseleave(function() {
+
+if(timer) {
+
+clearTimeout(timer);
+
+}
+
+$(this).find("a").each(function(index,ele) {
+
+setTimeout(function(){
+
+$(ele).stop().animate({right:-110},200);
+
+},50*index);
+
+})
+
+})
+
+})
+
+</script>
+
+<script type="text/javascript">
+
+function stops(){
+
+return false;
+
+}
+
+document.oncontextmenu=stops;
+
+</script>
 <div id="box">
 <ul id="playlist"></ul>
 
