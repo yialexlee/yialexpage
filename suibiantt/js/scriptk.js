@@ -93,7 +93,142 @@ cover: 'img/howulikethat.jpg',
 mp3: 'mp3/howulikethat.mp3',
 ogg: ''
 },
-];
+{
+title: 'Dingga(딩가딩가)',
+artist: 'MAMAMOO(마마무)',
+album: '',
+cover: 'img/dingga.jpg',
+mp3: 'mp3/dingga.mp3',
+ogg: ''
+},
+{
+title: 'Eight (에잇)',
+artist: 'IU',
+album: '',
+cover: 'img/eight.jpg',
+mp3: 'mp3/eight.mp3',
+ogg: ''
+},
+{
+title: '꿈인 듯 해 (You Are Like My Dream)',
+artist: 'SinB (GFriend) ',
+album: '도도솔솔라라솔 (Original Television Soundtrack) Pt. 2',
+cover: 'img/uarelikemydream.jpg',
+mp3: 'mp3/uarelikemydream.mp3',
+ogg: ''
+},
+{
+title: 'Loving You',
+artist: '베이비소울,이미주,JIN (러블리즈)',
+album: '도도솔솔라라솔 (Original Television Soundtrack) Pt. 3',
+cover: 'img/uarelikemydream.jpg',
+mp3: 'mp3/lovingu.mp3',
+ogg: ''
+},
+{
+title: 'Hello',
+artist: 'Sohyang(소향)',
+album: '18 again(18 어게인) OST Part.2',
+cover: 'img/hello.jpg',
+mp3: 'mp3/hello.mp3',
+ogg: ''
+},
+{
+title: 'One Person(한사람)',
+artist: 'olji(솔지)',
+album: '18 again(18 어게인) OST Part.4',
+cover: 'img/oneperson.jpg',
+mp3: 'mp3/oneperson.mp3',
+ogg: ''
+},
+{
+title: '하나면 돼요(The Only One)',
+artist: '소유 (SOYOU)',
+album: '18 again(18 어게인) OST Part.1',
+cover: 'img/theonlyone.jpg',
+mp3: 'mp3/theonlyone.mp3',
+ogg: ''
+},
+{
+title: 'Be ok',
+artist: '아일',
+album: '',
+cover: 'img/beok.jpg',
+mp3: 'mp3/beok.mp3',
+ogg: ''
+},
+{
+title: '아예 (Ah Yeah)',
+artist: 'EXID',
+album: '',
+cover: 'img/ahyeah.jpg',
+mp3: 'mp3/ahyeah.mp3',
+ogg: ''
+},
+{
+title: 'Maria',
+artist: '화사',
+album: '',
+cover: 'img/maria.jpg',
+mp3: 'mp3/maria.mp3',
+ogg: ''
+},
+{
+title: 'Wind Inside You(cover by Raon Lee)',
+artist: '최현아',
+album: '',
+cover: 'img/windinsideu.jpg',
+mp3: 'mp3/windinsideu.mp3',
+ogg: ''
+},
+{
+title: 'DUN DUN',
+artist: 'EVERGLOW',
+album: '',
+cover: 'img/dundun.jpg',
+mp3: 'mp3/dundun.mp3',
+ogg: ''
+},
+{
+title: 'Uh-Oh',
+artist: '(G)I-DLE',
+album: '',
+cover: 'img/uhoh.jpg',
+mp3: 'mp3/uhoh.mp3',
+ogg: ''
+},
+{
+title: 'Adios',
+artist: 'EVERGLOW',
+album: '',
+cover: 'img/dundun.jpg',
+mp3: 'mp3/adios.mp3',
+ogg: ''
+},
+{
+title: 'LION',
+artist: '(G)I-DLE',
+album: '',
+cover: 'img/lion.jpg',
+mp3: 'mp3/lion.mp3',
+ogg: ''
+},
+{
+title: 'Deja Vu',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/dejavu.jpg',
+mp3: 'mp3/dejavu.mp3',
+ogg: ''
+},
+{
+title: 'Scar (흉터)',
+artist: '김연지',
+album: 'The Tale of Nokdu (조선로코 녹두전) OST PART 7',
+cover: 'img/scar.jpg',
+mp3: 'mp3/scar.mp3',
+ogg: ''
+},];
 
 	// Load playlist
 	for (var i=0; i<playlist.length; i++){
