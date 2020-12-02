@@ -37,6 +37,14 @@ cover: 'img/newfan.jpg',
 mp3: 'mp3/newfan.mp3',
 ogg: ''
 },
+{
+title: '月半小夜曲',
+artist: '李克勤、周深',
+album: '',
+cover: 'img/yeban.jpg',
+mp3: 'mp3/yeban.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
