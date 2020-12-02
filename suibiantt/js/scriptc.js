@@ -23,14 +23,6 @@ mp3: 'mp3/tonggui.mp3',
 ogg: ''
 },
 {
-title: '月半小夜曲',
-artist: '李克勤、周深',
-album: '',
-cover: 'img/yeban.jpg',
-mp3: 'mp3/yeban.mp3',
-ogg: ''
-},
-{
 title: '梅香如故',
 artist: '毛不易、周深',
 album: '梅香如故 - 電視劇《如懿傳》片尾曲',
