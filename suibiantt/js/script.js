@@ -908,6 +908,134 @@ album: '',
 cover: 'img/dakarabokuwaongakuwoyameta.jpg',
 mp3: 'mp3/dakarabokuwaongakuwoyameta.mp3',
 ogg: ''
+},
+{
+title: 'Everyday, Everynight',
+artist: '송지은',
+album: '도도솔솔라라솔 OST Part.15',
+cover: 'img/everydayeverynight.jpg',
+mp3: 'mp3/everydayeverynight.mp3',
+ogg: ''
+},
+{
+title: 'SECRET',
+artist: 'Yuju GFRIEND (유주(여자친구)) Feat. ISHXRK',
+album: '앨리스 OST Part 1',
+cover: 'img/secret.jpg',
+mp3: 'mp3/secret.mp3',
+ogg: ''
+},
+{
+title: '별',
+artist: '임한별',
+album: '앨리스 OST Part 3',
+cover: 'img/byeol.jpg',
+mp3: 'mp3/byeol.mp3',
+ogg: ''
+},
+{
+title: 'Why (내 맘이 자꾸 왜 이래)',
+artist: 'LEEXLEE',
+album: '',
+cover: 'img/why.jpg',
+mp3: 'mp3/why.mp3',
+ogg: ''
+},
+{
+title: 'SOLO',
+artist: 'JENNIE',
+album: '',
+cover: 'img/solo.jpg',
+mp3: 'mp3/solo.mp3',
+ogg: ''
+},
+{
+title: 'Remember Me',
+artist: 'Gummy',
+album: '',
+cover: 'img/rememberme.jpg',
+mp3: 'mp3/rememberme.mp3',
+ogg: ''
+},
+{
+title: 'No',
+artist: 'CLC',
+album: 'No.1',
+cover: 'img/no.jpg',
+mp3: 'mp3/no.mp3',
+ogg: ''
+},
+{
+title: '뚜두뚜두 (DDU-DU DDU-DU)',
+artist: 'BLACKPINK',
+album: '',
+cover: 'img/ddududdudu.jpg',
+mp3: 'mp3/ddududdudu.mp3',
+ogg: ''
+},
+{
+title: '마지막처럼 (AS IF ITS YOUR LAST)',
+artist: 'BLACKPINK',
+album: '',
+cover: 'img/asifitsyourlast.jpg',
+mp3: 'mp3/asifitsyourlast.mp3',
+ogg: ''
+},
+{
+title: '불장난 (PLAYING WITH FIRE)',
+artist: 'BLACKPINK',
+album: '',
+cover: 'img/playingwithfire.jpg',
+mp3: 'mp3/playingwithfire.mp3',
+ogg: ''
+},
+{
+title: 'Left & Right',
+artist: 'SEVENTEEN',
+album: '',
+cover: 'img/leftnright.jpg',
+mp3: 'mp3/leftnright.mp3',
+ogg: ''
+},
+{
+title: 'Oh my god',
+artist: '(G)I-DLE',
+album: 'I trust',
+cover: 'img/ohmygod.jpg',
+mp3: 'mp3/ohmygod.mp3',
+ogg: ''
+},
+{
+title: 'Thumbs Up',
+artist: 'MOMOLAND(모모랜드)',
+album: '',
+cover: 'img/thumbsup.jpg',
+mp3: 'mp3/thumbsup.mp3',
+ogg: ''
+},
+{
+title: 'Say My Name',
+artist: 'ANS',
+album: '',
+cover: 'img/saymyname.jpg',
+mp3: 'mp3/saymyname.mp3',
+ogg: ''
+},
+{
+title: '날 보러 와요 (Come See Me)',
+artist: 'AOA',
+album: 'NEW MOON',
+cover: 'img/comeseeme.jpg',
+mp3: 'mp3/comeseeme.mp3',
+ogg: ''
+},
+{
+title: 'HIP',
+artist: 'MAMAMOO (마마무)',
+album: '',
+cover: 'img/hip.jpg',
+mp3: 'mp3/hip.mp3',
+ogg: ''
 },];
 
 	// Load playlist
