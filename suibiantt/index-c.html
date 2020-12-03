@@ -1,1 +1,199 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="icon" href="../images/iconurl.png" type="image/x-icon"/><meta property="og:image" content="../images/iconurl.png" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>随便听听线上歌曲播放器</title><link rel="stylesheet" href="css/stylesheets/style.css"><script src="js/jquery-1.7.2.min.js"></script></head><style type="text/css">    #box {                height: 490px;        overflow-x: hidden;        overflow-y: scroll;                   }    #box::-webkit-scrollbar {        display: none;    }	.box {padding-top:250px;position:fixed;top:0;right:0;z-index:9999;width:140px;cursor:pointer;margin:100px 0 0 0; overflow-x: hidden;}	.box{position:absolute;top:expression(eval(document.documentElement.scrollTop));}	.box a {display:block;position:relative;height:30px;line-height:30px;margin-bottom:2px;background:#fff;padding-right:10px;width:130px;overflow:hidden;color:#333;cursor:pointer;right:-110px;}	.box a:hover {text-decoration:none;color:#1974A1;}.box a:hover span {background:#5FA429}	.box a span {display:block;float:left;width:30px;background:#636871;color:#fff;font-size:16px;text-align:center;margin-right:10px;font-style:normal;}</style><body class="keBody"><h1 class="keTitle">随便听听线上歌曲播放器</h1><div class="kePublic"><div id="background"></div><div id="player">	<div class="cover"></div>	<div class="ctrl">		<div class="tag">			<strong>Title</strong>			<span class="artist">Artist</span>			<span class="album">Album</span>		</div>		<div class="control">			<div class="left">				<div class="rewind icon"></div>				<div class="playback icon"></div>				<div class="fastforward icon"></div>			</div>			<div class="volume right">				<div class="mute icon left"></div>				<div class="slider left">					<div class="pace"></div>				</div>			</div>		</div>		<div class="progress">			<div class="slider">				<div class="loaded"></div>				<div class="pace"></div>			</div>			<div class="timer left">0:00</div>			<div class="right">				<div class="repeat icon"></div>				<div class="shuffle icon"></div>			</div>		</div>	</div></div><div class="box"><a href='index-c.html'><span>中</span>中文歌曲歌单</a><a href='index-e.html'><span>英</span>英语歌曲歌单</a><a href='index-j.html'><span>日</span>日语歌曲歌单</a><a href='index-k.html'><span>韩</span>韩语歌曲歌单</a><a href='index-q.html'><span>其</span>其它语言歌单</a><a href='index.html'><span>混</span>混合歌曲歌单</a></div><script type="text/javascript">$(function() {var timer = null;$(".box").mouseenter(function() {clearTimeout(timer);var that = $(this);timer = setTimeout(function() {that.find("a").each(function(index,ele){setTimeout(function(){$(ele).stop().animate({right:0},200);},50*index);})},200)}).mouseleave(function() {if(timer) {clearTimeout(timer);}$(this).find("a").each(function(index,ele) {setTimeout(function(){$(ele).stop().animate({right:-110},200);},50*index);})})})</script><script type="text/javascript">function stops(){return false;}document.oncontextmenu=stops;</script><div id="box"><ul id="playlist"></ul><script src="js/jquery-ui-1.8.17.custom.min.js"></script><script src="js/scriptc.js"></script></div></div></body></html>
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="icon" href="../images/iconurl.png" type="image/x-icon"/>
+<meta property="og:image" content="../images/iconurl.png" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>随便听听线上歌曲播放器</title>
+
+<link rel="stylesheet" href="css/stylesheets/style.css">
+
+<script src="js/jquery-1.7.2.min.js"></script>
+</head>
+<style type="text/css">
+    #box {
+        
+        height: 490px;
+        overflow-x: hidden;
+        overflow-y: scroll;
+        
+       
+    }
+    #box::-webkit-scrollbar {
+        display: none;
+    }
+	.box {padding-top:250px;position:fixed;top:0;right:0;z-index:9999;width:140px;cursor:pointer;margin:100px 0 0 0; overflow-x: hidden;}
+	.box{position:absolute;top:expression(eval(document.documentElement.scrollTop));}
+	.box a {display:block;position:relative;height:30px;line-height:30px;margin-bottom:2px;background:#fff;padding-right:10px;width:130px;overflow:hidden;color:#333;cursor:pointer;right:-110px;}
+	.box a:hover {text-decoration:none;color:#1974A1;}.box a:hover span {background:#5FA429}
+	.box a span {display:block;float:left;width:30px;background:#636871;color:#fff;font-size:16px;text-align:center;margin-right:10px;font-style:normal;}
+</style>
+<body class="keBody">
+
+<h1 class="keTitle">随便听听线上歌曲播放器</h1>
+
+<div class="kePublic">
+
+
+
+<div id="background"></div>
+
+<div id="player">
+
+	<div class="cover"></div>
+
+	<div class="ctrl">
+
+		<div class="tag">
+
+			<strong>Title</strong>
+
+			<span class="artist">Artist</span>
+
+			<span class="album">Album</span>
+
+		</div>
+
+		<div class="control">
+
+			<div class="left">
+
+				<div class="rewind icon"></div>
+
+				<div class="playback icon"></div>
+
+				<div class="fastforward icon"></div>
+
+			</div>
+
+			<div class="volume right">
+
+				<div class="mute icon left"></div>
+
+				<div class="slider left">
+
+					<div class="pace"></div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+		<div class="progress">
+
+			<div class="slider">
+
+				<div class="loaded"></div>
+
+				<div class="pace"></div>
+
+			</div>
+
+			<div class="timer left">0:00</div>
+
+			<div class="right">
+
+				<div class="repeat icon"></div>
+
+				<div class="shuffle icon"></div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+<div class="box">
+
+<a href='index-c.html'><span>中</span>中文歌曲歌单</a>
+<a href='index-e.html'><span>英</span>英语歌曲歌单</a>
+<a href='index-j.html'><span>日</span>日语歌曲歌单</a>
+<a href='index-k.html'><span>韩</span>韩语歌曲歌单</a>
+<a href='index-q.html'><span>其</span>其它语言歌单</a>
+<a href='index.html'><span>混</span>混合歌曲歌单</a>
+</div>
+<script type="text/javascript">
+
+$(function() {
+
+var timer = null;
+
+$(".box").mouseenter(function() {
+
+clearTimeout(timer);
+
+var that = $(this);
+
+timer = setTimeout(function() {
+
+that.find("a").each(function(index,ele){
+
+setTimeout(function(){
+
+$(ele).stop().animate({right:0},200);
+
+},50*index);
+
+})
+
+},200)
+
+}).mouseleave(function() {
+
+if(timer) {
+
+clearTimeout(timer);
+
+}
+
+$(this).find("a").each(function(index,ele) {
+
+setTimeout(function(){
+
+$(ele).stop().animate({right:-110},200);
+
+},50*index);
+
+})
+
+})
+
+})
+
+</script>
+
+<script type="text/javascript">
+
+function stops(){
+
+return false;
+
+}
+
+document.oncontextmenu=stops;
+
+</script>
+<div id="box">
+<ul id="playlist"></ul>
+
+<script src="js/jquery-ui-1.8.17.custom.min.js"></script>
+
+<script src="js/scriptc.js"></script>
+</div>
+
+</div>
+<script type="text/javascript">
+var idex = 0;
+jQuery(document).ready(function($) {$("body").click(function(e) {var key = new Array("♪","♫","♩","♬",);var $i = $("<span></span>").text(key[idex]);idex = Math.floor(Math.random()*5)
+var x = e.pageX,y = e.pageY;
+$i.css({"z-index": 5201314,"top": y- 20,"left": x,"position": "absolute","font-weight": "bold","font-size": "30px","color": "rgb("+Math.floor(Math.random()*255)+","+Math.floor(Math.random()*255)+","+Math.floor(Math.random()*255)+")"});
+ $("body").append($i);
+$i.animate({"top": y - 70,"left": x+90,"font-size": 20,"opacity": 0},15*100,function() {$i.remove();});});});
+</script>
+</body>
+
+</html>
