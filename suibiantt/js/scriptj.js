@@ -156,6 +156,350 @@ album: '',
 cover: 'img/marigorudo.jpg',
 mp3: 'mp3/marigorudo.mp3',
 ogg: ''
+},
+{
+title: 'Secret Love',
+artist: '安斉かれん',
+album: '',
+cover: 'img/secretlove.jpg',
+mp3: 'mp3/secretlove.mp3',
+ogg: ''
+},
+{
+title: '群青',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/gunjo.jpg',
+mp3: 'mp3/gunjo.mp3',
+ogg: ''
+},
+{
+title: '笑えれば (cover by さやカバー)',
+artist: 'ウルフルズ',
+album: '',
+cover: 'img/waraeba.jpg',
+mp3: 'mp3/waraeba.mp3',
+ogg: ''
+},
+{
+title: 'Etoile',
+artist: 'OH MY GIRL',
+album: '',
+cover: 'img/etoile.jpg',
+mp3: 'mp3/etoile.mp3',
+ogg: ''
+},
+{
+title: 'BLUE ROSE knows',
+artist: 'OH MY GIRL',
+album: '',
+cover: 'img/blueroseknows.jpg',
+mp3: 'mp3/blueroseknows.mp3',
+ogg: ''
+},
+{
+title: 'パプリカ',
+artist: '米津玄師',
+album: '',
+cover: 'img/papurika.jpg',
+mp3: 'mp3/papurika.mp3',
+ogg: ''
+},
+{
+title: '僕のこと (Covered by コバソロ & 鈴木瑛美子)',
+artist: 'Mrs. GREEN APPLE ',
+album: '',
+cover: 'img/bokunokoto.jpg',
+mp3: 'mp3/bokunokoto.mp3',
+ogg: ''
+},
+{
+title: 'マリーミー',
+artist: 'Rude-α',
+album: '',
+cover: 'img/marimi.jpg',
+mp3: 'mp3/marimi.mp3',
+ogg: ''
+},
+{
+title: 'おまじない',
+artist: 'ほのかりん',
+album: '',
+cover: 'img/omajinai.jpg',
+mp3: 'mp3/omajinai.mp3',
+ogg: ''
+},
+{
+title: 'ANIMA',
+artist: 'ReoNa',
+album: '',
+cover: 'img/anima.jpg',
+mp3: 'mp3/anima.mp3',
+ogg: ''
+},
+{
+title: 'Umbrella',
+artist: 'SEKAI NO OWARI',
+album: '',
+cover: 'img/umbrella.jpg',
+mp3: 'mp3/umbrella.mp3',
+ogg: ''
+},
+{
+title: '心做し [LIVE]',
+artist: 'majiko / まじ娘',
+album: '',
+cover: 'img/kokoronashi.jpg',
+mp3: 'mp3/kokoronashi.mp3',
+ogg: ''
+},
+{
+title: 'ひび割れた世界',
+artist: 'majiko / まじ娘',
+album: '',
+cover: 'img/hibiwaretasekai.jpg',
+mp3: 'mp3/hibiwaretasekai.mp3',
+ogg: ''
+},
+{
+title: '景色',
+artist: '花譜',
+album: '',
+cover: 'img/keshiki.jpg',
+mp3: 'mp3/keshiki.mp3',
+ogg: ''
+},
+{
+title: '嘘月',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/usotsuki.jpg',
+mp3: 'mp3/usotsuki.mp3',
+ogg: ''
+},
+{
+title: '裸の心',
+artist: 'あいみょん',
+album: '',
+cover: 'img/hadakanokokoro.jpg',
+mp3: 'mp3/hadakanokokoro.mp3',
+ogg: ''
+},
+{
+title: 'それを愛と呼ぶだけ',
+artist: 'マフマフ',
+album: '',
+cover: 'img/sorewoaitoyobudake.jpg',
+mp3: 'mp3/sorewoaitoyobudake.mp3',
+ogg: ''
+},
+{
+title: 'エイリアンエイリアン (cover by Raon Lee)',
+artist: 'ナユタン星人',
+album: '',
+cover: 'img/alienalien.jpg',
+mp3: 'mp3/alienalien.mp3',
+ogg: ''
+},
+{
+title: 'Neko',
+artist: 'DISH',
+album: '',
+cover: 'img/neko.jpg',
+mp3: 'mp3/neko.mp3',
+ogg: ''
+},
+{
+title: 'ポラリス',
+artist: 'BLUE ENCOUNT',
+album: '',
+cover: 'img/polaris.jpg',
+mp3: 'mp3/polaris.mp3',
+ogg: ''
+},
+{
+title: '未来コネクション',
+artist: 'ReaL',
+album: '',
+cover: 'img/miraikoneshiyon.jpg',
+mp3: 'mp3/miraikoneshiyon.mp3',
+ogg: ''
+},
+{
+title: 'プロローグ',
+artist: 'Uru',
+album: '',
+cover: 'img/burogu.jpg',
+mp3: 'mp3/burogu.mp3',
+ogg: ''
+},
+{
+title: 'Shine',
+artist: '家入レオ',
+album: '',
+cover: 'img/shine.jpg',
+mp3: 'mp3/shine.mp3',
+ogg: ''
+},
+{
+title: 'Summers Still Burning',
+artist: '川口レイジ',
+album: '',
+cover: 'img/summersstillburning.jpg',
+mp3: 'mp3/summersstillburning.mp3',
+ogg: ''
+},
+{
+title: 'あなたがいることで',
+artist: 'Uru',
+album: '',
+cover: 'img/anatagairukotode.jpg',
+mp3: 'mp3/anatagairukotode.mp3',
+ogg: ''
+},
+{
+title: 'YELLOW',
+artist: '神山羊',
+album: '',
+cover: 'img/yellow.jpg',
+mp3: 'mp3/yellow.mp3',
+ogg: ''
+},
+{
+title: 'D.D.D.D.',
+artist: '(K)NoW_NAME',
+album: '',
+cover: 'img/dddd.jpg',
+mp3: 'mp3/dddd.mp3',
+ogg: ''
+},
+{
+title: 'Blaaaw',
+artist: 'lol-エルオーエル-',
+album: '',
+cover: 'img/blaaaw.jpg',
+mp3: 'mp3/blaaaw.mp3',
+ogg: ''
+},
+{
+title: 'BaNG!!!',
+artist: 'BAE',
+album: '',
+cover: 'img/bang.jpg',
+mp3: 'mp3/bang.mp3',
+ogg: ''
+},
+{
+title: '雪の華',
+artist: '中島美嘉',
+album: '',
+cover: 'img/yukinohane.jpg',
+mp3: 'mp3/yukinohane.mp3',
+ogg: ''
+},
+{
+title: '別の人の彼女になたよ (cover by Kobasolo x 相沢)',
+artist: 'Wacci',
+album: '',
+cover: 'img/betsunohitonokanojoninatayo.jpg',
+mp3: 'mp3/betsunohitonokanojoninatayo.mp3',
+ogg: ''
+},
+{
+title: 'R・I・O・T',
+artist: 'RAISE A SUILEN',
+album: 'ERA',
+cover: 'img/riot.jpg',
+mp3: 'mp3/riot.mp3',
+ogg: ''
+},
+{
+title: '夢を打ち抜く瞬間に',
+artist: 'Poppin Party',
+album: '',
+cover: 'img/yumewouchinukushunkanni.jpg',
+mp3: 'mp3/yumewouchinukushunkanni.mp3',
+ogg: ''
+},
+{
+title: '命に嫌われている',
+artist: 'まふまふ',
+album: '',
+cover: 'img/inochinikirawareteiru.jpg',
+mp3: 'mp3/inochinikirawareteiru.mp3',
+ogg: ''
+},
+{
+title: 'A little love song (Full Covered by Kobasoro & apricot Masako)',
+artist: 'MONGOL800',
+album: '',
+cover: 'img/alittlelovesong.jpg',
+mp3: 'mp3/alittlelovesong.mp3',
+ogg: ''
+},
+{
+title: '平行線',
+artist: '酸欠少女 さユり',
+album: '',
+cover: 'img/hekosen.jpg',
+mp3: 'mp3/hekosen.mp3',
+ogg: ''
+},
+{
+title: 'Birthday song',
+artist: '酸欠少女 さユり',
+album: '',
+cover: 'img/birthdaysong.jpg',
+mp3: 'mp3/birthdaysong.mp3',
+ogg: ''
+},
+{
+title: 'No 1（Full Cover by Kobasolo & Lefty Hand Cream)',
+artist: '西野カナ',
+album: '',
+cover: 'img/no1.jpg',
+mp3: 'mp3/no1.mp3',
+ogg: ''
+},
+{
+title: 'まちがいさがし',
+artist: '菅田将暉',
+album: '',
+cover: 'img/machigaisagashi.jpg',
+mp3: 'mp3/machigaisagashi.mp3',
+ogg: ''
+},
+{
+title: 'Main actor',
+artist: '美波',
+album: '',
+cover: 'img/mainactor.jpg',
+mp3: 'mp3/mainactor.mp3',
+ogg: ''
+},
+{
+title: 'ホロネス',
+artist: '美波',
+album: '',
+cover: 'img/hollowness.jpg',
+mp3: 'mp3/hollowness.mp3',
+ogg: ''
+},
+{
+title: 'カワキヲアメク',
+artist: '美波',
+album: '',
+cover: 'img/cryingforrain.jpg',
+mp3: 'mp3/cryingforrain.mp3',
+ogg: ''
+},
+{
+title: 'だから僕は音楽を辞めた',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/dakarabokuwaongakuwoyameta.jpg',
+mp3: 'mp3/dakarabokuwaongakuwoyameta.mp3',
+ogg: ''
 },];
 
 	// Load playlist
