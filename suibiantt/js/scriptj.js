@@ -500,6 +500,118 @@ album: '',
 cover: 'img/dakarabokuwaongakuwoyameta.jpg',
 mp3: 'mp3/dakarabokuwaongakuwoyameta.mp3',
 ogg: ''
+},
+{
+title: 'Make you happy',
+artist: 'NiziU',
+album: '',
+cover: 'img/makeuhappy.jpg',
+mp3: 'mp3/makeuhappy.mp3',
+ogg: ''
+},
+{
+title: 'Tell me',
+artist: 'Milet',
+album: '',
+cover: 'img/tellme.jpg',
+mp3: 'mp3/tellme.mp3',
+ogg: ''
+},
+{
+title: '花に亡霊',
+artist: 'ヨルシカ',
+album: '盗作 (Plagiarism)',
+cover: 'img/hananiborei.jpg',
+mp3: 'mp3/hananiborei.mp3',
+ogg: ''
+},
+{
+title: '好きと言わせたい',
+artist: 'IZ*ONE',
+album: '',
+cover: 'img/sukitoiwasetai.jpg',
+mp3: 'mp3/sukitoiwasetai.mp3',
+ogg: ''
+},
+{
+title: 'Lonely days',
+artist: '有華',
+album: '',
+cover: 'img/lonelydays.jpg',
+mp3: 'mp3/lonelydays.mp3',
+ogg: ''
+},
+{
+title: 'Ref:rain',
+artist: 'Aimer',
+album: '',
+cover: 'img/refrain.jpg',
+mp3: 'mp3/refrain.mp3',
+ogg: ''
+},
+{
+title: 'ゼロ ユニバース',
+artist: '山本彩',
+album: '',
+cover: 'img/zerouniverse.jpg',
+mp3: 'mp3/zerouniverse.mp3',
+ogg: ''
+},
+{
+title: 'カムパネルラ',
+artist: '米津玄師',
+album: 'STRAY SHEEP',
+cover: 'img/kamupanerura.jpg',
+mp3: 'mp3/kamupanerura.mp3',
+ogg: ''
+},
+{
+title: '感電',
+artist: '米津玄師',
+album: 'STRAY SHEEP',
+cover: 'img/kamupanerura.jpg',
+mp3: 'mp3/ganden.mp3',
+ogg: ''
+},
+{
+title: 'SHINEMAGIC',
+artist: 'ZOC',
+album: '',
+cover: 'img/shinemagic.jpg',
+mp3: 'mp3/shinemagic.mp3',
+ogg: ''
+},
+{
+title: 'Lemon',
+artist: '米津玄師',
+album: '',
+cover: 'img/lemon.jpg',
+mp3: 'mp3/lemon.mp3',
+ogg: ''
+},
+{
+title: 'Pretender',
+artist: '髭男dism',
+album: '',
+cover: 'img/pretender.jpg',
+mp3: 'mp3/pretender.mp3',
+ogg: ''
+},
+{
+title: 'One Touch',
+artist: 'Milet',
+album: '',
+cover: 'img/onetouch.jpg',
+mp3: 'mp3/onetouch.mp3',
+ogg: ''
+},
+{
+title: 'アシンメトリー',
+artist: '安田レイ',
+album: '',
+cover: 'img/ashinmetori.jpg',
+mp3: 'mp3/ashinmetori.mp3',
+ogg: ''
 },];
 
 	// Load playlist
