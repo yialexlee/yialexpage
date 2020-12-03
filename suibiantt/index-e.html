@@ -28,6 +28,71 @@
 	.box a {display:block;position:relative;height:30px;line-height:30px;margin-bottom:2px;background:#fff;padding-right:10px;width:130px;overflow:hidden;color:#333;cursor:pointer;right:-110px;}
 	.box a:hover {text-decoration:none;color:#1974A1;}.box a:hover span {background:#5FA429}
 	.box a span {display:block;float:left;width:30px;background:#636871;color:#fff;font-size:16px;text-align:center;margin-right:10px;font-style:normal;}
+	#button {
+  display: inline-block;
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  transition: background-color .3s, 
+    opacity .5s, visibility .5s;
+  opacity: 0;
+  visibility: hidden;
+  z-index: 1000;
+}
+#button::after {
+  content: "\f077";
+  font-family: FontAwesome;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  line-height: 50px;
+  color: #fff;
+}
+#button:hover {
+  cursor: pointer;
+  background-color: #5FA429;
+}
+#button:active {
+  background-color: #FF9800;
+}
+#button.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+/* Styles for the content section */
+
+.content {
+  width: 77%;
+  margin: 50px auto;
+  font-family: 'Merriweather', serif;
+  font-size: 17px;
+  color: #6c767a;
+  line-height: 1.9;
+}
+@media (min-width: 500px) {
+  .content {
+    width: 43%;
+  }
+  #button {
+    margin: 30px;
+  }
+}
+.content h1 {
+  margin-bottom: -10px;
+  color: #03a9f4;
+  line-height: 1.5;
+}
+.content h3 {
+  font-style: italic;
+  color: #96a2a7;
+}
+
 </style>
 <body class="keBody">
 
@@ -184,7 +249,7 @@ document.oncontextmenu=stops;
 <script src="js/scripte.js"></script>
 </div>
 
-</div>
+</div><a id="button"></a>
 <script type="text/javascript">
 var idex = 0;
 jQuery(document).ready(function($) {$("body").click(function(e) {var key = new Array("♪","♫","♩","♬",);var $i = $("<span></span>").text(key[idex]);idex = Math.floor(Math.random()*5)
@@ -192,6 +257,20 @@ var x = e.pageX,y = e.pageY;
 $i.css({"z-index": 5201314,"top": y- 20,"left": x,"position": "absolute","font-weight": "bold","font-size": "30px","color": "rgb("+Math.floor(Math.random()*255)+","+Math.floor(Math.random()*255)+","+Math.floor(Math.random()*255)+")"});
  $("body").append($i);
 $i.animate({"top": y - 70,"left": x+90,"font-size": 20,"opacity": 0},15*100,function() {$i.remove();});});});
+var btn = $('#button');
+
+$(window).scroll(function() {
+  if ($(window).scrollTop() > 100) {
+    btn.addClass('show');
+  } else {
+    btn.removeClass('show');
+  }
+});
+
+btn.on('click', function(e) {
+  e.preventDefault();
+  $('html, body').animate({scrollTop:0}, '100');
+});
 </script>
 </body>
 
