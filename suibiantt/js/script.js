@@ -1172,6 +1172,14 @@ album: '',
 cover: 'img/dynamite.jpg',
 mp3: 'mp3/dynamite.mp3',
 ogg: ''
+},
+{
+title: 'I CANT STOP ME',
+artist: 'TWICE',
+album: 'Eyes wide open',
+cover: 'img/icantstopme.jpg',
+mp3: 'mp3/icantstopme.mp3',
+ogg: ''
 },];
 
 	// Load playlist
