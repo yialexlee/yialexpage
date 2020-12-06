@@ -1148,6 +1148,30 @@ album: '',
 cover: 'img/ashinmetori.jpg',
 mp3: 'mp3/ashinmetori.mp3',
 ogg: ''
+},
+{
+title: '비올레타 (Violeta)',
+artist: 'IZ*ONE',
+album: '',
+cover: 'img/violeta.jpg',
+mp3: 'mp3/violeta.mp3',
+ogg: ''
+},
+{
+title: '환상동화 (Secret Story of the Swan)',
+artist: 'IZ*ONE',
+album: 'Oneiric Diary',
+cover: 'img/storyswan.jpg',
+mp3: 'mp3/storyswan.mp3',
+ogg: ''
+},
+{
+title: 'Dynamite',
+artist: 'BTS',
+album: '',
+cover: 'img/dynamite.jpg',
+mp3: 'mp3/dynamite.mp3',
+ogg: ''
 },];
 
 	// Load playlist
