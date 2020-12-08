@@ -612,6 +612,14 @@ album: '',
 cover: 'img/ashinmetori.jpg',
 mp3: 'mp3/ashinmetori.mp3',
 ogg: ''
+},
+{
+title: 'GirlsSpkOut (Feat.ちゃんみな)',
+artist: '太妍(TAEYEON)',
+album: 'GirlsSpkOut - The 2nd Album',
+cover: 'img/girlsspkout.jpg',
+mp3: 'mp3/girlsspkout.mp3',
+ogg: ''
 },];
 
 	// Load playlist
