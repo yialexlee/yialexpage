@@ -1180,6 +1180,118 @@ album: 'Eyes wide open',
 cover: 'img/icantstopme.jpg',
 mp3: 'mp3/icantstopme.mp3',
 ogg: ''
+},
+{
+title: 'HELICOPTER',
+artist: 'CLC',
+album: '',
+cover: 'img/helicopter.jpg',
+mp3: 'mp3/helicopter.mp3',
+ogg: ''
+},
+{
+title: 'Hobgoblin',
+artist: 'CLC',
+album: '',
+cover: 'img/hobgoblin.jpg',
+mp3: 'mp3/hobgoblin.mp3',
+ogg: ''
+},
+{
+title: 'HANN(Alone)',
+artist: '(G)I-DLE',
+album: '',
+cover: 'img/alone.jpg',
+mp3: 'mp3/alone.mp3',
+ogg: ''
+},
+{
+title: 'Senorita',
+artist: '(G)I-DLE',
+album: 'I MADE',
+cover: 'img/senorita.jpg',
+mp3: 'mp3/senorita.mp3',
+ogg: ''
+},
+{
+title: 'Egotistic',
+artist: 'MAMAMOO(마마무)',
+album: 'RED MOON',
+cover: 'img/egotistic.jpg',
+mp3: 'mp3/egotistic.mp3',
+ogg: ''
+},
+{
+title: 'PIRI',
+artist: 'Dreamcatcher',
+album: 'The End of Nightmare',
+cover: 'img/piri.jpg',
+mp3: 'mp3/piri.mp3',
+ogg: ''
+},
+{
+title: 'Dumb',
+artist: 'BVNDIT',
+album: '',
+cover: 'img/dumb.jpg',
+mp3: 'mp3/dumb.mp3',
+ogg: ''
+},
+{
+title: 'Dramatic',
+artist: 'BVNDIT',
+album: '',
+cover: 'img/dramatic.jpg',
+mp3: 'mp3/dramatic.mp3',
+ogg: ''
+},
+{
+title: 'Bon Bon Chocolat',
+artist: 'EVERGLOW',
+album: '',
+cover: 'img/bonbonchocolat.jpg',
+mp3: 'mp3/bonbonchocolat.mp3',
+ogg: ''
+},
+{
+title: 'TWIT',
+artist: '화사',
+album: '',
+cover: 'img/twit.jpg',
+mp3: 'mp3/twit.mp3',
+ogg: ''
+},
+{
+title: 'A SONG WRITTEN EASILY',
+artist: 'ONEUS',
+album: '',
+cover: 'img/asongwritteneasily.jpg',
+mp3: 'mp3/asongwritteneasily.mp3',
+ogg: ''
+},
+{
+title: 'THANXX',
+artist: 'ATEEZ',
+album: '',
+cover: 'img/thanxx.jpg',
+mp3: 'mp3/thanxx.mp3',
+ogg: ''
+},
+{
+title: 'Panorama',
+artist: 'IZ*ONE',
+album: 'Into the Stars',
+cover: 'img/panorama.jpg',
+mp3: 'mp3/panorama.mp3',
+ogg: ''
+},
+{
+title: 'MAGO 가사',
+artist: 'GFRIEND',
+album: '回:Walpurgis Night',
+cover: 'img/mago.jpg',
+mp3: 'mp3/mago.mp3',
+ogg: ''
 },];
 
 	// Load playlist
