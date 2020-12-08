@@ -500,6 +500,30 @@ album: '回:Walpurgis Night',
 cover: 'img/mago.jpg',
 mp3: 'mp3/mago.mp3',
 ogg: ''
+},
+{
+title: 'UR',
+artist: '太妍(TAEYEON)',
+album: 'I - The 1st Mini Album',
+cover: 'img/ur.jpg',
+mp3: 'mp3/ur.mp3',
+ogg: ''
+},
+{
+title: 'I',
+artist: '太妍(TAEYEON)',
+album: 'I - The 1st Mini Album',
+cover: 'img/ur.jpg',
+mp3: 'mp3/i.mp3',
+ogg: ''
+},
+{
+title: '불티 (Spark)',
+artist: '太妍(TAEYEON)',
+album: 'Purpose - The 2nd Album',
+cover: 'img/spark.jpg',
+mp3: 'mp3/spark.mp3',
+ogg: ''
 },];
 
 	// Load playlist
