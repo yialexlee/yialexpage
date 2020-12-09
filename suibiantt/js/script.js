@@ -1352,7 +1352,7 @@ ogg: ''
 {
 title: 'PAIN IS BEAUTY',
 artist: 'ちゃんみな',
-album: '未成年',
+album: 'PAIN IS BEAUTY',
 cover: 'img/painisbeauty.jpg',
 mp3: 'mp3/painisbeauty.mp3',
 ogg: ''
