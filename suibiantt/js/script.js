@@ -599,7 +599,7 @@ ogg: ''
 },
 {
 title: 'BLUE ROSE knows',
-artist: 'OH MY GIRL',
+artist: 'MindaRyn',
 album: '',
 cover: 'img/blueroseknows.jpg',
 mp3: 'mp3/blueroseknows.mp3',
@@ -1323,6 +1323,38 @@ artist: '太妍(TAEYEON)',
 album: 'GirlsSpkOut - The 2nd Album',
 cover: 'img/girlsspkout.jpg',
 mp3: 'mp3/girlsspkout.mp3',
+ogg: ''
+},
+{
+title: 'Let Me Hear',
+artist: 'Fear, and Loathing in Las Vegas',
+album: 'Feeling of Unity',
+cover: 'img/letmehear.jpg',
+mp3: 'mp3/letmehear.mp3',
+ogg: ''
+},
+{
+title: 'ダダダダ天使',
+artist: 'アズマリム',
+album: '',
+cover: 'img/dadadadatenshi.jpg',
+mp3: 'mp3/dadadadatenshi.mp3',
+ogg: ''
+},
+{
+title: 'Lady',
+artist: 'ちゃんみな',
+album: '未成年',
+cover: 'img/lady.jpg',
+mp3: 'mp3/lady.mp3',
+ogg: ''
+},
+{
+title: 'PAIN IS BEAUTY',
+artist: 'ちゃんみな',
+album: '未成年',
+cover: 'img/painisbeauty.jpg',
+mp3: 'mp3/painisbeauty.mp3',
 ogg: ''
 },];
 
