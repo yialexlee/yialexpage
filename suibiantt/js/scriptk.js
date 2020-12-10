@@ -524,6 +524,14 @@ album: 'Purpose - The 2nd Album',
 cover: 'img/spark.jpg',
 mp3: 'mp3/spark.mp3',
 ogg: ''
+},
+{
+title: 'Pretty Savage',
+artist: 'Blackpink',
+album: '',
+cover: 'img/prettysavage.jpg',
+mp3: 'mp3/prettysavage.mp3',
+ogg: ''
 },];
 
 	// Load playlist
