@@ -532,6 +532,46 @@ album: '',
 cover: 'img/prettysavage.jpg',
 mp3: 'mp3/prettysavage.mp3',
 ogg: ''
+},
+{
+title: 'Love Letter',
+artist: '볼빨간사춘기',
+album: '',
+cover: 'img/loveletter.jpg',
+mp3: 'mp3/loveletter.mp3',
+ogg: ''
+},
+{
+title: '미래',
+artist: 'Red Velvet (레드벨벳)',
+album: '',
+cover: 'img/future.jpg',
+mp3: 'mp3/future.mp3',
+ogg: ''
+},
+{
+title: 'Running',
+artist: '가호',
+album: '',
+cover: 'img/running.jpg',
+mp3: 'mp3/running.mp3',
+ogg: ''
+},
+{
+title: 'My Love',
+artist: '다비치',
+album: '',
+cover: 'img/mylove.jpg',
+mp3: 'mp3/mylove.mp3',
+ogg: ''
+},
+{
+title: 'END GAME',
+artist: 'Susan (수잔)',
+album: '',
+cover: 'img/endgame.jpg',
+mp3: 'mp3/endgame.mp3',
+ogg: ''
 },];
 
 	// Load playlist
