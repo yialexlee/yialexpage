@@ -1364,6 +1364,62 @@ album: '',
 cover: 'img/prettysavage.jpg',
 mp3: 'mp3/prettysavage.mp3',
 ogg: ''
+},
+{
+title: 'カタオモイ',
+artist: 'Aimer',
+album: 'Daydream',
+cover: 'img/kataomoi.jpg',
+mp3: 'mp3/kataomoi.mp3',
+ogg: ''
+},
+{
+title: 'ただ君に晴れ',
+artist: 'ヨルシカ',
+album: '2nd Mini Album 「負け犬にアンコールはいらない」',
+cover: 'img/tadakiminihare.jpg',
+mp3: 'mp3/tadakiminihare.mp3',
+ogg: ''
+},
+{
+title: 'BREAK OUT! (live sing by 櫻井佑音)',
+artist: '相川七瀬',
+album: '',
+cover: 'img/breakout!.jpg',
+mp3: 'mp3/breakout!.mp3',
+ogg: ''
+},
+{
+title: 'Be My Love',
+artist: '阿部真央',
+album: '',
+cover: 'img/bemylove.jpg',
+mp3: 'mp3/bemylove.mp3',
+ogg: ''
+},
+{
+title: '第六感',
+artist: 'Reol',
+album: '',
+cover: 'img/dairokukan.jpg',
+mp3: 'mp3/dairokukan.mp3',
+ogg: ''
+},
+{
+title: '水平線',
+artist: 'back number',
+album: '',
+cover: 'img/suihesen.jpg',
+mp3: 'mp3/suihesen.mp3',
+ogg: ''
+},
+{
+title: 'インフェルノ（Inferno)',
+artist: 'Mrs. GREEN APPLE',
+album: '',
+cover: 'img/inferno.jpg',
+mp3: 'mp3/inferno.mp3',
+ogg: ''
 },];
 
 	// Load playlist
