@@ -88,7 +88,7 @@ ogg: ''
 },
 {
 title: 'Can Can(이재형 편곡)-piano (Start at 0:12)',
-artist: 'Unknown'
+artist: 'Unknown',
 album: '',
 cover: 'img/cancanpiano.jpg',
 mp3: 'mp3/cancanpiano.mp3',
@@ -96,7 +96,7 @@ ogg: ''
 },
 {
 title: 'Howl Moving Castle [OST - Theme Song]-Merry-Go-Round ',
-artist: 'Joe Hisaishi'
+artist: 'Joe Hisaishi',
 album: '',
 cover: 'img/merrygoround.jpg',
 mp3: 'mp3/merrygoround.mp3',
@@ -104,7 +104,7 @@ ogg: ''
 },
 {
 title: '白日-piano (Start at 0:38)',
-artist: 'けいちゃん'
+artist: 'けいちゃん',
 album: '',
 cover: 'img/hakujitsupiano.jpg',
 mp3: 'mp3/hakujitsupiano.mp3',
@@ -112,7 +112,7 @@ ogg: ''
 },
 {
 title: 'もののけ姫 -piano',
-artist: 'Pan Piano'
+artist: 'Pan Piano',
 album: '',
 cover: 'img/mononokehimepiano.jpg',
 mp3: 'mp3/mononokehimepiano.mp3',
