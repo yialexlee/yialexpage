@@ -588,6 +588,14 @@ album: '',
 cover: 'img/me.jpg',
 mp3: 'mp3/me.mp3',
 ogg: ''
+},
+{
+title: '봉환아(奉煥啊)',
+artist: '노라조',
+album: 'Mr. Queen (Original Television Soundtrack), Pt. 1',
+cover: 'img/bonghwana.jpg',
+mp3: 'mp3/bonghwana.mp3',
+ogg: ''
 },];
 
 	// Load playlist
