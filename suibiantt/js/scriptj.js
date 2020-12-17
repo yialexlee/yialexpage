@@ -708,6 +708,54 @@ album: '',
 cover: 'img/inferno.jpg',
 mp3: 'mp3/inferno.mp3',
 ogg: ''
+},
+{
+title: 'Unlasting',
+artist: 'LiSA',
+album: '',
+cover: 'img/unlasting.jpg',
+mp3: 'mp3/unlasting.mp3',
+ogg: ''
+},
+{
+title: 'PLANET',
+artist: 'ﾗﾑｼﾞ',
+album: '3ﾗﾑｼﾞ',
+cover: 'img/planet.jpg',
+mp3: 'mp3/planet.mp3',
+ogg: ''
+},
+{
+title: 'ブルーバード',
+artist: 'いきものがかり',
+album: '',
+cover: 'img/burubado.jpg',
+mp3: 'mp3/burubado.mp3',
+ogg: ''
+},
+{
+title: 'aLIEz',
+artist: '澤野弘之',
+album: '',
+cover: 'img/aliez.jpg',
+mp3: 'mp3/aliez.mp3',
+ogg: ''
+},
+{
+title: 'Again',
+artist: 'YUI',
+album: '',
+cover: 'img/againyui.jpg',
+mp3: 'mp3/againyui.mp3',
+ogg: ''
+},
+{
+title: 'ヒトヒラのハナビラ',
+artist: 'Stereopony',
+album: '',
+cover: 'img/hitohiranohanabira.jpg',
+mp3: 'mp3/hitohiranohanabira.mp3',
+ogg: ''
 },];
 
 	// Load playlist
