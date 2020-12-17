@@ -1460,6 +1460,22 @@ album: '',
 cover: 'img/endgame.jpg',
 mp3: 'mp3/endgame.mp3',
 ogg: ''
+},
+{
+title: 'Black Mamba',
+artist: 'aespa 에스파',
+album: '',
+cover: 'img/blackmamba.jpg',
+mp3: 'mp3/blackmamba.mp3',
+ogg: ''
+},
+{
+title: '난 (Me)',
+artist: '비비(BIBI) ',
+album: '',
+cover: 'img/me.jpg',
+mp3: 'mp3/me.mp3',
+ogg: ''
 },];
 
 	// Load playlist
