@@ -1532,7 +1532,40 @@ album: '',
 cover: 'img/hitohiranohanabira.jpg',
 mp3: 'mp3/hitohiranohanabira.mp3',
 ogg: ''
-},];
+},
+{
+title: '正しくなれない',
+artist: 'ずっと真夜中でいいのに',
+album: '映画『約束のネバーランド』主題歌',
+cover: 'img/tadashinarenai.jpg',
+mp3: 'mp3/tadashinarenai.mp3',
+ogg: ''
+},
+{
+title: 'ハルカ',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/haruka.jpg',
+mp3: 'mp3/haruka.mp3',
+ogg: ''
+},
+{
+title: 'て',
+artist: '上野大樹',
+album: '',
+cover: 'img/te.jpg',
+mp3: 'mp3/te.mp3',
+ogg: ''
+},
+{
+title: 'おぼせ',
+artist: '上野大樹',
+album: '',
+cover: 'img/obose.jpg',
+mp3: 'mp3/obose.mp3',
+ogg: ''
+},
+];
 
 	// Load playlist
 	for (var i=0; i<playlist.length; i++){
