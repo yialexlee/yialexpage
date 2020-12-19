@@ -596,6 +596,22 @@ album: 'Mr. Queen (Original Television Soundtrack), Pt. 1',
 cover: 'img/bonghwana.jpg',
 mp3: 'mp3/bonghwana.mp3',
 ogg: ''
+},
+{
+title: '산다는 건',
+artist: '홍진영',
+album: 'Lots of Love',
+cover: 'img/cheerup.jpg',
+mp3: 'mp3/cheerup.mp3',
+ogg: ''
+},
+{
+title: '안돼요',
+artist: '홍진영',
+album: 'Never Ever',
+cover: 'img/neverever.jpg',
+mp3: 'mp3/neverever.mp3',
+ogg: ''
 },];
 
 	// Load playlist
