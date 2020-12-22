@@ -1581,6 +1581,38 @@ cover: 'img/neverever.jpg',
 mp3: 'mp3/neverever.mp3',
 ogg: ''
 },
+{
+title: 'アメヲマツ、',
+artist: '美波',
+album: '',
+cover: 'img/amewomatsu.jpg',
+mp3: 'mp3/amewomatsu.mp3',
+ogg: ''
+},
+{
+title: 'ノンシュガー',
+artist: 'マカロニえんぴつ',
+album: '愛を知らずに魔法は使えない',
+cover: 'img/nonsugarjpg',
+mp3: 'mp3/nonsugar.mp3',
+ogg: ''
+},
+{
+title: '快眠！安眠！スヤリスト生活',
+artist: '水瀨祈',
+album: '',
+cover: 'img/kaiminanminsuyarisutosekatsujpg',
+mp3: 'mp3/kaiminanminsuyarisutosekatsu.mp3',
+ogg: ''
+},
+{
+title: '너를 그린다',
+artist: '정세운',
+album: '어쩌다 발견한 하루',
+cover: 'img/neoleulgeulindajpg',
+mp3: 'mp3/neoleulgeulinda.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
