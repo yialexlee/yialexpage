@@ -788,6 +788,30 @@ album: '',
 cover: 'img/obose.jpg',
 mp3: 'mp3/obose.mp3',
 ogg: ''
+},
+{
+title: 'アメヲマツ、',
+artist: '美波',
+album: '',
+cover: 'img/amewomatsu.jpg',
+mp3: 'mp3/amewomatsu.mp3',
+ogg: ''
+},
+{
+title: 'ノンシュガー',
+artist: 'マカロニえんぴつ',
+album: '愛を知らずに魔法は使えない',
+cover: 'img/nonsugarjpg',
+mp3: 'mp3/nonsugar.mp3',
+ogg: ''
+},
+{
+title: '快眠！安眠！スヤリスト生活',
+artist: '水瀨祈',
+album: '',
+cover: 'img/kaiminanminsuyarisutosekatsujpg',
+mp3: 'mp3/kaiminanminsuyarisutosekatsu.mp3',
+ogg: ''
 },];
 
 	// Load playlist
