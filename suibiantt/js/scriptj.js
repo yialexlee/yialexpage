@@ -801,7 +801,7 @@ ogg: ''
 title: 'ノンシュガー',
 artist: 'マカロニえんぴつ',
 album: '愛を知らずに魔法は使えない',
-cover: 'img/nonsugarjpg',
+cover: 'img/nonsugar.jpg',
 mp3: 'mp3/nonsugar.mp3',
 ogg: ''
 },
@@ -809,7 +809,7 @@ ogg: ''
 title: '快眠！安眠！スヤリスト生活',
 artist: '水瀨祈',
 album: '',
-cover: 'img/kaiminanminsuyarisutosekatsujpg',
+cover: 'img/kaiminanminsuyarisutosekatsu.jpg',
 mp3: 'mp3/kaiminanminsuyarisutosekatsu.mp3',
 ogg: ''
 },];
