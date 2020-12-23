@@ -77,6 +77,174 @@ cover: 'img/monsters.jpg',
 mp3: 'mp3/monsters.mp3',
 ogg: ''
 },
+{
+title: 'Body Back (VIP Remix)',
+artist: 'Gryffin',
+album: '',
+cover: 'img/bodyback.jpg',
+mp3: 'mp3/bodyback.mp3',
+ogg: ''
+},
+{
+title: 'Sing Me To Sleep',
+artist: 'Alan Walker',
+album: '',
+cover: 'img/singmetosleep.jpg',
+mp3: 'mp3/singmetosleep.mp3',
+ogg: ''
+},
+{
+title: 'Problem With You',
+artist: 'Chris Brown',
+album: '',
+cover: 'img/problemwithyou.jpg',
+mp3: 'mp3/problemwithyou.mp3',
+ogg: ''
+},
+{
+title: 'All Falls Down',
+artist: 'Alan Walker',
+album: '',
+cover: 'img/allfallsdown.jpg',
+mp3: 'mp3/allfallsdown.mp3',
+ogg: ''
+},
+{
+title: 'On My Way',
+artist: 'Alan Walker , Sabrina Carpenter & Farruko',
+album: '',
+cover: 'img/onmyway.jpg',
+mp3: 'mp3/onmyway.mp3',
+ogg: ''
+},
+{
+title: 'Lily',
+artist: 'Alan Walker , K-391 & Emelie Hollow',
+album: '',
+cover: 'img/lily.jpg',
+mp3: 'mp3/lily.mp3',
+ogg: ''
+},
+{
+title: 'Beautiful Now ft. Jon Bellion',
+artist: 'Zedd',
+album: '',
+cover: 'img/beautifulnow.jpg',
+mp3: 'mp3/beautifulnow.mp3',
+ogg: ''
+},
+{
+title: 'The Nights',
+artist: 'Avicii',
+album: '',
+cover: 'img/thenights.jpg',
+mp3: 'mp3/thenights.mp3',
+ogg: ''
+},
+{
+title: 'Take Me Home, Country Roads',
+artist: 'John Denver',
+album: '',
+cover: 'img/takemehomecountryroad.jpg',
+mp3: 'mp3/takemehomecountryroad.mp3',
+ogg: ''
+},
+{
+title: 'Waiting For Love',
+artist: 'Avicii',
+album: '',
+cover: 'img/waitingforlove.jpg',
+mp3: 'mp3/waitingforlove.mp3',
+ogg: ''
+},
+{
+title: 'Here With You',
+artist: 'Asher Monroe',
+album: '',
+cover: 'img/herewithyou.jpg',
+mp3: 'mp3/herewithyou.mp3',
+ogg: ''
+},
+{
+title: 'Legends Never Die',
+artist: 'Against The Current',
+album: '',
+cover: 'img/legendsneverdie.jpg',
+mp3: 'mp3/legendsneverdie.mp3',
+ogg: ''
+},
+{
+title: 'Home',
+artist: 'Diana Wang',
+album: '',
+cover: 'img/homedianawang.jpg',
+mp3: 'mp3/homedianawang.mp3',
+ogg: ''
+},
+{
+title: 'Numb',
+artist: 'Linkin Park',
+album: '',
+cover: 'img/numb.jpg',
+mp3: 'mp3/numb.mp3',
+ogg: ''
+},
+{
+title: 'FRIENDS',
+artist: 'Marshmello & Anne-Marie',
+album: '',
+cover: 'img/friendsanne.jpg',
+mp3: 'mp3/friendsanne.mp3',
+ogg: ''
+},
+{
+title: 'Dance Monkey',
+artist: 'Tones and I',
+album: '',
+cover: 'img/dancemonkey.jpg',
+mp3: 'mp3/dancemonkey.mp3',
+ogg: ''
+},
+{
+title: 'Mood (Remix)',
+artist: '24kGoldn, Justin Bieber, J Balvin, iann dior',
+album: '',
+cover: 'img/moodremix.jpg',
+mp3: 'mp3/moodremix.mp3',
+ogg: ''
+},
+{
+title: 'Holy',
+artist: 'Justin Bieber, The Lewisham And Greenwich NHS Choir',
+album: '',
+cover: 'img/holy.jpg',
+mp3: 'mp3/holy.mp3',
+ogg: ''
+},
+{
+title: 'Lonely',
+artist: 'Justin Bieber, benny blanco',
+album: '',
+cover: 'img/lonely.jpg',
+mp3: 'mp3/lonely.mp3',
+ogg: ''
+},
+{
+title: 'Therefore I Am',
+artist: 'Billie Eilish',
+album: '',
+cover: 'img/thereforeiam.jpg',
+mp3: 'mp3/thereforeiam.mp3',
+ogg: ''
+},
+{
+title: 'HOLIDAY',
+artist: 'Lil Nas X',
+album: '',
+cover: 'img/holidaylilnas.jpg',
+mp3: 'mp3/holidaylilnas.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
