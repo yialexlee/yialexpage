@@ -617,7 +617,7 @@ ogg: ''
 title: '너를 그린다',
 artist: '정세운',
 album: '어쩌다 발견한 하루',
-cover: 'img/neoleulgeulindajpg',
+cover: 'img/neoleulgeulinda.jpg',
 mp3: 'mp3/neoleulgeulinda.mp3',
 ogg: ''
 },];
