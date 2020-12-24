@@ -812,6 +812,46 @@ album: '',
 cover: 'img/kaiminanminsuyarisutosekatsu.jpg',
 mp3: 'mp3/kaiminanminsuyarisutosekatsu.mp3',
 ogg: ''
+},
+{
+title: 'あの夢をなぞって',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/anoyumewonazote.jpg',
+mp3: 'mp3/anoyumewonazote.mp3',
+ogg: ''
+},
+{
+title: 'Unravel',
+artist: '凛として時雨 ',
+album: '',
+cover: 'img/unravel.jpg',
+mp3: 'mp3/unravel.mp3',
+ogg: ''
+},
+{
+title: 'Poupelle Of ChimneyTown · Lozareena',
+artist: 'ロザリーナ',
+album: '',
+cover: 'img/lozareena.jpg',
+mp3: 'mp3/lozareena.mp3',
+ogg: ''
+},
+{
+title: 'Poupelle Of ChimneyTown · Lozareena ( covered by 花譜 )',
+artist: 'ロザリーナ',
+album: '',
+cover: 'img/lozareena-c.jpg',
+mp3: 'mp3/lozareena-c.mp3',
+ogg: ''
+},
+{
+title: '何になりたくて、',
+artist: 'ロザリーナ',
+album: '',
+cover: 'img/nanininaritakute.jpg',
+mp3: 'mp3/nanininaritakute.mp3',
+ogg: ''
 },];
 
 	// Load playlist
