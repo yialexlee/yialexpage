@@ -406,6 +406,22 @@ cover: 'img/piratesofthecaribbean.jpg',
 mp3: 'mp3/piratesofthecaribbean.mp3',
 ogg: ''
 },
+{
+title: 'Again - piano',
+artist: 'Fonzi M',
+album: '',
+cover: 'img/againpiano.jpg',
+mp3: 'mp3/againpiano.mp3',
+ogg: ''
+},
+{
+title: 'Sweet home Ending BGM',
+artist: 'MZ',
+album: '',
+cover: 'img/sweethomeending.jpg',
+mp3: 'mp3/sweethomeending.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
