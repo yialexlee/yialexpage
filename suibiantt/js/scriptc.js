@@ -70,6 +70,374 @@ cover: 'img/shanhai.jpg',
 mp3: 'mp3/shanhai.mp3',
 ogg: ''
 },
+{
+title: '夜問',
+artist: '花粥',
+album: '',
+cover: 'img/yejian.jpg',
+mp3: 'mp3/yejian.mp3',
+ogg: ''
+},
+{
+title: '丢了你 (女版)',
+artist: '王雨桐',
+album: '',
+cover: 'img/diuleni.jpg',
+mp3: 'mp3/diuleni.mp3',
+ogg: ''
+},
+{
+title: '春风词笔',
+artist: '三无',
+album: '',
+cover: 'img/chunfengshibi.jpg',
+mp3: 'mp3/chunfengshibi.mp3',
+ogg: ''
+},
+{
+title: '無畏',
+artist: '馬頔',
+album: '',
+cover: 'img/wuwei.jpg',
+mp3: 'mp3/wuwei.mp3',
+ogg: ''
+},
+{
+title: '如此可爱的我们 ',
+artist: '阎其儿Jill',
+album: '',
+cover: 'img/ruchikeaidewomen.jpg',
+mp3: 'mp3/ruchikeaidewomen.mp3',
+ogg: ''
+},
+{
+title: '圈住你',
+artist: '一口甜',
+album: '',
+cover: 'img/quanzhuni.jpg',
+mp3: 'mp3/quanzhuni.mp3',
+ogg: ''
+},
+{
+title: '莫测',
+artist: '陆虎',
+album: '',
+cover: 'img/moche.jpg',
+mp3: 'mp3/moche.mp3',
+ogg: ''
+},
+{
+title: '難解的題',
+artist: '陳昊宇',
+album: '',
+cover: 'img/nanjiedeti.jpg',
+mp3: 'mp3/nanjiedeti.mp3',
+ogg: ''
+},
+{
+title: '六七月',
+artist: '赵贝尔',
+album: '',
+cover: 'img/liuqiyue.jpg',
+mp3: 'mp3/liuqiyue.mp3',
+ogg: ''
+},
+{
+title: '我们的1999',
+artist: '庄达菲',
+album: '',
+cover: 'img/womende1999.jpg',
+mp3: 'mp3/womende1999.mp3',
+ogg: ''
+},
+{
+title: '破茧',
+artist: '张韶涵',
+album: '',
+cover: 'img/pojian.jpg',
+mp3: 'mp3/pojian.mp3',
+ogg: ''
+},
+{
+title: '九张机',
+artist: '叶炫清',
+album: '',
+cover: 'img/jiuzhangji.jpg',
+mp3: 'mp3/jiuzhangji.mp3',
+ogg: ''
+},
+{
+title: '枕邊人',
+artist: '胡彥斌',
+album: '',
+cover: 'img/zhenbianren.jpg',
+mp3: 'mp3/zhenbianren.mp3',
+ogg: ''
+},
+{
+title: '春风十里',
+artist: '房东的猫',
+album: '',
+cover: 'img/chunfengshili.jpg',
+mp3: 'mp3/chunfengshili.mp3',
+ogg: ''
+},
+{
+title: '雲煙成雨',
+artist: '房东的猫',
+album: '',
+cover: 'img/yunyanchengyu.jpg',
+mp3: 'mp3/yunyanchengyu.mp3',
+ogg: ''
+},
+{
+title: '有多少人和我一樣',
+artist: '小洲',
+album: '',
+cover: 'img/youduoshaorenhewoyiyang.jpg',
+mp3: 'mp3/youduoshaorenhewoyiyang.mp3',
+ogg: ''
+},
+{
+title: '句號',
+artist: 'G.E.M.鄧紫棋',
+album: '',
+cover: 'img/jvhao.jpg',
+mp3: 'mp3/jvhao.mp3',
+ogg: ''
+},
+{
+title: '失控',
+artist: '劉增瞳',
+album: '',
+cover: 'img/shikong.jpg',
+mp3: 'mp3/shikong.mp3',
+ogg: ''
+},
+{
+title: '傷害',
+artist: '劉增瞳',
+album: '',
+cover: 'img/shanghai.jpg',
+mp3: 'mp3/shanghai.mp3',
+ogg: ''
+},
+{
+title: '世間美好與你環環相扣',
+artist: '柏松',
+album: '',
+cover: 'img/shijianmeihaohuanhuanxk.jpg',
+mp3: 'mp3/shijianmeihaohuanhuanxk.mp3',
+ogg: ''
+},
+{
+title: '从前',
+artist: '董真, 王敬轩',
+album: '',
+cover: 'img/congqian.jpg',
+mp3: 'mp3/congqian.mp3',
+ogg: ''
+},
+{
+title: '夢回還',
+artist: '呦貓UNEKO',
+album: '',
+cover: 'img/menghuihuan.jpg',
+mp3: 'mp3/menghuihuan.mp3',
+ogg: ''
+},
+{
+title: '妲己',
+artist: '木易',
+album: '',
+cover: 'img/daji.jpg',
+mp3: 'mp3/daji.mp3',
+ogg: ''
+},
+{
+title: '槍口',
+artist: '木易',
+album: '',
+cover: 'img/qiangkou.jpg',
+mp3: 'mp3/qiangkou.mp3',
+ogg: ''
+},
+{
+title: '把孤獨當作晚餐',
+artist: '劉旭陽',
+album: '',
+cover: 'img/bagududangzuowancan.jpg',
+mp3: 'mp3/bagududangzuowancan.mp3',
+ogg: ''
+},
+{
+title: '歸去來兮',
+artist: '花粥',
+album: '',
+cover: 'img/guiqulaixi.jpg',
+mp3: 'mp3/guiqulaixi.mp3',
+ogg: ''
+},
+{
+title: '去你妹的撩妹',
+artist: '封茗囧菌',
+album: '',
+cover: 'img/qunideliaomei.jpg',
+mp3: 'mp3/qunideliaomei.mp3',
+ogg: ''
+},
+{
+title: '一生獨一',
+artist: '西彬呀',
+album: '',
+cover: 'img/yishengduyi.jpg',
+mp3: 'mp3/yishengduyi.mp3',
+ogg: ''
+},
+{
+title: '盜將行',
+artist: '花粥 , 馬雨陽',
+album: '',
+cover: 'img/daojiangxing.jpg',
+mp3: 'mp3/daojiangxing.mp3',
+ogg: ''
+},
+{
+title: '說書人',
+artist: '暗槓＆寅子',
+album: '',
+cover: 'img/shuoshuren.jpg',
+mp3: 'mp3/shuoshuren.mp3',
+ogg: ''
+},
+{
+title: '大笑江湖',
+artist: '高進',
+album: '',
+cover: 'img/daxiaojianghu.jpg',
+mp3: 'mp3/daxiaojianghu.mp3',
+ogg: ''
+},
+{
+title: '山鬼',
+artist: '清秋秋',
+album: '',
+cover: 'img/shangui.jpg',
+mp3: 'mp3/shangui.mp3',
+ogg: ''
+},
+{
+title: '無歸',
+artist: '葉里',
+album: '',
+cover: 'img/wugui.jpg',
+mp3: 'mp3/wugui.mp3',
+ogg: ''
+},
+{
+title: '赤伶',
+artist: '李玉剛',
+album: '',
+cover: 'img/chiling.jpg',
+mp3: 'mp3/chiling.mp3',
+ogg: ''
+},
+{
+title: '清明上河圖',
+artist: '排骨教主',
+album: '',
+cover: 'img/qingmingshanghetu.jpg',
+mp3: 'mp3/qingmingshanghetu.mp3',
+ogg: ''
+},
+{
+title: '風花雪月',
+artist: '紫堂宿、林斜陽',
+album: '',
+cover: 'img/fenghuaxueyue.jpg',
+mp3: 'mp3/fenghuaxueyue.mp3',
+ogg: ''
+},
+{
+title: '何必詩債換酒錢',
+artist: '嵐提',
+album: '',
+cover: 'img/hebishizaihuanjiuqian.jpg',
+mp3: 'mp3/hebishizaihuanjiuqian.mp3',
+ogg: ''
+},
+{
+title: '我命不由天',
+artist: '杨可爱',
+album: '',
+cover: 'img/womingbuyoutian.jpg',
+mp3: 'mp3/womingbuyoutian.mp3',
+ogg: ''
+},
+{
+title: '牽絲戲',
+artist: '銀臨、Aki阿杰',
+album: '',
+cover: 'img/qiansixi.jpg',
+mp3: 'mp3/qiansixi.mp3',
+ogg: ''
+},
+{
+title: '寄明月',
+artist: 'SING女團',
+album: '',
+cover: 'img/jimingyue.jpg',
+mp3: 'mp3/jimingyue.mp3',
+ogg: ''
+},
+{
+title: '白衣少年',
+artist: '許詩茵',
+album: '',
+cover: 'img/baiyishaonian.jpg',
+mp3: 'mp3/baiyishaonian.mp3',
+ogg: ''
+},
+{
+title: '葬仙',
+artist: '葉里 & 苑舍',
+album: '',
+cover: 'img/zangxian.jpg',
+mp3: 'mp3/zangxian.mp3',
+ogg: ''
+},
+{
+title: '殆',
+artist: '李泽龙',
+album: '',
+cover: 'img/dai.jpg',
+mp3: 'mp3/dai.mp3',
+ogg: ''
+},
+{
+title: '紀念',
+artist: '李泽龙',
+album: '',
+cover: 'img/jinian.jpg',
+mp3: 'mp3/jinian.mp3',
+ogg: ''
+},
+{
+title: '噓',
+artist: '李泽龙',
+album: '',
+cover: 'img/xu.jpg',
+mp3: 'mp3/xu.mp3',
+ogg: ''
+},
+{
+title: '春樹暮雲',
+artist: '李泽龙',
+album: '',
+cover: 'img/chunshumuyun.jpg',
+mp3: 'mp3/chunshumuyun.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
