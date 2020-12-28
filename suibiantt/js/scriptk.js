@@ -628,6 +628,14 @@ album: 'Love Revolution OST Part.5',
 cover: 'img/iguessiloveu.jpg',
 mp3: 'mp3/iguessiloveu.mp3',
 ogg: ''
+},
+{
+title: 'Run To You',
+artist: 'LUCY',
+album: 'Run To You (Run On OST Part.1)',
+cover: 'img/runtoyou.jpg',
+mp3: 'mp3/runtoyou.mp3',
+ogg: ''
 },];
 
 	// Load playlist
