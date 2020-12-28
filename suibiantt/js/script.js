@@ -2197,6 +2197,22 @@ cover: 'img/iguessiloveu.jpg',
 mp3: 'mp3/iguessiloveu.mp3',
 ogg: ''
 },
+{
+title: 'バケモノと呼ばれて ',
+artist: '藤川千愛',
+album: '無能なナナ',
+cover: 'img/bakemonotoyobarete.jpg',
+mp3: 'mp3/bakemonotoyobarete.mp3',
+ogg: ''
+},
+{
+title: 'Run To You',
+artist: 'LUCY',
+album: 'Run To You (Run On OST Part.1)',
+cover: 'img/runtoyou.jpg',
+mp3: 'mp3/runtoyou.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
