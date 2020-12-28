@@ -852,6 +852,14 @@ album: '',
 cover: 'img/nanininaritakute.jpg',
 mp3: 'mp3/nanininaritakute.mp3',
 ogg: ''
+},
+{
+title: 'バケモノと呼ばれて ',
+artist: '藤川千愛',
+album: '無能なナナ',
+cover: 'img/bakemonotoyobarete.jpg',
+mp3: 'mp3/bakemonotoyobarete.mp3',
+ogg: ''
 },];
 
 	// Load playlist
