@@ -860,6 +860,22 @@ album: '無能なナナ',
 cover: 'img/bakemonotoyobarete.jpg',
 mp3: 'mp3/bakemonotoyobarete.mp3',
 ogg: ''
+},
+{
+title: '香水',
+artist: '瑛人',
+album: '',
+cover: 'img/koshui.jpg',
+mp3: 'mp3/koshui.mp3',
+ogg: ''
+},
+{
+title: 'イカサマダンス',
+artist: 'まふまふ',
+album: '',
+cover: 'img/ikasamadansu.jpg',
+mp3: 'mp3/ikasamadansu.mp3',
+ogg: ''
 },];
 
 	// Load playlist
