@@ -2229,6 +2229,14 @@ cover: 'img/ikasamadansu.jpg',
 mp3: 'mp3/ikasamadansu.mp3',
 ogg: ''
 },
+{
+title: 'Nobodys fault',
+artist: '櫻坂46',
+album: '',
+cover: 'img/nobodyisfault.jpg',
+mp3: 'mp3/nobodyisfault.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
