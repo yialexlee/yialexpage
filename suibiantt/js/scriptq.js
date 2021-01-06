@@ -45,6 +45,14 @@ cover: 'img/yeban.jpg',
 mp3: 'mp3/yeban.mp3',
 ogg: ''
 },
+{
+title: '跳鍾馗',
+artist: '李英宏',
+album: '馗降：粽邪2',
+cover: 'img/tiaojiongkui.jpg',
+mp3: 'mp3/tiaojiongkui.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
