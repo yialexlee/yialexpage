@@ -884,6 +884,22 @@ album: '',
 cover: 'img/nobodyisfault.jpg',
 mp3: 'mp3/nobodyisfault.mp3',
 ogg: ''
+},
+{
+title: 'アンコール',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/ankoru.jpg',
+mp3: 'mp3/ankoru.mp3',
+ogg: ''
+},
+{
+title: '怪物',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/gaibutsu.jpg',
+mp3: 'mp3/gaibutsu.mp3',
+ogg: ''
 },];
 
 	// Load playlist
