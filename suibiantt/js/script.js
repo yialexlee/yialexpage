@@ -2237,6 +2237,46 @@ cover: 'img/nobodyisfault.jpg',
 mp3: 'mp3/nobodyisfault.mp3',
 ogg: ''
 },
+{
+title: 'アンコール',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/ankoru.jpg',
+mp3: 'mp3/ankoru.mp3',
+ogg: ''
+},
+{
+title: '怪物',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/gaibutsu.jpg',
+mp3: 'mp3/gaibutsu.mp3',
+ogg: ''
+},
+{
+title: '跳鍾馗',
+artist: '李英宏',
+album: '馗降：粽邪2',
+cover: 'img/tiaojiongkui.jpg',
+mp3: 'mp3/tiaojiongkui.mp3',
+ogg: ''
+},
+{
+title: '无华',
+artist: '张靓颖&摩登兄弟刘宇宁',
+album: '《有翡》电视剧片尾主题曲',
+cover: 'img/wuhua.jpg',
+mp3: 'mp3/wuhua.mp3',
+ogg: ''
+},
+{
+title: '四季予你',
+artist: '程響',
+album: '',
+cover: 'img/sijiyuni.jpg',
+mp3: 'mp3/sijiyuni.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
