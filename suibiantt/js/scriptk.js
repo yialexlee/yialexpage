@@ -636,7 +636,24 @@ album: 'Run To You (Run On OST Part.1)',
 cover: 'img/runtoyou.jpg',
 mp3: 'mp3/runtoyou.mp3',
 ogg: ''
-},];
+},
+{
+title: 'Meet Again 재회',
+artist: '세정',
+album: '경이로운 소문 OST Part2',
+cover: 'img/meetagainkorea.jpg',
+mp3: 'mp3/meetagainkorea.mp3',
+ogg: ''
+},
+{
+title: 'Close Your Eyes',
+artist: '홍이삭',
+album: '경이로운 소문 OST Part3',
+cover: 'img/closeyoureyes.jpg',
+mp3: 'mp3/closeyoureyes.mp3',
+ogg: ''
+},
+];
 
 	// Load playlist
 	for (var i=0; i<playlist.length; i++){
