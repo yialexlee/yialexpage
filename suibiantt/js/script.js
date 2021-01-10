@@ -2277,6 +2277,22 @@ cover: 'img/sijiyuni.jpg',
 mp3: 'mp3/sijiyuni.mp3',
 ogg: ''
 },
+{
+title: '轍～Wadachi～',
+artist: 'SPYAIR',
+album: '',
+cover: 'img/wadachi.jpg',
+mp3: 'mp3/wadachi.mp3',
+ogg: ''
+},
+{
+title: '瞬間ドラマチック',
+artist: 'Saji',
+album: '',
+cover: 'img/shunkandoramachikku.jpg',
+mp3: 'mp3/shunkandoramachikku.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
