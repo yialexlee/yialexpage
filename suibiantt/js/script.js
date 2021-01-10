@@ -2293,6 +2293,14 @@ cover: 'img/shunkandoramachikku.jpg',
 mp3: 'mp3/shunkandoramachikku.mp3',
 ogg: ''
 },
+{
+title: 'ハッピーになれよ',
+artist: '瑛人',
+album: 'すっからかん',
+cover: 'img/happininareyo.jpg',
+mp3: 'mp3/happininareyo.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
