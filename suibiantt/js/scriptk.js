@@ -653,6 +653,14 @@ cover: 'img/closeyoureyes.jpg',
 mp3: 'mp3/closeyoureyes.mp3',
 ogg: ''
 },
+{
+title: 'Who I am',
+artist: '최진솔',
+album: '제발 그 남자 만나지 마요 OST Part.4',
+cover: 'img/whoiam.jpg',
+mp3: 'mp3/whoiam.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
