@@ -661,6 +661,22 @@ cover: 'img/whoiam.jpg',
 mp3: 'mp3/whoiam.mp3',
 ogg: ''
 },
+{
+title: 'CRY FOR ME',
+artist: 'TWICE',
+album: '',
+cover: 'img/cryformetwice.jpg',
+mp3: 'mp3/cryformetwice.mp3',
+ogg: ''
+},
+{
+title: '화(火花)',
+artist: '(G)I-DLE',
+album: 'I burn',
+cover: 'img/hwaa.jpg',
+mp3: 'mp3/hwaa.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
