@@ -925,6 +925,14 @@ cover: 'img/happininareyo.jpg',
 mp3: 'mp3/happininareyo.mp3',
 ogg: ''
 },
+{
+title: '空と青',
+artist: '家入レオ',
+album: '',
+cover: 'img/soratoao.jpg',
+mp3: 'mp3/soratoao.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
