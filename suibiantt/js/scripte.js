@@ -245,6 +245,14 @@ cover: 'img/holidaylilnas.jpg',
 mp3: 'mp3/holidaylilnas.mp3',
 ogg: ''
 },
+{
+title: 'Someone You Loved',
+artist: 'Davina Michelle',
+album: '',
+cover: 'img/someoneyouloved.jpg',
+mp3: 'mp3/someoneyouloved.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
