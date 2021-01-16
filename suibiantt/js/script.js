@@ -2349,6 +2349,14 @@ cover: 'img/soratoao.jpg',
 mp3: 'mp3/soratoao.mp3',
 ogg: ''
 },
+{
+title: 'Someone You Loved',
+artist: 'Davina Michelle',
+album: '',
+cover: 'img/someoneyouloved.jpg',
+mp3: 'mp3/someoneyouloved.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
