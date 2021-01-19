@@ -2357,6 +2357,14 @@ cover: 'img/someoneyouloved.jpg',
 mp3: 'mp3/someoneyouloved.mp3',
 ogg: ''
 },
+{
+title: 'うっせぇわ',
+artist: 'Ado',
+album: '',
+cover: 'img/usseewa.jpg',
+mp3: 'mp3/usseewa.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
