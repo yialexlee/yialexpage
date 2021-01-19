@@ -422,6 +422,30 @@ cover: 'img/sweethomeending.jpg',
 mp3: 'mp3/sweethomeending.mp3',
 ogg: ''
 },
+{
+title: 'うっせぇわ-Ado -piano',
+artist: 'CANACANA',
+album: '',
+cover: 'img/usseewapiano.jpg',
+mp3: 'mp3/usseewapiano.mp3',
+ogg: ''
+},
+{
+title: 'ファイト！/中島みゆき -piano',
+artist: 'ハラミちゃん',
+album: '',
+cover: 'img/huaitopiano.jpg',
+mp3: 'mp3/huaitopiano.mp3',
+ogg: ''
+},
+{
+title: 'This Game -piano',
+artist: 'Animenz Piano Sheets',
+album: '',
+cover: 'img/thisgamepiano.jpg',
+mp3: 'mp3/thisgamepiano.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
