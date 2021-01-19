@@ -941,6 +941,14 @@ cover: 'img/usseewa.jpg',
 mp3: 'mp3/usseewa.mp3',
 ogg: ''
 },
+{
+title: 'Echo (cover by DELUTAYA Δ.)',
+artist: 'Crusher-P',
+album: '',
+cover: 'img/echodelutaya.jpg',
+mp3: 'mp3/echodelutaya.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
