@@ -253,6 +253,14 @@ cover: 'img/someoneyouloved.jpg',
 mp3: 'mp3/someoneyouloved.mp3',
 ogg: ''
 },
+{
+title: 'Kids In The Corner',
+artist: 'Amber Van Day',
+album: '',
+cover: 'img/kidsinthecorner.jpg',
+mp3: 'mp3/kidsinthecorner.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
