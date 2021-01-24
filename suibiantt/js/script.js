@@ -2373,6 +2373,14 @@ cover: 'img/echodelutaya.jpg',
 mp3: 'mp3/echodelutaya.mp3',
 ogg: ''
 },
+{
+title: 'Kids In The Corner',
+artist: 'Amber Van Day',
+album: '',
+cover: 'img/kidsinthecorner.jpg',
+mp3: 'mp3/kidsinthecorner.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
