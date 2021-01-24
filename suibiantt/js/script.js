@@ -151,7 +151,7 @@ ogg: ''
 },
 {
 title: 'ハルジオン',
-artist: 'YOASABI',
+artist: 'YOASOBI',
 album: '',
 cover: 'img/halzion.jpg',
 mp3: 'mp3/halzion.mp3',
@@ -159,7 +159,7 @@ ogg: ''
 },
 {
 title: '夜に駆ける',
-artist: 'YOASABI',
+artist: 'YOASOBI',
 album: '',
 cover: 'img/yorunikakeru.jpg',
 mp3: 'mp3/yorunikakeru.mp3',
@@ -167,7 +167,7 @@ ogg: ''
 },
 {
 title: '夜に駆ける - THE HOME TAKE (幾田りら)',
-artist: 'YOASABI',
+artist: 'YOASOBI',
 album: '',
 cover: 'img/yorunikakeru-c.jpg',
 mp3: 'mp3/yorunikakeru-c.mp3',
@@ -2379,6 +2379,22 @@ artist: 'Amber Van Day',
 album: '',
 cover: 'img/kidsinthecorner.jpg',
 mp3: 'mp3/kidsinthecorner.mp3',
+ogg: ''
+},
+{
+title: 'Grandeur',
+artist: 'Snow Man',
+album: '',
+cover: 'img/grandeur.jpg',
+mp3: 'mp3/grandeur.mp3',
+ogg: ''
+},
+{
+title: '優しい彗星',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/yasashisuisei.jpg',
+mp3: 'mp3/yasashisuisei.mp3',
 ogg: ''
 },
 ];
