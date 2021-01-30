@@ -997,6 +997,14 @@ cover: 'img/aidenteitei.jpg',
 mp3: 'mp3/aidenteitei.mp3',
 ogg: ''
 },
+{
+title: '季路',
+artist: 'Aimer',
+album: '',
+cover: 'img/kiro.jpg',
+mp3: 'mp3/kiro.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
