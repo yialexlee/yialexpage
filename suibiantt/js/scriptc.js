@@ -454,6 +454,54 @@ cover: 'img/sijiyuni.jpg',
 mp3: 'mp3/sijiyuni.mp3',
 ogg: ''
 },
+{
+title: '這就是愛嗎',
+artist: '楊胖雨',
+album: '',
+cover: 'img/zhejiushiaima.jpg',
+mp3: 'mp3/zhejiushiaima.mp3',
+ogg: ''
+},
+{
+title: '笑納',
+artist: '花僮',
+album: '',
+cover: 'img/xiaona.jpg',
+mp3: 'mp3/xiaona.mp3',
+ogg: ''
+},
+{
+title: '白月光与朱砂痣',
+artist: '大籽',
+album: '',
+cover: 'img/baiyueguangyuzhushazhi.jpg',
+mp3: 'mp3/baiyueguangyuzhushazhi.mp3',
+ogg: ''
+},
+{
+title: '错位时空',
+artist: '艾辰',
+album: '',
+cover: 'img/cuoweishikong.jpg',
+mp3: 'mp3/cuoweishikong.mp3',
+ogg: ''
+},
+{
+title: '醉墨',
+artist: '范丞丞',
+album: '',
+cover: 'img/zuimo.jpg',
+mp3: 'mp3/zuimo.mp3',
+ogg: ''
+},
+{
+title: '遥望',
+artist: '范丞丞，程潇',
+album: '',
+cover: 'img/yaowang.jpg',
+mp3: 'mp3/yaowang.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
