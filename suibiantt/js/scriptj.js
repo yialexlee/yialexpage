@@ -965,6 +965,38 @@ cover: 'img/yasashisuisei.jpg',
 mp3: 'mp3/yasashisuisei.mp3',
 ogg: ''
 },
+{
+title: 'DEAR MY FRIEND',
+artist: 'LITTLE GLEE MONSTER FEAT.PENTATONIX ',
+album: '',
+cover: 'img/dearmyfriend.jpg',
+mp3: 'mp3/dearmyfriend.mp3',
+ogg: ''
+},
+{
+title: '春泥棒',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/harudorobo.jpg',
+mp3: 'mp3/harudorobo.mp3',
+ogg: ''
+},
+{
+title: '麻痺',
+artist: 'yama',
+album: '',
+cover: 'img/mahi.jpg',
+mp3: 'mp3/mahi.mp3',
+ogg: ''
+},
+{
+title: 'アイデンティティ',
+artist: 'yama',
+album: '',
+cover: 'img/aidenteitei.jpg',
+mp3: 'mp3/aidenteitei.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
