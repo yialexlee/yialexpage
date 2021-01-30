@@ -261,6 +261,22 @@ cover: 'img/kidsinthecorner.jpg',
 mp3: 'mp3/kidsinthecorner.mp3',
 ogg: ''
 },
+{
+title: 'DRIVERS LICENSE',
+artist: 'OLIVIA RODRIGO',
+album: '',
+cover: 'img/driverslicense.jpg',
+mp3: 'mp3/driverslicense.mp3',
+ogg: ''
+},
+{
+title: 'Not the End of the World',
+artist: 'Katy Perry',
+album: '',
+cover: 'img/nottheendoftheworld.jpg',
+mp3: 'mp3/nottheendoftheworld.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
