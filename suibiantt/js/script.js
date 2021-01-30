@@ -2397,6 +2397,166 @@ cover: 'img/yasashisuisei.jpg',
 mp3: 'mp3/yasashisuisei.mp3',
 ogg: ''
 },
+{
+title: 'DEAR MY FRIEND',
+artist: 'LITTLE GLEE MONSTER FEAT.PENTATONIX ',
+album: '',
+cover: 'img/dearmyfriend.jpg',
+mp3: 'mp3/dearmyfriend.mp3',
+ogg: ''
+},
+{
+title: '春泥棒',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/harudorobo.jpg',
+mp3: 'mp3/harudorobo.mp3',
+ogg: ''
+},
+{
+title: '麻痺',
+artist: 'yama',
+album: '',
+cover: 'img/mahi.jpg',
+mp3: 'mp3/mahi.mp3',
+ogg: ''
+},
+{
+title: 'アイデンティティ',
+artist: 'yama',
+album: '',
+cover: 'img/aidenteitei.jpg',
+mp3: 'mp3/aidenteitei.mp3',
+ogg: ''
+},
+{
+title: 'Odd Eye',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/oddeye.jpg',
+mp3: 'mp3/oddeye.mp3',
+ogg: ''
+},
+{
+title: 'Celebrity',
+artist: 'IU',
+album: '',
+cover: 'img/celebrityiu.jpg',
+mp3: 'mp3/celebrityiu.mp3',
+ogg: ''
+},
+{
+title: '안아줄게',
+artist: 'Golden Child',
+album: '',
+cover: 'img/an-ajulge.jpg',
+mp3: 'mp3/an-ajulge.mp3',
+ogg: ''
+},
+{
+title: 'Im Not Cool',
+artist: '현아 (HyunA)',
+album: '',
+cover: 'img/imnotcool.jpg',
+mp3: 'mp3/imnotcool.mp3',
+ogg: ''
+},
+{
+title: 'Im Missing You',
+artist: 'Sunjae(선재)',
+album: '여신강림 OST Part 4',
+cover: 'img/immissingyou.jpg',
+mp3: 'mp3/immissingyou.mp3',
+ogg: ''
+},
+{
+title: 'Call Me Maybe',
+artist: 'SAya(사야)',
+album: '여신강림 OST Part 1',
+cover: 'img/callmemaybe.jpg',
+mp3: 'mp3/callmemaybe.mp3',
+ogg: ''
+},
+{
+title: '반박불가 (No diggity)',
+artist: 'ONEUS(원어스)',
+album: 'Devil',
+cover: 'img/nodiggity.jpg',
+mp3: 'mp3/nodiggity.mp3',
+ogg: ''
+},
+{
+title: '季路',
+artist: 'Aimer',
+album: '',
+cover: 'img/kiro.jpg',
+mp3: 'mp3/kiro.mp3',
+ogg: ''
+},
+{
+title: '這就是愛嗎',
+artist: '楊胖雨',
+album: '',
+cover: 'img/zhejiushiaima.jpg',
+mp3: 'mp3/zhejiushiaima.mp3',
+ogg: ''
+},
+{
+title: '笑納',
+artist: '花僮',
+album: '',
+cover: 'img/xiaona.jpg',
+mp3: 'mp3/xiaona.mp3',
+ogg: ''
+},
+{
+title: '白月光与朱砂痣',
+artist: '大籽',
+album: '',
+cover: 'img/baiyueguangyuzhushazhi.jpg',
+mp3: 'mp3/baiyueguangyuzhushazhi.mp3',
+ogg: ''
+},
+{
+title: '错位时空',
+artist: '艾辰',
+album: '',
+cover: 'img/cuoweishikong.jpg',
+mp3: 'mp3/cuoweishikong.mp3',
+ogg: ''
+},
+{
+title: '醉墨',
+artist: '范丞丞',
+album: '',
+cover: 'img/zuimo.jpg',
+mp3: 'mp3/zuimo.mp3',
+ogg: ''
+},
+{
+title: '遥望',
+artist: '范丞丞，程潇',
+album: '',
+cover: 'img/yaowang.jpg',
+mp3: 'mp3/yaowang.mp3',
+ogg: ''
+},
+{
+title: 'DRIVERS LICENSE',
+artist: 'OLIVIA RODRIGO',
+album: '',
+cover: 'img/driverslicense.jpg',
+mp3: 'mp3/driverslicense.mp3',
+ogg: ''
+},
+{
+title: 'Not the End of the World',
+artist: 'Katy Perry',
+album: '',
+cover: 'img/nottheendoftheworld.jpg',
+mp3: 'mp3/nottheendoftheworld.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
