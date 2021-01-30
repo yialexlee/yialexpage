@@ -725,6 +725,14 @@ cover: 'img/callmemaybe.jpg',
 mp3: 'mp3/callmemaybe.mp3',
 ogg: ''
 },
+{
+title: '반박불가 (No diggity)',
+artist: 'ONEUS(원어스)',
+album: 'Devil',
+cover: 'img/nodiggity.jpg',
+mp3: 'mp3/nodiggity.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
