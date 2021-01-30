@@ -677,6 +677,54 @@ cover: 'img/hwaa.jpg',
 mp3: 'mp3/hwaa.mp3',
 ogg: ''
 },
+{
+title: 'Odd Eye',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/oddeye.jpg',
+mp3: 'mp3/oddeye.mp3',
+ogg: ''
+},
+{
+title: 'Celebrity',
+artist: 'IU',
+album: '',
+cover: 'img/celebrityiu.jpg',
+mp3: 'mp3/celebrityiu.mp3',
+ogg: ''
+},
+{
+title: '안아줄게',
+artist: 'Golden Child',
+album: '',
+cover: 'img/an-ajulge.jpg',
+mp3: 'mp3/an-ajulge.mp3',
+ogg: ''
+},
+{
+title: 'Im Not Cool',
+artist: '현아 (HyunA)',
+album: '',
+cover: 'img/imnotcool.jpg',
+mp3: 'mp3/imnotcool.mp3',
+ogg: ''
+},
+{
+title: 'Im Missing You',
+artist: 'Sunjae(선재)',
+album: '여신강림 OST Part 4',
+cover: 'img/immissingyou.jpg',
+mp3: 'mp3/immissingyou.mp3',
+ogg: ''
+},
+{
+title: 'Call Me Maybe',
+artist: 'SAya(사야)',
+album: '여신강림 OST Part 1',
+cover: 'img/callmemaybe.jpg',
+mp3: 'mp3/callmemaybe.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
