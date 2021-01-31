@@ -158,6 +158,14 @@ mp3: 'mp3/waitingforlove.mp3',
 ogg: ''
 },
 {
+title: 'Pretty Girl (Cheat Codes x CADE Remix)',
+artist: 'Maggie Lindemann',
+album: '',
+cover: 'img/prettygirlremix.jpg',
+mp3: 'mp3/prettygirlremix.mp3',
+ogg: ''
+},
+{
 title: 'Here With You',
 artist: 'Asher Monroe',
 album: '',
