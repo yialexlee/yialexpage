@@ -2423,7 +2423,7 @@ ogg: ''
 },
 {
 title: 'アイデンティティ',
-artist: 'yama',
+artist: '秋山黄色',
 album: '',
 cover: 'img/aidenteitei.jpg',
 mp3: 'mp3/aidenteitei.mp3',
