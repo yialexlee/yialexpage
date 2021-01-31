@@ -2557,6 +2557,38 @@ cover: 'img/nottheendoftheworld.jpg',
 mp3: 'mp3/nottheendoftheworld.mp3',
 ogg: ''
 },
+{
+title: 'ドライフラワー',
+artist: '優里',
+album: '',
+cover: 'img/doraifurawa.jpg',
+mp3: 'mp3/doraifurawa.mp3',
+ogg: ''
+},
+{
+title: '廻廻奇譚',
+artist: 'Eve',
+album: '',
+cover: 'img/kaikaikitan.jpg',
+mp3: 'mp3/kaikaikitan.mp3',
+ogg: ''
+},
+{
+title: '結証',
+artist: '緑黄色社会',
+album: '',
+cover: 'img/kesshou.jpg',
+mp3: 'mp3/kesshou.mp3',
+ogg: ''
+},
+{
+title: 'Pretty Girl (Cheat Codes x CADE Remix)',
+artist: 'Maggie Lindemann',
+album: '',
+cover: 'img/prettygirlremix.jpg',
+mp3: 'mp3/prettygirlremix.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
