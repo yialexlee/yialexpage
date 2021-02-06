@@ -446,6 +446,30 @@ cover: 'img/thisgamepiano.jpg',
 mp3: 'mp3/thisgamepiano.mp3',
 ogg: ''
 },
+{
+title: '哀と悲 / 哀と愁 / 出陣 / My Name -piano',
+artist: 'Ru Piano',
+album: '',
+cover: 'img/myname4rupiano.jpg',
+mp3: 'mp3/myname4rupiano.mp3',
+ogg: ''
+},
+{
+title: '僕の戦争 Full ver -piano',
+artist: 'CANACANA',
+album: '',
+cover: 'img/bokunosensoufullverpiano.jpg',
+mp3: 'mp3/bokunosensoufullverpiano.mp3',
+ogg: ''
+},
+{
+title: 'パイレーツ・オブ・カリビアン 彼こそが海賊 -piano',
+artist: 'Pan Piano',
+album: '',
+cover: 'img/karekosogakaizokkupiano.jpg',
+mp3: 'mp3/karekosogakaizokkupiano.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
