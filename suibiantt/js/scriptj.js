@@ -1029,6 +1029,30 @@ cover: 'img/kesshou.jpg',
 mp3: 'mp3/kesshou.mp3',
 ogg: ''
 },
+{
+title: '衝撃',
+artist: '安藤裕子',
+album: '',
+cover: 'img/shiyogeki.jpg',
+mp3: 'mp3/shiyogeki.mp3',
+ogg: ''
+},
+{
+title: 'Moon',
+artist: '家入レオ',
+album: '',
+cover: 'img/mooniede.jpg',
+mp3: 'mp3/mooniede.mp3',
+ogg: ''
+},
+{
+title: '平行線',
+artist: 'EVE × SUIS FROM ヨルシカ',
+album: '',
+cover: 'img/hekouseneve.jpg',
+mp3: 'mp3/hekouseneve.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
