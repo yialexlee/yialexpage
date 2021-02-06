@@ -1053,6 +1053,14 @@ cover: 'img/hekouseneve.jpg',
 mp3: 'mp3/hekouseneve.mp3',
 ogg: ''
 },
+{
+title: '星を仰ぐ',
+artist: '菅田将暉',
+album: '',
+cover: 'img/hoshiwoaogu.jpg',
+mp3: 'mp3/hoshiwoaogu.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
