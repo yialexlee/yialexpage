@@ -2621,6 +2621,38 @@ cover: 'img/hoshiwoaogu.jpg',
 mp3: 'mp3/hoshiwoaogu.mp3',
 ogg: ''
 },
+{
+title: 'Burn It',
+artist: 'Golden Child',
+album: '',
+cover: 'img/burnitgoldenchild.jpg',
+mp3: 'mp3/burnitgoldenchild.mp3',
+ogg: ''
+},
+{
+title: 'GOOD GIRL',
+artist: '현아 (HyunA)',
+album: '',
+cover: 'img/imnotcool.jpg',
+mp3: 'mp3/goodgirlhyuna.mp3',
+ogg: ''
+},
+{
+title: 'Here I am',
+artist: '조현아',
+album: 'Mr. Queen (Original Television Soundtrack), Pt. 3',
+cover: 'img/hereiamost.jpg',
+mp3: 'mp3/hereiamost.mp3',
+ogg: ''
+},
+{
+title: 'Forever (약속)',
+artist: 'aespa 에스파',
+album: '',
+cover: 'img/foreveraespa.jpg',
+mp3: 'mp3/foreveraespa.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
