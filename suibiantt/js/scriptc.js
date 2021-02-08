@@ -502,6 +502,14 @@ cover: 'img/yaowang.jpg',
 mp3: 'mp3/yaowang.mp3',
 ogg: ''
 },
+{
+title: '星辰大海',
+artist: '黃霄雲',
+album: '',
+cover: 'img/xingchengdahai.jpg',
+mp3: '',
+ogg: 'mp3/xingchengdahai.ogg'
+},
 ];
 
 	// Load playlist
