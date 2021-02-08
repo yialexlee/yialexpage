@@ -765,6 +765,14 @@ cover: 'img/foreveraespa.jpg',
 mp3: 'mp3/foreveraespa.mp3',
 ogg: ''
 },
+{
+title: 'Where Are You(그대는 어디에)',
+artist: '김나영',
+album: 'Run On(런 온) OST Part.8',
+cover: 'img/whereareyouostkr.jpg',
+mp3: 'mp3/whereareyouostkr.mp3',
+ogg: ''
+},
 ];
 
 	// Load playlist
