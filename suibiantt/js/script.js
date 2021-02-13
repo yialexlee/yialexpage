@@ -2745,9 +2745,9 @@ ogg: 'mp3/giveitup96neko.ogg'
 title: '5センチ先の夢',
 artist: 'H△G',
 album: '',
-cover: 'img/gosenchinoyumehg.jpg',
+cover: 'img/gosenchinoyume.jpg',
 mp3: '',
-ogg: 'mp3/gosenchinoyumehg.ogg'
+ogg: 'mp3/gosenchinoyume.ogg'
 },
 {
 title: '浪子闲话',
