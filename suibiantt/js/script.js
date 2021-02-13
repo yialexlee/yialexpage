@@ -2669,6 +2669,102 @@ cover: 'img/xingchengdahai.jpg',
 mp3: '',
 ogg: 'mp3/xingchengdahai.ogg'
 },
+{
+title: 'Sour Candy',
+artist: 'Lady Gaga, BLACKPINK',
+album: '',
+cover: 'img/sourcandy.jpg',
+mp3: '',
+ogg: 'mp3/sourcandy.ogg'
+},
+{
+title: 'Love To Hate Me',
+artist: 'BLACKPINK',
+album: 'THE ALBUM',
+cover: 'img/lovetohatemebp.jpg',
+mp3: '',
+ogg: 'mp3/lovetohatemebp.ogg'
+},
+{
+title: 'STAY',
+artist: 'BLACKPINK',
+album: 'Square Two',
+cover: 'img/staybp.jpg',
+mp3: '',
+ogg: 'mp3/staybp.ogg'
+},
+{
+title: 'Forever Young',
+artist: 'BLACKPINK',
+album: 'Square Up',
+cover: 'img/foreveryoungbp.jpg',
+mp3: '',
+ogg: 'mp3/foreveryoungbp.ogg'
+},
+{
+title: '魔法',
+artist: 'Myuk',
+album: '',
+cover: 'img/mahomyuk.jpg',
+mp3: '',
+ogg: 'mp3/mahomyuk.ogg'
+},
+{
+title: '醜い生き物',
+artist: 'CHiCO with HoneyWorks',
+album: '',
+cover: 'img/busaiikimonochico.jpg',
+mp3: '',
+ogg: 'mp3/busaiikimonochico.ogg'
+},
+{
+title: 'チチンプイプイ',
+artist: '真島ゆろ feat. flower・初音ミク（ RiMy × TOKU MIX cover. ）',
+album: '',
+cover: 'img/chichinpuipui.jpg',
+mp3: '',
+ogg: 'mp3/chichinpuipui.ogg'
+},
+{
+title: 'ドライフラワー',
+artist: 'Uru',
+album: '',
+cover: 'img/doraifurawauru.jpg',
+mp3: '',
+ogg: 'mp3/doraifurawauru.ogg'
+},
+{
+title: 'Give It Up？',
+artist: '96猫',
+album: '',
+cover: 'img/giveitup96neko.jpg',
+mp3: '',
+ogg: 'mp3/giveitup96neko.ogg'
+},
+{
+title: '5センチ先の夢',
+artist: 'H△G',
+album: '',
+cover: 'img/gosenchinoyumehg.jpg',
+mp3: '',
+ogg: 'mp3/gosenchinoyumehg.ogg'
+},
+{
+title: '浪子闲话',
+artist: '花僮',
+album: '',
+cover: 'img/langzixianhuahuatong.jpg',
+mp3: '',
+ogg: 'mp3/langzixianhuahuatong.ogg'
+},
+{
+title: '策馬正少年',
+artist: '肖战',
+album: '',
+cover: 'img/chemashishaonian.jpg',
+mp3: '',
+ogg: 'mp3/chemashishaonian.ogg'
+},
 ];
 
 	// Load playlist
