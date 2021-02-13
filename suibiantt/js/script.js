@@ -2765,6 +2765,7 @@ cover: 'img/chemashishaonian.jpg',
 mp3: '',
 ogg: 'mp3/chemashishaonian.ogg'
 },
+
 ];
 
 	// Load playlist
