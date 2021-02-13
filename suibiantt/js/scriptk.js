@@ -773,6 +773,38 @@ cover: 'img/whereareyouostkr.jpg',
 mp3: 'mp3/whereareyouostkr.mp3',
 ogg: ''
 },
+{
+title: 'Sour Candy',
+artist: 'Lady Gaga, BLACKPINK',
+album: '',
+cover: 'img/sourcandy.jpg',
+mp3: '',
+ogg: 'mp3/sourcandy.ogg'
+},
+{
+title: 'Love To Hate Me',
+artist: 'BLACKPINK',
+album: 'THE ALBUM',
+cover: 'img/lovetohatemebp.jpg',
+mp3: '',
+ogg: 'mp3/lovetohatemebp.ogg'
+},
+{
+title: 'STAY',
+artist: 'BLACKPINK',
+album: 'Square Two',
+cover: 'img/staybp.jpg',
+mp3: '',
+ogg: 'mp3/staybp.ogg'
+},
+{
+title: 'Forever Young',
+artist: 'BLACKPINK',
+album: 'Square Up',
+cover: 'img/foreveryoungbp.jpg',
+mp3: '',
+ogg: 'mp3/foreveryoungbp.ogg'
+},
 ];
 
 	// Load playlist
