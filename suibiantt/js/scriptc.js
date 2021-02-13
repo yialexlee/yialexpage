@@ -510,6 +510,22 @@ cover: 'img/xingchengdahai.jpg',
 mp3: '',
 ogg: 'mp3/xingchengdahai.ogg'
 },
+{
+title: '浪子闲话',
+artist: '花僮',
+album: '',
+cover: 'img/langzixianhuahuatong.jpg',
+mp3: '',
+ogg: 'mp3/langzixianhuahuatong.ogg'
+},
+{
+title: '策馬正少年',
+artist: '肖战',
+album: '',
+cover: 'img/chemashishaonian.jpg',
+mp3: '',
+ogg: 'mp3/chemashishaonian.ogg'
+},
 ];
 
 	// Load playlist
