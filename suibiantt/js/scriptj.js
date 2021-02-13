@@ -1061,6 +1061,54 @@ cover: 'img/hoshiwoaogu.jpg',
 mp3: 'mp3/hoshiwoaogu.mp3',
 ogg: ''
 },
+{
+title: '魔法',
+artist: 'Myuk',
+album: '',
+cover: 'img/mahomyuk.jpg',
+mp3: '',
+ogg: 'mp3/mahomyuk.ogg'
+},
+{
+title: '醜い生き物',
+artist: 'CHiCO with HoneyWorks',
+album: '',
+cover: 'img/busaiikimonochico.jpg',
+mp3: '',
+ogg: 'mp3/busaiikimonochico.ogg'
+},
+{
+title: 'チチンプイプイ',
+artist: '真島ゆろ feat. flower・初音ミク（ RiMy × TOKU MIX cover. ）',
+album: '',
+cover: 'img/chichinpuipui.jpg',
+mp3: '',
+ogg: 'mp3/chichinpuipui.ogg'
+},
+{
+title: 'ドライフラワー',
+artist: 'Uru',
+album: '',
+cover: 'img/doraifurawauru.jpg',
+mp3: '',
+ogg: 'mp3/doraifurawauru.ogg'
+},
+{
+title: 'Give It Up？',
+artist: '96猫',
+album: '',
+cover: 'img/giveitup96neko.jpg',
+mp3: '',
+ogg: 'mp3/giveitup96neko.ogg'
+},
+{
+title: '5センチ先の夢',
+artist: 'H△G',
+album: '',
+cover: 'img/gosenchinoyumehg.jpg',
+mp3: '',
+ogg: 'mp3/gosenchinoyumehg.ogg'
+},
 ];
 
 	// Load playlist
