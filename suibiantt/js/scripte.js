@@ -285,6 +285,30 @@ cover: 'img/nottheendoftheworld.jpg',
 mp3: 'mp3/nottheendoftheworld.mp3',
 ogg: ''
 },
+{
+title: 'Scarborough Fair',
+artist: '加藤達也',
+album: '青い記憶',
+cover: 'img/scarboroughfair.jpg',
+mp3: '',
+ogg: 'mp3/scarboroughfair.ogg'
+},
+{
+title: 'Always in my heart',
+artist: '山田タマル',
+album: '青い記憶',
+cover: 'img/scarboroughfair.jpg',
+mp3: '',
+ogg: 'mp3/alwaysinmyheart.ogg'
+},
+{
+title: 'All The Ways',
+artist: 'Meghan Trainor',
+album: '',
+cover: 'img/allthewaysmeghan.jpg',
+mp3: '',
+ogg: 'mp3/allthewaysmeghan.ogg'
+},
 ];
 
 	// Load playlist
