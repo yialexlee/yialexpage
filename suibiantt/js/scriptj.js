@@ -1109,6 +1109,38 @@ cover: 'img/gosenchinoyume.jpg',
 mp3: '',
 ogg: 'mp3/gosenchinoyume.ogg'
 },
+{
+title: 'STARTLINE',
+artist: '大原櫻子',
+album: '',
+cover: 'img/sutarlineohara.jpg',
+mp3: '',
+ogg: 'mp3/sutarlineohara.ogg'
+},
+{
+title: '素直になりたい子の話',
+artist: 'りりあ',
+album: '',
+cover: 'img/sunaoninaritaikonohanashi.jpg',
+mp3: '',
+ogg: 'mp3/sunaoninaritaikonohanashi.ogg'
+},
+{
+title: '激辛LOVE',
+artist: 'ビヨーンズ',
+album: '',
+cover: 'img/gekikararabu.jpg',
+mp3: '',
+ogg: 'mp3/gekikararabu.ogg'
+},
+{
+title: 'ギラギラ',
+artist: 'Ado',
+album: '',
+cover: 'img/giragiraado.jpg',
+mp3: '',
+ogg: 'mp3/giragiraado.ogg'
+},
 ];
 
 	// Load playlist
