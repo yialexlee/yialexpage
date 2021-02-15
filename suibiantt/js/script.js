@@ -2765,7 +2765,62 @@ cover: 'img/chemashishaonian.jpg',
 mp3: '',
 ogg: 'mp3/chemashishaonian.ogg'
 },
-
+{
+title: 'STARTLINE',
+artist: '大原櫻子',
+album: '',
+cover: 'img/sutarlineohara.jpg',
+mp3: '',
+ogg: 'mp3/sutarlineohara.ogg'
+},
+{
+title: '素直になりたい子の話',
+artist: 'りりあ',
+album: '',
+cover: 'img/sunaoninaritaikonohanashi.jpg',
+mp3: '',
+ogg: 'mp3/sunaoninaritaikonohanashi.ogg'
+},
+{
+title: '激辛LOVE',
+artist: 'ビヨーンズ',
+album: '',
+cover: 'img/gekikararabu.jpg',
+mp3: '',
+ogg: 'mp3/gekikararabu.ogg'
+},
+{
+title: 'ギラギラ',
+artist: 'Ado',
+album: '',
+cover: 'img/giragiraado.jpg',
+mp3: '',
+ogg: 'mp3/giragiraado.ogg'
+},
+{
+title: 'Scarborough Fair',
+artist: '加藤達也',
+album: '青い記憶',
+cover: 'img/scarboroughfair.jpg',
+mp3: '',
+ogg: 'mp3/scarboroughfair.ogg'
+},
+{
+title: 'Always in my heart',
+artist: '山田タマル',
+album: '青い記憶',
+cover: 'img/scarboroughfair.jpg',
+mp3: '',
+ogg: 'mp3/alwaysinmyheart.ogg'
+},
+{
+title: 'All The Ways',
+artist: 'Meghan Trainor',
+album: '',
+cover: 'img/allthewaysmeghan.jpg',
+mp3: '',
+ogg: 'mp3/allthewaysmeghan.ogg'
+},
 ];
 
 	// Load playlist
