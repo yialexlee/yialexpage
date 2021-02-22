@@ -1141,6 +1141,38 @@ cover: 'img/giragiraado.jpg',
 mp3: '',
 ogg: 'mp3/giragiraado.ogg'
 },
+{
+title: 'キミとボクの歌',
+artist: '安斉かれん',
+album: '',
+cover: 'img/kimitobokunoutaanzai.jpg',
+mp3: '',
+ogg: 'mp3/kimitobokunoutaanzai.ogg'
+},
+{
+title: 'Unreachable love song',
+artist: 'Tani Yuuki',
+album: '',
+cover: 'img/unreachablelovesongtani.jpg',
+mp3: '',
+ogg: 'mp3/unreachablelovesongtani.ogg'
+},
+{
+title: '振り子',
+artist: 'ぷらそにか Cover',
+album: '',
+cover: 'img/furikopurasonika.jpg',
+mp3: '',
+ogg: 'mp3/furikopurasonika.ogg'
+},
+{
+title: '僕の戦争',
+artist: 'かまって',
+album: '',
+cover: 'img/bokunosensoukamate.jpg',
+mp3: '',
+ogg: 'mp3/bokunosensoukamate.ogg'
+},
 ];
 
 	// Load playlist
