@@ -2821,6 +2821,78 @@ cover: 'img/allthewaysmeghan.jpg',
 mp3: '',
 ogg: 'mp3/allthewaysmeghan.ogg'
 },
+{
+title: 'キミとボクの歌',
+artist: '安斉かれん',
+album: '',
+cover: 'img/kimitobokunoutaanzai.jpg',
+mp3: '',
+ogg: 'mp3/kimitobokunoutaanzai.ogg'
+},
+{
+title: 'Unreachable love song',
+artist: 'Tani Yuuki',
+album: '',
+cover: 'img/unreachablelovesongtani.jpg',
+mp3: '',
+ogg: 'mp3/unreachablelovesongtani.ogg'
+},
+{
+title: '振り子',
+artist: 'ぷらそにか Cover',
+album: '',
+cover: 'img/furikopurasonika.jpg',
+mp3: '',
+ogg: 'mp3/furikopurasonika.ogg'
+},
+{
+title: '僕の戦争',
+artist: 'かまって',
+album: '',
+cover: 'img/bokunosensoukamate.jpg',
+mp3: '',
+ogg: 'mp3/bokunosensoukamate.ogg'
+},
+{
+title: 'PARANOIA',
+artist: 'KANGDANIEL',
+album: '',
+cover: 'img/paranoiakangdaniel.jpg',
+mp3: '',
+ogg: 'mp3/paranoiakangdaniel.ogg'
+},
+{
+title: 'Waiting for Spring',
+artist: 'Kassy',
+album: '',
+cover: 'img/waitingforspringkassy.jpg',
+mp3: '',
+ogg: 'mp3/waitingforspringkassy.ogg'
+},
+{
+title: 'ZERO:ATTITUDE',
+artist: '소유 (SOYOU) X 아이즈원 (IZ*ONE)',
+album: '',
+cover: 'img/zeroattitudeizone.jpg',
+mp3: '',
+ogg: 'mp3/zeroattitudeizone.ogg'
+},
+{
+title: 'Bicycle',
+artist: '청하 (CHUNG HA)',
+album: '',
+cover: 'img/bicyclechungha.jpg',
+mp3: '',
+ogg: 'mp3/bicyclechungha.ogg'
+},
+{
+title: 'Bicycle',
+artist: '청하 (CHUNG HA)',
+album: '',
+cover: 'img/bicyclechungha.jpg',
+mp3: '',
+ogg: 'mp3/bicyclechungha.ogg'
+},
 ];
 
 	// Load playlist
