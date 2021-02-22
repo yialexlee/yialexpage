@@ -805,6 +805,38 @@ cover: 'img/foreveryoungbp.jpg',
 mp3: '',
 ogg: 'mp3/foreveryoungbp.ogg'
 },
+{
+title: 'PARANOIA',
+artist: 'KANGDANIEL',
+album: '',
+cover: 'img/paranoiakangdaniel.jpg',
+mp3: '',
+ogg: 'mp3/paranoiakangdaniel.ogg'
+},
+{
+title: 'Waiting for Spring',
+artist: 'Kassy',
+album: '',
+cover: 'img/waitingforspringkassy.jpg',
+mp3: '',
+ogg: 'mp3/waitingforspringkassy.ogg'
+},
+{
+title: 'ZERO:ATTITUDE',
+artist: '소유 (SOYOU) X 아이즈원 (IZ*ONE)',
+album: '',
+cover: 'img/zeroattitudeizone.jpg',
+mp3: '',
+ogg: 'mp3/zeroattitudeizone.ogg'
+},
+{
+title: 'Bicycle',
+artist: '청하 (CHUNG HA)',
+album: '',
+cover: 'img/bicyclechungha.jpg',
+mp3: '',
+ogg: 'mp3/bicyclechungha.ogg'
+},
 ];
 
 	// Load playlist
