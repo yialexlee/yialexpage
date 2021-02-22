@@ -2885,14 +2885,7 @@ cover: 'img/bicyclechungha.jpg',
 mp3: '',
 ogg: 'mp3/bicyclechungha.ogg'
 },
-{
-title: 'Bicycle',
-artist: '청하 (CHUNG HA)',
-album: '',
-cover: 'img/bicyclechungha.jpg',
-mp3: '',
-ogg: 'mp3/bicyclechungha.ogg'
-},
+
 ];
 
 	// Load playlist
