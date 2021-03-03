@@ -2933,6 +2933,39 @@ cover: 'img/ineedyourlovejake.jpg',
 mp3: '',
 ogg: 'mp3/ineedyourlovejake.ogg'
 },
+{
+title: 'Tears Of The Moon(달의 눈물)',
+artist: 'Kang Tae Kwan(강태관)',
+album: 'River Where the Moon Rises(달이 뜨는 강) OST Part.2',
+cover: 'img/tearsofthemoonkangtaekwan.jpg',
+mp3: '',
+ogg: 'mp3/tearsofthemoonkangtaekwan.ogg'
+},
+
+{
+title: '클리커 (Clicker)',
+artist: '이승협 (J.DON)',
+album: 'On The Track',
+cover: 'img/clickerjdon.jpg',
+mp3: '',
+ogg: 'mp3/clickerjdon.ogg'
+},
+{
+title: 'LA DI DA',
+artist: 'EVERGLOW (에버글로우)',
+album: '',
+cover: 'img/ladidaeverglow.jpg',
+mp3: '',
+ogg: 'mp3/ladidaeverglow.ogg'
+},
+{
+title: '바람이 불어와도 (Against The Wind)',
+artist: '안예은(AHN YE EUN)',
+album: '',
+cover: 'img/tearsofthemoonkangtaekwan.jpg',
+mp3: '',
+ogg: 'mp3/againstthewindahnyeeun.ogg'
+},
 ];
 
 	// Load playlist
