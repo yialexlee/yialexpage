@@ -2885,7 +2885,46 @@ cover: 'img/bicyclechungha.jpg',
 mp3: '',
 ogg: 'mp3/bicyclechungha.ogg'
 },
-
+{
+title: 'チャイムの音で',
+artist: 'Ayaho',
+album: '',
+cover: 'img/chaimunootodeayaho.jpg',
+mp3: '',
+ogg: 'mp3/chaimunootodeayaho.ogg'
+},
+{
+title: '桜恋',
+artist: 'もさを',
+album: '',
+cover: 'img/sakurakoimosao.jpg',
+mp3: '',
+ogg: 'mp3/sakurakoimosao.ogg'
+},
+{
+title: '寝れない夜に feat.yama',
+artist: 'くじ',
+album: '',
+cover: 'img/nerenaiyorunikuji.jpg',
+mp3: '',
+ogg: 'mp3/nerenaiyorunikuji.ogg'
+},
+{
+title: 'ねむるまち feat.yama',
+artist: 'くじ',
+album: '',
+cover: 'img/nemurumachikuji.jpg',
+mp3: '',
+ogg: 'mp3/nemurumachikuji.ogg'
+},
+{
+title: '限りなく灰色へ',
+artist: 'すりぃ feat.鏡音レン',
+album: '',
+cover: 'img/kagirinakuhaiiroesorii.jpg',
+mp3: '',
+ogg: 'mp3/kagirinakuhaiiroesorii.ogg'
+},
 ];
 
 	// Load playlist
