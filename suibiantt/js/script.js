@@ -409,9 +409,9 @@ ogg: ''
 title: 'Who I Am',
 artist: 'Milet',
 album: '',
-cover: 'img/whoiam.jpg',
-mp3: 'mp3/whoiam.mp3',
-ogg: ''
+cover: 'img/whoiammilet.jpg',
+mp3: '',
+ogg: 'mp3/whoiammilet.ogg'
 },
 {
 title: 'ぼくらのレットイットビー 針原 翼 / はりーP (feat. 初音ミク) (cover by 梦音)',
