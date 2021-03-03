@@ -526,6 +526,14 @@ cover: 'img/chemashishaonian.jpg',
 mp3: '',
 ogg: 'mp3/chemashishaonian.ogg'
 },
+{
+title: '与君相依',
+artist: '等什么君',
+album: '',
+cover: 'img/yujunxiangyidengshenmejun.jpg',
+mp3: '',
+ogg: 'mp3/yujunxiangyidengshenmejun.ogg'
+},
 ];
 
 	// Load playlist
