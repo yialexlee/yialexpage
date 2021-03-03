@@ -2966,6 +2966,22 @@ cover: 'img/tearsofthemoonkangtaekwan.jpg',
 mp3: '',
 ogg: 'mp3/againstthewindahnyeeun.ogg'
 },
+{
+title: '미쳐(Crazy)',
+artist: '4MINUTE',
+album: '',
+cover: 'img/crazy4minutes.jpg',
+mp3: '',
+ogg: 'mp3/crazy4minutes.ogg'
+},
+{
+title: '与君相依',
+artist: '等什么君',
+album: '',
+cover: 'img/yujunxiangyidengshenmejun.jpg',
+mp3: '',
+ogg: 'mp3/yujunxiangyidengshenmejun.ogg'
+},
 ];
 
 	// Load playlist
