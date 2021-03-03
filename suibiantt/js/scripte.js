@@ -309,6 +309,14 @@ cover: 'img/allthewaysmeghan.jpg',
 mp3: '',
 ogg: 'mp3/allthewaysmeghan.ogg'
 },
+{
+title: 'I Need Your Love-Nightcore',
+artist: 'Madilyn Bailey, Jake Coco',
+album: '',
+cover: 'img/ineedyourlovejake.jpg',
+mp3: '',
+ogg: 'mp3/ineedyourlovejake.ogg'
+},
 ];
 
 	// Load playlist
