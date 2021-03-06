@@ -534,6 +534,14 @@ cover: 'img/yujunxiangyidengshenmejun.jpg',
 mp3: '',
 ogg: 'mp3/yujunxiangyidengshenmejun.ogg'
 },
+{
+title: '弱水三千',
+artist: 'W.K',
+album: '',
+cover: 'img/ruoshuisanqian.jpg',
+mp3: '',
+ogg: 'mp3/ruoshuisanqian.ogg'
+},
 ];
 
 	// Load playlist
