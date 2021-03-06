@@ -1213,6 +1213,46 @@ cover: 'img/kagirinakuhaiiroesorii.jpg',
 mp3: '',
 ogg: 'mp3/kagirinakuhaiiroesorii.ogg'
 },
+{
+title: '桜が降る夜は',
+artist: 'あいみょん',
+album: '',
+cover: 'img/sakuragafuruyoruwaaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/sakuragafuruyoruwaaimiyon.ogg'
+},
+{
+title: 'Spotlight',
+artist: 'Rude-α ',
+album: 'Paradise',
+cover: 'img/spotlightrudea.jpg',
+mp3: '',
+ogg: 'mp3/spotlightrudea.ogg'
+},
+{
+title: 'Paradise',
+artist: 'Rude-α ',
+album: 'Paradise',
+cover: 'img/spotlightrudea.jpg',
+mp3: '',
+ogg: 'mp3/paradiserudea.ogg'
+},
+{
+title: '旅路',
+artist: '藤井風',
+album: '',
+cover: 'img/tabijifujikaze.jpg',
+mp3: '',
+ogg: 'mp3/tabijifujikaze.ogg'
+},
+{
+title: '私を殺さないで',
+artist: 'CHiCO with HoneyWorks',
+album: '',
+cover: 'img/watashiokorosanaidechico.jpg',
+mp3: '',
+ogg: 'mp3/watashiokorosanaidechico.ogg'
+},
 ];
 
 	// Load playlist
