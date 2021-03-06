@@ -2982,6 +2982,70 @@ cover: 'img/yujunxiangyidengshenmejun.jpg',
 mp3: '',
 ogg: 'mp3/yujunxiangyidengshenmejun.ogg'
 },
+{
+title: '桜が降る夜は',
+artist: 'あいみょん',
+album: '',
+cover: 'img/sakuragafuruyoruwaaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/sakuragafuruyoruwaaimiyon.ogg'
+},
+{
+title: 'Spotlight',
+artist: 'Rude-α ',
+album: 'Paradise',
+cover: 'img/spotlightrudea.jpg',
+mp3: '',
+ogg: 'mp3/spotlightrudea.ogg'
+},
+{
+title: 'Paradise',
+artist: 'Rude-α ',
+album: 'Paradise',
+cover: 'img/spotlightrudea.jpg',
+mp3: '',
+ogg: 'mp3/paradiserudea.ogg'
+},
+{
+title: '旅路',
+artist: '藤井風',
+album: '',
+cover: 'img/tabijifujikaze.jpg',
+mp3: '',
+ogg: 'mp3/tabijifujikaze.ogg'
+},
+{
+title: '私を殺さないで',
+artist: 'CHiCO with HoneyWorks',
+album: '',
+cover: 'img/watashiokorosanaidechico.jpg',
+mp3: '',
+ogg: 'mp3/watashiokorosanaidechico.ogg'
+},
+{
+title: 'MELODY',
+artist: 'ASH ISLAND',
+album: '',
+cover: 'img/melodyashisland.jpg',
+mp3: '',
+ogg: 'mp3/melodyashisland.ogg'
+},
+{
+title: '좋은 이별이 있을 리가 없잖아(Feat. 조현아 Of 어반자카파)',
+artist: 'MC몽',
+album: '',
+cover: 'img/cantbegoodbreakupmc.jpg',
+mp3: '',
+ogg: 'mp3/cantbegoodbreakupmc.ogg'
+},
+{
+title: '弱水三千',
+artist: 'W.K',
+album: '',
+cover: 'img/ruoshuisanqian.jpg',
+mp3: '',
+ogg: 'mp3/ruoshuisanqian.ogg'
+},
 ];
 
 	// Load playlist
