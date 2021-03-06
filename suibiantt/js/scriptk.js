@@ -878,6 +878,22 @@ cover: 'img/crazy4minutes.jpg',
 mp3: '',
 ogg: 'mp3/crazy4minutes.ogg'
 },
+{
+title: 'MELODY',
+artist: 'ASH ISLAND',
+album: '',
+cover: 'img/melodyashisland.jpg',
+mp3: '',
+ogg: 'mp3/melodyashisland.ogg'
+},
+{
+title: '좋은 이별이 있을 리가 없잖아(Feat. 조현아 Of 어반자카파)',
+artist: 'MC몽',
+album: '',
+cover: 'img/cantbegoodbreakupmc.jpg',
+mp3: '',
+ogg: 'mp3/cantbegoodbreakupmc.ogg'
+},
 ];
 
 	// Load playlist
