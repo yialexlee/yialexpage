@@ -1253,6 +1253,14 @@ cover: 'img/watashiokorosanaidechico.jpg',
 mp3: '',
 ogg: 'mp3/watashiokorosanaidechico.ogg'
 },
+{
+title: 'ケダモノのフレンズ',
+artist: 'にしな Nishina',
+album: '',
+cover: 'img/kedamonofurensunishina.jpg',
+mp3: '',
+ogg: 'mp3/kedamonofurensunishina.ogg'
+},
 ];
 
 	// Load playlist
