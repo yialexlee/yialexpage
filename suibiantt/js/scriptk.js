@@ -894,6 +894,14 @@ cover: 'img/cantbegoodbreakupmc.jpg',
 mp3: '',
 ogg: 'mp3/cantbegoodbreakupmc.ogg'
 },
+{
+title: '3!4!',
+artist: 'SOYA (소야) & DinDin (딘딘)',
+album: 'Hello, Me! (안녕? 나야!) OST Part 3',
+cover: 'img/34soyadindin.jpg',
+mp3: '',
+ogg: 'mp3/34soyadindin.ogg'
+},
 ];
 
 	// Load playlist
