@@ -902,6 +902,30 @@ cover: 'img/34soyadindin.jpg',
 mp3: '',
 ogg: 'mp3/34soyadindin.ogg'
 },
+{
+title: 'My Last Love',
+artist: '에일리(AILEE)',
+album: 'SISYPHUS: the myth OST Part 3',
+cover: 'img/mylastloveailee.jpg',
+mp3: '',
+ogg: 'mp3/mylastloveailee.ogg'
+},
+{
+title: 'Stay: tempus',
+artist: 'GSoul (지소울)',
+album: 'SISYPHUS: the myth OST Part 1',
+cover: 'img/staygsoul.jpg',
+mp3: '',
+ogg: 'mp3/staygsoul.ogg'
+},
+{
+title: 'Someday 그 시간, 그 공간',
+artist: '허각 Huh Gak',
+album: 'Hello, Me! OST Part 4',
+cover: 'img/somedayhuhgak.jpg',
+mp3: '',
+ogg: 'mp3/somedayhuhgak.ogg'
+},
 ];
 
 	// Load playlist
