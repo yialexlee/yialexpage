@@ -1261,6 +1261,62 @@ cover: 'img/kedamonofurensunishina.jpg',
 mp3: '',
 ogg: 'mp3/kedamonofurensunishina.ogg'
 },
+{
+title: 'Stand by me, Stand by you. / 平井大 (cover)',
+artist: 'ぷらそにか',
+album: '',
+cover: 'img/standbymepurasonika.jpg',
+mp3: '',
+ogg: 'mp3/standbymepurasonika.ogg'
+},
+{
+title: 'Centi',
+artist: 'にしな',
+album: '',
+cover: 'img/centinishina.jpg',
+mp3: '',
+ogg: 'mp3/centinishina.ogg'
+},
+{
+title: 'Not the End',
+artist: '安田レイ',
+album: '',
+cover: 'img/yasudareinottheend.jpg',
+mp3: '',
+ogg: 'mp3/yasudareinottheend.ogg'
+},
+{
+title: 'アルカシア',
+artist: 'saji',
+album: '',
+cover: 'img/arukashiasaji.jpg',
+mp3: '',
+ogg: 'mp3/arukashiasaji.ogg'
+},
+{
+title: 'ただいま',
+artist: '手嶌葵',
+album: '',
+cover: 'img/aoiteshimatadaima.jpg',
+mp3: '',
+ogg: 'mp3/aoiteshimatadaima.ogg'
+},
+{
+title: '旅人の唄',
+artist: '大原ゆい子',
+album: '',
+cover: 'img/tabibitonoutaoharayuiko.jpg',
+mp3: '',
+ogg: 'mp3/tabibitonoutaoharayuiko.ogg'
+},
+{
+title: 'Answer',
+artist: '幾田りら',
+album: '',
+cover: 'img/answerikutarika.jpg',
+mp3: '',
+ogg: 'mp3/answerikutarika.ogg'
+},
 ];
 
 	// Load playlist
