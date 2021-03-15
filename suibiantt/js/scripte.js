@@ -317,6 +317,46 @@ cover: 'img/ineedyourlovejake.jpg',
 mp3: '',
 ogg: 'mp3/ineedyourlovejake.ogg'
 },
+{
+title: 'Fight For Love: Aria For Myth',
+artist: '조수미 Jo Sumi',
+album: 'Sisyphus: The Myth OST Part 2',
+cover: 'img/fightforlovejosumi.jpg',
+mp3: '',
+ogg: 'mp3/fightforlovejosumi.ogg'
+},
+{
+title: 'Heartbreak Anniversary',
+artist: 'Giveon',
+album: '',
+cover: 'img/giveonheartbreakanni.jpg',
+mp3: '',
+ogg: 'mp3/giveonheartbreakanni.ogg'
+},
+{
+title: 'Gone',
+artist: 'ROSÉ',
+album: '',
+cover: 'img/gonerose.jpg',
+mp3: '',
+ogg: 'mp3/gonerose.ogg'
+},
+{
+title: 'On The Ground',
+artist: 'ROSÉ',
+album: '',
+cover: 'img/gonerose.jpg',
+mp3: '',
+ogg: 'mp3/onthegroundrose.ogg'
+},
+{
+title: 'Beautiful Mistakes ft. Megan Thee Stallion',
+artist: 'Maroon 5',
+album: '',
+cover: 'img/beautifulmistakemaroon5.jpg',
+mp3: '',
+ogg: 'mp3/beautifulmistakemaroon5.ogg'
+},
 ];
 
 	// Load playlist
