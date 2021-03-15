@@ -3062,6 +3062,126 @@ cover: 'img/kedamonofurensunishina.jpg',
 mp3: '',
 ogg: 'mp3/kedamonofurensunishina.ogg'
 },
+{
+title: 'Stand by me, Stand by you. / 平井大 (cover)',
+artist: 'ぷらそにか',
+album: '',
+cover: 'img/standbymepurasonika.jpg',
+mp3: '',
+ogg: 'mp3/standbymepurasonika.ogg'
+},
+{
+title: 'Centi',
+artist: 'にしな',
+album: '',
+cover: 'img/centinishina.jpg',
+mp3: '',
+ogg: 'mp3/centinishina.ogg'
+},
+{
+title: 'Not the End',
+artist: '安田レイ',
+album: '',
+cover: 'img/yasudareinottheend.jpg',
+mp3: '',
+ogg: 'mp3/yasudareinottheend.ogg'
+},
+{
+title: 'アルカシア',
+artist: 'saji',
+album: '',
+cover: 'img/arukashiasaji.jpg',
+mp3: '',
+ogg: 'mp3/arukashiasaji.ogg'
+},
+{
+title: 'ただいま',
+artist: '手嶌葵',
+album: '',
+cover: 'img/aoiteshimatadaima.jpg',
+mp3: '',
+ogg: 'mp3/aoiteshimatadaima.ogg'
+},
+{
+title: '旅人の唄',
+artist: '大原ゆい子',
+album: '',
+cover: 'img/tabibitonoutaoharayuiko.jpg',
+mp3: '',
+ogg: 'mp3/tabibitonoutaoharayuiko.ogg'
+},
+{
+title: 'Answer',
+artist: '幾田りら',
+album: '',
+cover: 'img/answerikutarika.jpg',
+mp3: '',
+ogg: 'mp3/answerikutarika.ogg'
+},
+{
+title: 'My Last Love',
+artist: '에일리(AILEE)',
+album: 'SISYPHUS: the myth OST Part 3',
+cover: 'img/mylastloveailee.jpg',
+mp3: '',
+ogg: 'mp3/mylastloveailee.ogg'
+},
+{
+title: 'Stay: tempus',
+artist: 'GSoul (지소울)',
+album: 'SISYPHUS: the myth OST Part 1',
+cover: 'img/staygsoul.jpg',
+mp3: '',
+ogg: 'mp3/staygsoul.ogg'
+},
+{
+title: 'Someday 그 시간, 그 공간',
+artist: '허각 Huh Gak',
+album: 'Hello, Me! OST Part 4',
+cover: 'img/somedayhuhgak.jpg',
+mp3: '',
+ogg: 'mp3/somedayhuhgak.ogg'
+},
+{
+title: 'Fight For Love: Aria For Myth',
+artist: '조수미 Jo Sumi',
+album: 'Sisyphus: The Myth OST Part 2',
+cover: 'img/fightforlovejosumi.jpg',
+mp3: '',
+ogg: 'mp3/fightforlovejosumi.ogg'
+},
+{
+title: 'Heartbreak Anniversary',
+artist: 'Giveon',
+album: '',
+cover: 'img/giveonheartbreakanni.jpg',
+mp3: '',
+ogg: 'mp3/giveonheartbreakanni.ogg'
+},
+{
+title: 'Gone',
+artist: 'ROSÉ',
+album: '',
+cover: 'img/gonerose.jpg',
+mp3: '',
+ogg: 'mp3/gonerose.ogg'
+},
+{
+title: 'On The Ground',
+artist: 'ROSÉ',
+album: '',
+cover: 'img/gonerose.jpg',
+mp3: '',
+ogg: 'mp3/onthegroundrose.ogg'
+},
+{
+title: 'Beautiful Mistakes ft. Megan Thee Stallion',
+artist: 'Maroon 5',
+album: '',
+cover: 'img/beautifulmistakemaroon5.jpg',
+mp3: '',
+ogg: 'mp3/beautifulmistakemaroon5.ogg'
+},
 ];
 
 	// Load playlist
