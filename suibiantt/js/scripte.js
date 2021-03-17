@@ -357,6 +357,46 @@ cover: 'img/beautifulmistakemaroon5.jpg',
 mp3: '',
 ogg: 'mp3/beautifulmistakemaroon5.ogg'
 },
+{
+title: 'Hold On',
+artist: 'Justin Bieber',
+album: '',
+cover: 'img/holdonjustinbieber.jpg',
+mp3: '',
+ogg: 'mp3/holdonjustinbieber.ogg'
+},
+{
+title: 'Astronaut In The Ocean',
+artist: 'Masked Wolf',
+album: '',
+cover: 'img/astronautmaskedwolf.jpg',
+mp3: '',
+ogg: 'mp3/astronautmaskedwolf.ogg'
+},
+{
+title: 'la di die (feat. jxdn)',
+artist: 'Nessa Barrett',
+album: '',
+cover: 'img/ladidienessabarrett.jpg',
+mp3: '',
+ogg: 'mp3/ladidienessabarrett.ogg'
+},
+{
+title: 'My Head & My Heart',
+artist: 'Ava Max',
+album: '',
+cover: 'img/myheadnmyheartavamax.jpg',
+mp3: '',
+ogg: 'mp3/myheadnmyheartavamax.ogg'
+},
+{
+title: 'Sacrifice',
+artist: 'Bebe Rexha',
+album: '',
+cover: 'img/sacrificebebe.jpg',
+mp3: '',
+ogg: 'mp3/sacrificebebe.ogg'
+},
 ];
 
 	// Load playlist
