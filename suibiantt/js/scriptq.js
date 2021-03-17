@@ -53,6 +53,14 @@ cover: 'img/tiaojiongkui.jpg',
 mp3: 'mp3/tiaojiongkui.mp3',
 ogg: ''
 },
+{
+title: 'Adrenaline',
+artist: 'Aalia',
+album: '',
+cover: 'img/adrenalineaalia.jpg',
+mp3: '',
+ogg: 'mp3/adrenalineaalia.ogg'
+},
 ];
 
 	// Load playlist
