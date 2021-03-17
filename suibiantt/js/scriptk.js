@@ -926,6 +926,30 @@ cover: 'img/somedayhuhgak.jpg',
 mp3: '',
 ogg: 'mp3/somedayhuhgak.ogg'
 },
+{
+title: 'After School',
+artist: 'Weeekly(위클리)',
+album: '',
+cover: 'img/afterschoolweekly.jpg',
+mp3: '',
+ogg: 'mp3/afterschoolweekly.ogg'
+},
+{
+title: 'Timeless',
+artist: 'BIBI (비비)',
+album: '',
+cover: 'img/timelessbibi.jpg',
+mp3: '',
+ogg: 'mp3/timelessbibi.ogg'
+},
+{
+title: 'Ponzona',
+artist: 'PURPLE KISS(퍼플키스)',
+album: '',
+cover: 'img/ponzonapurplekiss.jpg',
+mp3: '',
+ogg: 'mp3/ponzonapurplekiss.ogg'
+},
 ];
 
 	// Load playlist
