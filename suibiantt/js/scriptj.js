@@ -1317,6 +1317,14 @@ cover: 'img/answerikutarika.jpg',
 mp3: '',
 ogg: 'mp3/answerikutarika.ogg'
 },
+{
+title: 'One Last Kiss',
+artist: '宇多田ヒカル',
+album: '',
+cover: 'img/onelastkissutadahikaru.jpg',
+mp3: '',
+ogg: 'mp3/onelastkissutadahikaru.ogg'
+},
 ];
 
 	// Load playlist
