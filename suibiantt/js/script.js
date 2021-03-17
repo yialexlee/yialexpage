@@ -3182,6 +3182,86 @@ cover: 'img/beautifulmistakemaroon5.jpg',
 mp3: '',
 ogg: 'mp3/beautifulmistakemaroon5.ogg'
 },
+{
+title: 'One Last Kiss',
+artist: '宇多田ヒカル',
+album: '',
+cover: 'img/onelastkissutadahikaru.jpg',
+mp3: '',
+ogg: 'mp3/onelastkissutadahikaru.ogg'
+},
+{
+title: 'After School',
+artist: 'Weeekly(위클리)',
+album: '',
+cover: 'img/afterschoolweekly.jpg',
+mp3: '',
+ogg: 'mp3/afterschoolweekly.ogg'
+},
+{
+title: 'Timeless',
+artist: 'BIBI (비비)',
+album: '',
+cover: 'img/timelessbibi.jpg',
+mp3: '',
+ogg: 'mp3/timelessbibi.ogg'
+},
+{
+title: 'Ponzona',
+artist: 'PURPLE KISS(퍼플키스)',
+album: '',
+cover: 'img/ponzonapurplekiss.jpg',
+mp3: '',
+ogg: 'mp3/ponzonapurplekiss.ogg'
+},
+{
+title: 'Hold On',
+artist: 'Justin Bieber',
+album: '',
+cover: 'img/holdonjustinbieber.jpg',
+mp3: '',
+ogg: 'mp3/holdonjustinbieber.ogg'
+},
+{
+title: 'Astronaut In The Ocean',
+artist: 'Masked Wolf',
+album: '',
+cover: 'img/astronautmaskedwolf.jpg',
+mp3: '',
+ogg: 'mp3/astronautmaskedwolf.ogg'
+},
+{
+title: 'la di die (feat. jxdn)',
+artist: 'Nessa Barrett',
+album: '',
+cover: 'img/ladidienessabarrett.jpg',
+mp3: '',
+ogg: 'mp3/ladidienessabarrett.ogg'
+},
+{
+title: 'My Head & My Heart',
+artist: 'Ava Max',
+album: '',
+cover: 'img/myheadnmyheartavamax.jpg',
+mp3: '',
+ogg: 'mp3/myheadnmyheartavamax.ogg'
+},
+{
+title: 'Sacrifice',
+artist: 'Bebe Rexha',
+album: '',
+cover: 'img/sacrificebebe.jpg',
+mp3: '',
+ogg: 'mp3/sacrificebebe.ogg'
+},
+{
+title: 'Adrenaline',
+artist: 'Aalia',
+album: '',
+cover: 'img/adrenalineaalia.jpg',
+mp3: '',
+ogg: 'mp3/adrenalineaalia.ogg'
+},
 ];
 
 	// Load playlist
