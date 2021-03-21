@@ -32,14 +32,14 @@
 	.box a span {display:block;float:left;width:30px;background:#636871;color:#fff;font-size:16px;text-align:center;margin-right:10px;font-style:normal;}
 	#button {
   display: inline-block;
-  background-color: red;
+  background-color: transparent;
   width: 50px;
   height: 50px;
   text-align: center;
   border-radius: 50%;
   position: fixed;
-  bottom: 20px;
-  right: 20px;
+  bottom: -1px;
+  right: -23px;
   transition: background-color .3s, 
     opacity .5s, visibility .5s;
   opacity: 0;
@@ -57,10 +57,10 @@
 }
 #button:hover {
   cursor: pointer;
-  background-color: #5FA429;
+  background-color: black;
 }
 #button:active {
-  background-color: #FF9800;
+  background-color: black;
 }
 #button.show {
   opacity: 1;
