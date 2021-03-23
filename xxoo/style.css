@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Mandali|Raleway:900&display=swap');
-
+.h1 {
+  margin: 0 0 0.5rem 0;
+  text-align: center;
+  white-space: nowrap;
+   color: white;
+}
 input[type="radio"],
 input[type="checkbox"] {
   position: absolute;
@@ -132,7 +137,7 @@ html, body {
   position: absolute;
   top: 0;
   left: 0;
-  background: rgba(0,0,0,0.10);
+  background: #f5f5f5;
   font-family: Raleway, Courier, 'Courier New', Sans, sans-serif;
   font-weight: bolder;
 }
