@@ -1325,6 +1325,30 @@ cover: 'img/onelastkissutadahikaru.jpg',
 mp3: '',
 ogg: 'mp3/onelastkissutadahikaru.ogg'
 },
+{
+title: 'たとえたとえ',
+artist: '緑黄色社会',
+album: '',
+cover: 'img/tatoetatoe.jpg',
+mp3: '',
+ogg: 'mp3/tatoetatoe.ogg'
+},
+{
+title: '誇り高きアイドル',
+artist: 'HoneyWorks feat.Kotoha',
+album: '',
+cover: 'img/hokoritakakiaidoruhnwork.jpg',
+mp3: '',
+ogg: 'mp3/hokoritakakiaidoruhnwork.ogg'
+},
+{
+title: 'Blaze',
+artist: 'lol',
+album: '',
+cover: 'img/blazelol.jpg',
+mp3: '',
+ogg: 'mp3/blazelol.ogg'
+},
 ];
 
 	// Load playlist
