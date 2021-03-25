@@ -3262,6 +3262,54 @@ cover: 'img/adrenalineaalia.jpg',
 mp3: '',
 ogg: 'mp3/adrenalineaalia.ogg'
 },
+{
+title: 'たとえたとえ',
+artist: '緑黄色社会',
+album: '',
+cover: 'img/tatoetatoe.jpg',
+mp3: '',
+ogg: 'mp3/tatoetatoe.ogg'
+},
+{
+title: '誇り高きアイドル',
+artist: 'HoneyWorks feat.Kotoha',
+album: '',
+cover: 'img/hokoritakakiaidoruhnwork.jpg',
+mp3: '',
+ogg: 'mp3/hokoritakakiaidoruhnwork.ogg'
+},
+{
+title: 'Blaze',
+artist: 'lol',
+album: '',
+cover: 'img/blazelol.jpg',
+mp3: '',
+ogg: 'mp3/blazelol.ogg'
+},
+{
+title: 'House Party',
+artist: 'SUPER JUNIOR',
+album: '',
+cover: 'img/housepartysuperjunior.jpg',
+mp3: '',
+ogg: 'mp3/housepartysuperjunior.ogg'
+},
+{
+title: 'DO or NOT',
+artist: 'PENTAGON',
+album: '',
+cover: 'img/doornotpentagon.jpg',
+mp3: '',
+ogg: 'mp3/doornotpentagon.ogg'
+},
+{
+title: 'LILAC',
+artist: 'IU',
+album: '',
+cover: 'img/lilaciu.jpg',
+mp3: '',
+ogg: 'mp3/lilaciu.ogg'
+},
 ];
 
 	// Load playlist
