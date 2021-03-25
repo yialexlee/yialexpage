@@ -950,6 +950,30 @@ cover: 'img/ponzonapurplekiss.jpg',
 mp3: '',
 ogg: 'mp3/ponzonapurplekiss.ogg'
 },
+{
+title: 'House Party',
+artist: 'SUPER JUNIOR',
+album: '',
+cover: 'img/housepartysuperjunior.jpg',
+mp3: '',
+ogg: 'mp3/housepartysuperjunior.ogg'
+},
+{
+title: 'DO or NOT',
+artist: 'PENTAGON',
+album: '',
+cover: 'img/doornotpentagon.jpg',
+mp3: '',
+ogg: 'mp3/doornotpentagon.ogg'
+},
+{
+title: 'LILAC',
+artist: 'IU',
+album: '',
+cover: 'img/lilaciu.jpg',
+mp3: '',
+ogg: 'mp3/lilaciu.ogg'
+},
 ];
 
 	// Load playlist
