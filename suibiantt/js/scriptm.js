@@ -478,6 +478,14 @@ cover: 'img/senbonsakuraviolinpiano.jpg',
 mp3: '',
 ogg: 'mp3/senbonsakuraviolinpiano.ogg'
 },
+{
+title: 'The Most Classic EVANGELION Songs Piano Medley',
+artist: 'Ru Piano',
+album: '',
+cover: 'img/mostclassicevangelonpiano.jpg',
+mp3: '',
+ogg: 'mp3/mostclassicevangelonpiano.ogg'
+},
 ];
 
 	// Load playlist
