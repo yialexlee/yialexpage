@@ -3310,6 +3310,22 @@ cover: 'img/lilaciu.jpg',
 mp3: '',
 ogg: 'mp3/lilaciu.ogg'
 },
+{
+title: 'Skyline',
+artist: '이소정 Lee Sojung',
+album: '',
+cover: 'img/skylineleesojung.jpg',
+mp3: '',
+ogg: 'mp3/skylineleesojung.ogg'
+},
+{
+title: 'Coin',
+artist: 'IU',
+album: '',
+cover: 'img/lilaciu.jpg',
+mp3: '',
+ogg: 'mp3/coiniu.ogg'
+},
 ];
 
 	// Load playlist
