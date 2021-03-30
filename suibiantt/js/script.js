@@ -3326,6 +3326,62 @@ cover: 'img/lilaciu.jpg',
 mp3: '',
 ogg: 'mp3/coiniu.ogg'
 },
+{
+title: 'フールフールフール',
+artist: 'おくのほそみち feat. Ado',
+album: '',
+cover: 'img/foolfoolhosomichiado.jpg',
+mp3: '',
+ogg: 'mp3/foolfoolhosomichiado.ogg'
+},
+{
+title: '三原色',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/sangenshokuyoasoobi.jpg',
+mp3: '',
+ogg: 'mp3/sangenshokuyoasoobi.ogg'
+},
+{
+title: 'TAKE A PICTURE',
+artist: 'NiziU',
+album: '',
+cover: 'img/takeapicniziu.jpg',
+mp3: '',
+ogg: 'mp3/takeapicniziu.ogg'
+},
+{
+title: 'Bad Ones',
+artist: 'Tate McRae',
+album: '',
+cover: 'img/badonesmcrae.jpg',
+mp3: '',
+ogg: 'mp3/badonesmcrae.ogg'
+},
+{
+title: '勘冴えて悔しいわ',
+artist: 'ずっと真夜中でいいのに',
+album: '',
+cover: 'img/kansaetekuyashiiwazutomayo.jpg',
+mp3: '',
+ogg: 'mp3/kansaetekuyashiiwazutomayo.ogg'
+},
+{
+title: 'わけあって',
+artist: '當山みれい',
+album: '',
+cover: 'img/wakeattemirei.jpg',
+mp3: '',
+ogg: 'mp3/wakeattemirei.ogg'
+},
+{
+title: 'Лепесток',
+artist: 'MIA BOYKA, T-killah',
+album: '',
+cover: 'img/lepestokmiaboyka.jpg',
+mp3: '',
+ogg: 'mp3/lepestokmiaboyka.ogg'
+},
 ];
 
 	// Load playlist
