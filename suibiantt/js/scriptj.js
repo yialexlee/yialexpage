@@ -1373,6 +1373,14 @@ cover: 'img/takeapicniziu.jpg',
 mp3: '',
 ogg: 'mp3/takeapicniziu.ogg'
 },
+{
+title: 'わけあって',
+artist: '當山みれい',
+album: '',
+cover: 'img/wakeattemirei.jpg',
+mp3: '',
+ogg: 'mp3/wakeattemirei.ogg'
+},
 ];
 
 	// Load playlist
