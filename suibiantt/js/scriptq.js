@@ -61,6 +61,14 @@ cover: 'img/adrenalineaalia.jpg',
 mp3: '',
 ogg: 'mp3/adrenalineaalia.ogg'
 },
+{
+title: 'Лепесток',
+artist: 'MIA BOYKA, T-killah',
+album: '',
+cover: 'img/lepestokmiaboyka.jpg',
+mp3: '',
+ogg: 'mp3/lepestokmiaboyka.ogg'
+},
 ];
 
 	// Load playlist
