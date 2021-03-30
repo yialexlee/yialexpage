@@ -1349,6 +1349,30 @@ cover: 'img/blazelol.jpg',
 mp3: '',
 ogg: 'mp3/blazelol.ogg'
 },
+{
+title: 'フールフールフール',
+artist: 'おくのほそみち feat. Ado',
+album: '',
+cover: 'img/foolfoolhosomichiado.jpg',
+mp3: '',
+ogg: 'mp3/foolfoolhosomichiado.ogg'
+},
+{
+title: '三原色',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/sangenshokuyoasoobi.jpg',
+mp3: '',
+ogg: 'mp3/sangenshokuyoasoobi.ogg'
+},
+{
+title: 'TAKE A PICTURE',
+artist: 'NiziU',
+album: '',
+cover: 'img/takeapicniziu.jpg',
+mp3: '',
+ogg: 'mp3/takeapicniziu.ogg'
+},
 ];
 
 	// Load playlist
