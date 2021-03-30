@@ -397,6 +397,14 @@ cover: 'img/sacrificebebe.jpg',
 mp3: '',
 ogg: 'mp3/sacrificebebe.ogg'
 },
+{
+title: 'Bad Ones',
+artist: 'Tate McRae',
+album: '',
+cover: 'img/badonesmcrae.jpg',
+mp3: '',
+ogg: 'mp3/badonesmcrae.ogg'
+},
 ];
 
 	// Load playlist
