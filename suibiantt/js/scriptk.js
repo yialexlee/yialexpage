@@ -990,6 +990,30 @@ cover: 'img/lilaciu.jpg',
 mp3: '',
 ogg: 'mp3/coiniu.ogg'
 },
+{
+title: 'Elegante',
+artist: 'Azer',
+album: '',
+cover: 'img/eleganteazer.jpg',
+mp3: '',
+ogg: 'mp3/eleganteazer.ogg'
+},
+{
+title: 'Warning (Feat. lIlBOI)',
+artist: '김세정',
+album: '',
+cover: 'img/warningkimsejeong.jpg',
+mp3: '',
+ogg: 'mp3/warningkimsejeong.ogg'
+},
+{
+title: 'UNNATURAL',
+artist: 'WJSN(우주소녀)',
+album: '',
+cover: 'img/unnaturalwjsn.jpg',
+mp3: '',
+ogg: 'mp3/unnaturalwjsn.ogg'
+},
 ];
 
 	// Load playlist
