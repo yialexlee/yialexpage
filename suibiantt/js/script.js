@@ -3382,6 +3382,86 @@ cover: 'img/lepestokmiaboyka.jpg',
 mp3: '',
 ogg: 'mp3/lepestokmiaboyka.ogg'
 },
+{
+title: '最後のキス',
+artist: 'Non Stop Rabbit',
+album: '',
+cover: 'img/saigonokisunsr.jpg',
+mp3: '',
+ogg: 'mp3/saigonokisunsr.ogg'
+},
+{
+title: '真刀勝負',
+artist: 'FantasticYouth',
+album: '',
+cover: 'img/shintoshobufantasticyouth.jpg',
+mp3: '',
+ogg: 'mp3/shintoshobufantasticyouth.ogg'
+},
+{
+title: 'Radio Noise feat. Ado',
+artist: 'ミコ吉',
+album: '',
+cover: 'img/rajionoisumikokichi.jpg',
+mp3: '',
+ogg: 'mp3/shintoshobufantasticyouth.ogg'
+},
+{
+title: 'BAN',
+artist: '櫻坂46',
+album: '',
+cover: 'img/bansakurazaka46.jpg',
+mp3: 'BAN',
+ogg: 'mp3/bansakurazaka46.ogg'
+},
+{
+title: '思ったよりも寂しくない',
+artist: '櫻坂46',
+album: '',
+cover: 'img/bansakurazaka46.jpg',
+mp3: 'BAN',
+ogg: 'mp3/omotayorimosabishikunai.ogg'
+},
+{
+title: 'Elegante',
+artist: 'Azer',
+album: '',
+cover: 'img/eleganteazer.jpg',
+mp3: '',
+ogg: 'mp3/eleganteazer.ogg'
+},
+{
+title: 'Warning (Feat. lIlBOI)',
+artist: '김세정',
+album: '',
+cover: 'img/warningkimsejeong.jpg',
+mp3: '',
+ogg: 'mp3/warningkimsejeong.ogg'
+},
+{
+title: 'UNNATURAL',
+artist: 'WJSN(우주소녀)',
+album: '',
+cover: 'img/unnaturalwjsn.jpg',
+mp3: '',
+ogg: 'mp3/unnaturalwjsn.ogg'
+},
+{
+title: 'Josh',
+artist: 'Peach PRC',
+album: '',
+cover: 'img/joshpeachprc.jpg',
+mp3: '',
+ogg: 'mp3/joshpeachprc.ogg'
+},
+{
+title: 'Do You Believe',
+artist: 'Ali Gatie with Marshmello & Ty Dolla $ign',
+album: '',
+cover: 'img/doubelievealigatie.jpg',
+mp3: '',
+ogg: 'mp3/doubelievealigatie.ogg'
+},
 ];
 
 	// Load playlist
