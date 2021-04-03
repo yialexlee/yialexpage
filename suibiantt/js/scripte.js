@@ -405,6 +405,22 @@ cover: 'img/badonesmcrae.jpg',
 mp3: '',
 ogg: 'mp3/badonesmcrae.ogg'
 },
+{
+title: 'Josh',
+artist: 'Peach PRC',
+album: '',
+cover: 'img/joshpeachprc.jpg',
+mp3: '',
+ogg: 'mp3/joshpeachprc.ogg'
+},
+{
+title: 'Do You Believe',
+artist: 'Ali Gatie with Marshmello & Ty Dolla $ign',
+album: '',
+cover: 'img/doubelievealigatie.jpg',
+mp3: '',
+ogg: 'mp3/doubelievealigatie.ogg'
+},
 ];
 
 	// Load playlist
