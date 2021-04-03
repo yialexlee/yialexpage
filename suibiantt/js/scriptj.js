@@ -1381,6 +1381,46 @@ cover: 'img/wakeattemirei.jpg',
 mp3: '',
 ogg: 'mp3/wakeattemirei.ogg'
 },
+{
+title: '最後のキス',
+artist: 'Non Stop Rabbit',
+album: '',
+cover: 'img/saigonokisunsr.jpg',
+mp3: '',
+ogg: 'mp3/saigonokisunsr.ogg'
+},
+{
+title: '真刀勝負',
+artist: 'FantasticYouth',
+album: '',
+cover: 'img/shintoshobufantasticyouth.jpg',
+mp3: '',
+ogg: 'mp3/shintoshobufantasticyouth.ogg'
+},
+{
+title: 'Radio Noise feat. Ado',
+artist: 'ミコ吉',
+album: '',
+cover: 'img/rajionoisumikokichi.jpg',
+mp3: '',
+ogg: 'mp3/shintoshobufantasticyouth.ogg'
+},
+{
+title: 'BAN',
+artist: '櫻坂46',
+album: '',
+cover: 'img/bansakurazaka46.jpg',
+mp3: 'BAN',
+ogg: 'mp3/bansakurazaka46.ogg'
+},
+{
+title: '思ったよりも寂しくない',
+artist: '櫻坂46',
+album: '',
+cover: 'img/bansakurazaka46.jpg',
+mp3: 'BAN',
+ogg: 'mp3/omotayorimosabishikunai.ogg'
+},
 ];
 
 	// Load playlist
