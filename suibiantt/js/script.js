@@ -3404,7 +3404,7 @@ artist: 'ミコ吉',
 album: '',
 cover: 'img/rajionoisumikokichi.jpg',
 mp3: '',
-ogg: 'mp3/shintoshobufantasticyouth.ogg'
+ogg: 'mp3/rajionoisumikokichi.ogg'
 },
 {
 title: 'BAN',
