@@ -69,6 +69,22 @@ cover: 'img/lepestokmiaboyka.jpg',
 mp3: '',
 ogg: 'mp3/lepestokmiaboyka.ogg'
 },
+{
+title: 'Kamuras Song of Purification',
+artist: 'Capcom Sound Team',
+album: '',
+cover: 'img/kamurascapcomsound.jpg',
+mp3: '',
+ogg: 'mp3/kamurascapcomsound.ogg'
+},
+{
+title: 'Kamuras Song of Purification Live Cover',
+artist: 'Gawr Gura',
+album: '',
+cover: 'img/kamurasgawrgura.jpg',
+mp3: '',
+ogg: 'mp3/kamurascapcomsound.ogg'
+},
 ];
 
 	// Load playlist
