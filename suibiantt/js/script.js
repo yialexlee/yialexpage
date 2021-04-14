@@ -3486,6 +3486,86 @@ cover: 'img/eclipsedreamcatcher.jpg',
 mp3: '',
 ogg: 'mp3/eclipsedreamcatcher.ogg'
 },
+{
+title: 'Like Water',
+artist: 'WENDY 웬디',
+album: '',
+cover: 'img/likewaterwendy.jpg',
+mp3: '',
+ogg: 'mp3/likewaterwendy.ogg'
+},
+{
+title: 'DADADA',
+artist: 'LUNARSOLAR(루나솔라)',
+album: 'SOLAR : rise',
+cover: 'img/dadadalunarsolar.jpg',
+mp3: '',
+ogg: 'mp3/dadadalunarsolar.ogg'
+},
+{
+title: 'Kamuras Song of Purification',
+artist: 'Capcom Sound Team',
+album: '',
+cover: 'img/kamurascapcomsound.jpg',
+mp3: '',
+ogg: 'mp3/kamurascapcomsound.ogg'
+},
+{
+title: 'Kamuras Song of Purification Live Cover',
+artist: 'Gawr Gura',
+album: '',
+cover: 'img/kamurasgawrgura.jpg',
+mp3: '',
+ogg: 'mp3/kamurascapcomsound.ogg'
+},
+{
+title: '旧梦一场',
+artist: '阿悠悠',
+album: '',
+cover: 'img/jiumengychangayouyou.jpg',
+mp3: '',
+ogg: 'mp3/jiumengychangayouyou.ogg'
+},
+{
+title: '一曲琵琶',
+artist: '阿悠悠',
+album: '',
+cover: 'img/yiqupipaayouyou.jpg',
+mp3: '',
+ogg: 'mp3/yiqupipaayouyou.ogg'
+},
+{
+title: '人間驚鴻客',
+artist: '葉裡',
+album: '',
+cover: 'img/renjianjinghongkeyeli.jpg',
+mp3: '',
+ogg: 'mp3/renjianjinghongkeyeli.ogg'
+},
+{
+title: '燕無歇',
+artist: '蒋雪儿',
+album: '',
+cover: 'img/yanwuxiejiangxueer.jpg',
+mp3: '',
+ogg: 'mp3/yanwuxiejiangxueer.ogg'
+},
+{
+title: '赤子囈語一生夢',
+artist: '刺蝟Hedgehog',
+album: '',
+cover: 'img/chiziyiyuyishengmengciwei.jpg',
+mp3: '',
+ogg: 'mp3/chiziyiyuyishengmengciwei.ogg'
+},
+{
+title: 'Deja vu',
+artist: 'Olivia Rodrigo',
+album: '',
+cover: 'img/dejavuoliviarodrigo.jpg',
+mp3: '',
+ogg: 'mp3/dejavuoliviarodrigo.ogg'
+},
 ];
 
 	// Load playlist
