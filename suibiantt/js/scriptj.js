@@ -1421,6 +1421,30 @@ cover: 'img/bansakurazaka46.jpg',
 mp3: 'BAN',
 ogg: 'mp3/omotayorimosabishikunai.ogg'
 },
+{
+title: '足跡',
+artist: 'the peggies',
+album: '',
+cover: 'img/footprintsthepeggies.jpg',
+mp3: '',
+ogg: 'mp3/footprintsthepeggies.ogg'
+},
+{
+title: '涙の銀河',
+artist: 'ロザリーナ',
+album: '',
+cover: 'img/namidanogingarozarina.jpg',
+mp3: '',
+ogg: 'mp3/namidanogingarozarina.ogg'
+},
+{
+title: 'Eclipse',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/eclipsedreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/eclipsedreamcatcher.ogg'
+},
 ];
 
 	// Load playlist
