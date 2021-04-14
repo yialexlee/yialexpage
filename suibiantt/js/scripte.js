@@ -421,6 +421,14 @@ cover: 'img/doubelievealigatie.jpg',
 mp3: '',
 ogg: 'mp3/doubelievealigatie.ogg'
 },
+{
+title: 'Deja vu',
+artist: 'Olivia Rodrigo',
+album: '',
+cover: 'img/dejavuoliviarodrigo.jpg',
+mp3: '',
+ogg: 'mp3/dejavuoliviarodrigo.ogg'
+},
 ];
 
 	// Load playlist
