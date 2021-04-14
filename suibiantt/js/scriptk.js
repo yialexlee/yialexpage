@@ -1014,6 +1014,22 @@ cover: 'img/unnaturalwjsn.jpg',
 mp3: '',
 ogg: 'mp3/unnaturalwjsn.ogg'
 },
+{
+title: 'Like Water',
+artist: 'WENDY 웬디',
+album: '',
+cover: 'img/likewaterwendy.jpg',
+mp3: '',
+ogg: 'mp3/likewaterwendy.ogg'
+},
+{
+title: 'DADADA',
+artist: 'LUNARSOLAR(루나솔라)',
+album: 'SOLAR : rise',
+cover: 'img/dadadalunarsolar.jpg',
+mp3: '',
+ogg: 'mp3/dadadalunarsolar.ogg'
+},
 ];
 
 	// Load playlist
