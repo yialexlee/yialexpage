@@ -542,6 +542,46 @@ cover: 'img/ruoshuisanqian.jpg',
 mp3: '',
 ogg: 'mp3/ruoshuisanqian.ogg'
 },
+{
+title: '旧梦一场',
+artist: '阿悠悠',
+album: '',
+cover: 'img/jiumengychangayouyou.jpg',
+mp3: '',
+ogg: 'mp3/jiumengychangayouyou.ogg'
+},
+{
+title: '一曲琵琶',
+artist: '阿悠悠',
+album: '',
+cover: 'img/yiqupipaayouyou.jpg',
+mp3: '',
+ogg: 'mp3/yiqupipaayouyou.ogg'
+},
+{
+title: '人間驚鴻客',
+artist: '葉裡',
+album: '',
+cover: 'img/renjianjinghongkeyeli.jpg',
+mp3: '',
+ogg: 'mp3/renjianjinghongkeyeli.ogg'
+},
+{
+title: '燕無歇',
+artist: '蒋雪儿',
+album: '',
+cover: 'img/yanwuxiejiangxueer.jpg',
+mp3: '',
+ogg: 'mp3/yanwuxiejiangxueer.ogg'
+},
+{
+title: '赤子囈語一生夢',
+artist: '刺蝟Hedgehog',
+album: '',
+cover: 'img/chiziyiyuyishengmengciwei.jpg',
+mp3: '',
+ogg: 'mp3/chiziyiyuyishengmengciwei.ogg'
+},
 ];
 
 	// Load playlist
