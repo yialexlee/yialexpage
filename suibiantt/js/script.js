@@ -3514,9 +3514,9 @@ ogg: 'mp3/kamurascapcomsound.ogg'
 title: 'Kamuras Song of Purification Live Cover',
 artist: 'Gawr Gura',
 album: '',
-cover: 'img/kamurasgawrgura.jpg',
+cover: 'img/kamurascapcomsound.jpg',
 mp3: '',
-ogg: 'mp3/kamurascapcomsound.ogg'
+ogg: 'mp3/kamurasgawrgura.ogg'
 },
 {
 title: '旧梦一场',
