@@ -486,6 +486,46 @@ cover: 'img/mostclassicevangelonpiano.jpg',
 mp3: '',
 ogg: 'mp3/mostclassicevangelonpiano.ogg'
 },
+{
+title: 'ONE PUNCH MAN Piano Medley',
+artist: 'Ru Piano',
+album: '',
+cover: 'img/onepunchmanmedleyrupiano.jpg',
+mp3: '',
+ogg: 'mp3/onepunchmanmedleyrupiano.ogg'
+},
+{
+title: 'Kamuras Song of Purification -piano',
+artist: 'Ru Piano',
+album: '',
+cover: 'img/kamurassongrupiano.jpg',
+mp3: '',
+ogg: 'mp3/kamurassongrupiano.ogg'
+},
+{
+title: '借りぐらしのアリエッティ -piano',
+artist: 'Pan Piano',
+album: '',
+cover: 'img/karigurashinoarettipanpiano.jpg',
+mp3: '',
+ogg: 'mp3/karigurashinoarettipanpiano.ogg'
+},
+{
+title: 'Rusty Nail live cover -piano',
+artist: 'ハラミちゃん',
+album: '',
+cover: 'img/rustynailharami.jpg',
+mp3: '',
+ogg: 'mp3/rustynailharami.ogg'
+},
+{
+title: 'ささきいさお  -piano',
+artist: 'Pan Piano',
+album: '',
+cover: 'img/sasakiisaopanpiano.jpg',
+mp3: '',
+ogg: 'mp3/sasakiisaopanpiano.ogg'
+},
 ];
 
 	// Load playlist
