@@ -3566,6 +3566,46 @@ cover: 'img/dejavuoliviarodrigo.jpg',
 mp3: '',
 ogg: 'mp3/dejavuoliviarodrigo.ogg'
 },
+{
+title: 'DiViNE',
+artist: 'EXiNA',
+album: '',
+cover: 'img/divineexina.jpg',
+mp3: '',
+ogg: 'mp3/divineexina.ogg'
+},
+{
+title: 'I’m the shit feat. ¥ellow Bucks',
+artist: 'AK-69',
+album: '',
+cover: 'img/imtheshitak69.jpg',
+mp3: '',
+ogg: 'mp3/imtheshitak69.ogg'
+},
+{
+title: 'BLIZZARD',
+artist: 'BURNOUT SYNDROMES',
+album: '',
+cover: 'img/blizzardburnoutsyndromes.jpg',
+mp3: '',
+ogg: 'mp3/blizzardburnoutsyndromes.ogg'
+},
+{
+title: 'Renegades',
+artist: 'ONE OK ROCK',
+album: '',
+cover: 'img/renegadesoneokrock.jpg',
+mp3: '',
+ogg: 'mp3/renegadesoneokrock.ogg'
+},
+{
+title: 'Flying B',
+artist: 'AK-69',
+album: '',
+cover: 'img/flyingbak69.jpg',
+mp3: '',
+ogg: 'mp3/flyingbak69.ogg'
+},
 ];
 
 	// Load playlist
