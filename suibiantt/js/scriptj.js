@@ -1469,6 +1469,14 @@ cover: 'img/blizzardburnoutsyndromes.jpg',
 mp3: '',
 ogg: 'mp3/blizzardburnoutsyndromes.ogg'
 },
+{
+title: 'Flying B',
+artist: 'AK-69',
+album: '',
+cover: 'img/flyingbak69.jpg',
+mp3: '',
+ogg: 'mp3/flyingbak69.ogg'
+},
 ];
 
 	// Load playlist
