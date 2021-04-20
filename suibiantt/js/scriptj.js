@@ -1445,6 +1445,30 @@ cover: 'img/eclipsedreamcatcher.jpg',
 mp3: '',
 ogg: 'mp3/eclipsedreamcatcher.ogg'
 },
+{
+title: 'DiViNE',
+artist: 'EXiNA',
+album: '',
+cover: 'img/divineexina.jpg',
+mp3: '',
+ogg: 'mp3/divineexina.ogg'
+},
+{
+title: 'I’m the shit feat. ¥ellow Bucks',
+artist: 'AK-69',
+album: '',
+cover: 'img/imtheshitak69.jpg',
+mp3: '',
+ogg: 'mp3/imtheshitak69.ogg'
+},
+{
+title: 'BLIZZARD',
+artist: 'BURNOUT SYNDROMES',
+album: '',
+cover: 'img/blizzardburnoutsyndromes.jpg',
+mp3: '',
+ogg: 'mp3/blizzardburnoutsyndromes.ogg'
+},
 ];
 
 	// Load playlist
