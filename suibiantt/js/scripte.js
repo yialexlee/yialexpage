@@ -429,6 +429,14 @@ cover: 'img/dejavuoliviarodrigo.jpg',
 mp3: '',
 ogg: 'mp3/dejavuoliviarodrigo.ogg'
 },
+{
+title: 'Renegades',
+artist: 'ONE OK ROCK',
+album: '',
+cover: 'img/renegadesoneokrock.jpg',
+mp3: '',
+ogg: 'mp3/renegadesoneokrock.ogg'
+},
 ];
 
 	// Load playlist
