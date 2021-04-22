@@ -1477,6 +1477,22 @@ cover: 'img/flyingbak69.jpg',
 mp3: '',
 ogg: 'mp3/flyingbak69.ogg'
 },
+{
+title: 'Plastic 2 Mercy',
+artist: 'GANG PARADE',
+album: '',
+cover: 'img/plastic2mercygangparade.jpg',
+mp3: '',
+ogg: 'mp3/plastic2mercygangparade.ogg'
+},
+{
+title: 'Question',
+artist: 'Ambers',
+album: '',
+cover: 'img/questionambers.jpg',
+mp3: '',
+ogg: 'mp3/questionambers.ogg'
+},
 ];
 
 	// Load playlist
