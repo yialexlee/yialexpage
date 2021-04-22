@@ -582,6 +582,22 @@ cover: 'img/chiziyiyuyishengmengciwei.jpg',
 mp3: '',
 ogg: 'mp3/chiziyiyuyishengmengciwei.ogg'
 },
+{
+title: '感官先生',
+artist: '刘凤瑶',
+album: '',
+cover: 'img/ganguanxianshengliufengyao.jpg',
+mp3: '',
+ogg: 'mp3/ganguanxianshengliufengyao.ogg'
+},
+{
+title: '感官先生 Cover by 許莉潔',
+artist: '許莉潔',
+album: '',
+cover: 'img/ganguanxianshengxulijie.jpg',
+mp3: '',
+ogg: 'mp3/ganguanxianshengxulijie.ogg'
+},
 ];
 
 	// Load playlist
