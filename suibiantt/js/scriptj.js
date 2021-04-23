@@ -1493,6 +1493,14 @@ cover: 'img/questionambers.jpg',
 mp3: '',
 ogg: 'mp3/questionambers.ogg'
 },
+{
+title: 'LOSER',
+artist: '米津玄師',
+album: '',
+cover: 'img/loseryonezukekenshi.jpg',
+mp3: '',
+ogg: 'mp3/loseryonezukekenshi.ogg'
+},
 ];
 
 	// Load playlist
