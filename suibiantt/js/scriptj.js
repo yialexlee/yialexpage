@@ -1501,6 +1501,14 @@ cover: 'img/loseryonezukekenshi.jpg',
 mp3: '',
 ogg: 'mp3/loseryonezukekenshi.ogg'
 },
+{
+title: 'Bursty Greedy Spider',
+artist: '鈴木このみ',
+album: '',
+cover: 'img/burstygreedyspidersuzukikonomi.jpg',
+mp3: '',
+ogg: 'mp3/burstygreedyspidersuzukikonomi.ogg'
+},
 ];
 
 	// Load playlist
