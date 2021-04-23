@@ -3662,6 +3662,14 @@ cover: 'img/cishengguobandoubao.jpg',
 mp3: '',
 ogg: 'mp3/cishengguobandoubao.ogg'
 },
+{
+title: 'Bursty Greedy Spider',
+artist: '鈴木このみ',
+album: '',
+cover: 'img/burstygreedyspidersuzukikonomi.jpg',
+mp3: '',
+ogg: 'mp3/burstygreedyspidersuzukikonomi.ogg'
+},
 ];
 
 	// Load playlist
