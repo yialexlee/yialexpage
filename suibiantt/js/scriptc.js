@@ -598,6 +598,14 @@ cover: 'img/ganguanxianshengxulijie.jpg',
 mp3: '',
 ogg: 'mp3/ganguanxianshengxulijie.ogg'
 },
+{
+title: '此生过半',
+artist: '豆包',
+album: '',
+cover: 'img/cishengguobandoubao.jpg',
+mp3: '',
+ogg: 'mp3/cishengguobandoubao.ogg'
+},
 ];
 
 	// Load playlist
