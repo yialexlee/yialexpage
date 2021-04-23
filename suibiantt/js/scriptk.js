@@ -1030,6 +1030,14 @@ cover: 'img/dadadalunarsolar.jpg',
 mp3: '',
 ogg: 'mp3/dadadalunarsolar.ogg'
 },
+{
+title: 'We are',
+artist: '이승윤(LEE SEUNG YOON)',
+album: '〈로스쿨(LAW SCHOOL)〉 OST Part.1',
+cover: 'img/weareleeseungyoon.jpg',
+mp3: '',
+ogg: 'mp3/weareleeseungyoon.ogg'
+},
 ];
 
 	// Load playlist
