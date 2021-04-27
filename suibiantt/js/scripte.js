@@ -437,6 +437,14 @@ cover: 'img/renegadesoneokrock.jpg',
 mp3: '',
 ogg: 'mp3/renegadesoneokrock.ogg'
 },
+{
+title: 'Be Alright',
+artist: 'Fly By Nightcore',
+album: '',
+cover: 'img/bealrightflybynightcore.jpg',
+mp3: '',
+ogg: 'mp3/bealrightflybynightcore.ogg'
+},
 ];
 
 	// Load playlist
