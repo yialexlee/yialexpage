@@ -1038,6 +1038,14 @@ cover: 'img/weareleeseungyoon.jpg',
 mp3: '',
 ogg: 'mp3/weareleeseungyoon.ogg'
 },
+{
+title: 'Shoulder Dance(어깨춤)',
+artist: 'Lim Seo Won(임서원)',
+album: '',
+cover: 'img/shoulderdancelimseowon.jpg',
+mp3: '',
+ogg: 'mp3/shoulderdancelimseowon.ogg'
+},
 ];
 
 	// Load playlist
