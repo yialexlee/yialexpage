@@ -3670,6 +3670,38 @@ cover: 'img/burstygreedyspidersuzukikonomi.jpg',
 mp3: '',
 ogg: 'mp3/burstygreedyspidersuzukikonomi.ogg'
 },
+{
+title: '廻廻奇譚',
+artist: 'Eve',
+album: '',
+cover: 'img/kaikaikitaneve.jpg',
+mp3: '',
+ogg: 'mp3/kaikaikitaneve.ogg'
+},
+{
+title: '踊',
+artist: 'Ado',
+album: '',
+cover: 'img/odoriado.jpg',
+mp3: '',
+ogg: 'mp3/odoriado.ogg'
+},
+{
+title: 'Shoulder Dance(어깨춤)',
+artist: 'Lim Seo Won(임서원)',
+album: '',
+cover: 'img/shoulderdancelimseowon.jpg',
+mp3: '',
+ogg: 'mp3/shoulderdancelimseowon.ogg'
+},
+{
+title: 'Be Alright',
+artist: 'Fly By Nightcore',
+album: '',
+cover: 'img/bealrightflybynightcore.jpg',
+mp3: '',
+ogg: 'mp3/bealrightflybynightcore.ogg'
+},
 ];
 
 	// Load playlist
