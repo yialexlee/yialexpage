@@ -1509,6 +1509,22 @@ cover: 'img/burstygreedyspidersuzukikonomi.jpg',
 mp3: '',
 ogg: 'mp3/burstygreedyspidersuzukikonomi.ogg'
 },
+{
+title: '廻廻奇譚',
+artist: 'Eve',
+album: '',
+cover: 'img/kaikaikitaneve.jpg',
+mp3: '',
+ogg: 'mp3/kaikaikitaneve.ogg'
+},
+{
+title: '踊',
+artist: 'Ado',
+album: '',
+cover: 'img/odoriado.jpg',
+mp3: '',
+ogg: 'mp3/odoriado.ogg'
+},
 ];
 
 	// Load playlist
