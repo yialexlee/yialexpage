@@ -1046,6 +1046,14 @@ cover: 'img/shoulderdancelimseowon.jpg',
 mp3: '',
 ogg: 'mp3/shoulderdancelimseowon.ogg'
 },
+{
+title: '외딴길에서 (On A Secluded Road)',
+artist: 'Sondia(손디아), 김준휘(Kim Jun Hwi)',
+album: '(언더커버 OST) Undercover OST Part 2',
+cover: 'img/onasecludedroadsondiajunhwi.jpg',
+mp3: '',
+ogg: 'mp3/onasecludedroadsondiajunhwi.ogg'
+},
 ];
 
 	// Load playlist
