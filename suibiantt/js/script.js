@@ -3702,6 +3702,62 @@ cover: 'img/bealrightflybynightcore.jpg',
 mp3: '',
 ogg: 'mp3/bealrightflybynightcore.ogg'
 },
+{
+title: 'Drown',
+artist: 'Milet',
+album: '',
+cover: 'img/drownmilet.jpg',
+mp3: '',
+ogg: 'mp3/drownmilet.ogg'
+},
+{
+title: 'ないない',
+artist: 'ReoNa',
+album: '',
+cover: 'img/nainaireona.jpg',
+mp3: '',
+ogg: 'mp3/nainaireona.ogg'
+},
+{
+title: '品行崩壊',
+artist: 'FantasticYouth',
+album: '',
+cover: 'img/hinkouhoukaifantasticyouth.jpg',
+mp3: '',
+ogg: 'mp3/hinkouhoukaifantasticyouth.ogg'
+},
+{
+title: 'Checkmate',
+artist: 'Milet',
+album: '',
+cover: 'img/checkmatemilet.jpg',
+mp3: '',
+ogg: 'mp3/checkmatemilet.ogg'
+},
+{
+title: '외딴길에서 (On A Secluded Road)',
+artist: 'Sondia(손디아), 김준휘(Kim Jun Hwi)',
+album: '(언더커버 OST) Undercover OST Part 2',
+cover: 'img/onasecludedroadsondiajunhwi.jpg',
+mp3: '',
+ogg: 'mp3/onasecludedroadsondiajunhwi.ogg'
+},
+{
+title: '踏山河',
+artist: '是七叔呢',
+album: '',
+cover: 'img/tashanheshiqishune.jpg',
+mp3: '',
+ogg: 'mp3/tashanheshiqishune.ogg'
+},
+{
+title: '虞兮叹',
+artist: '闻人听書',
+album: '',
+cover: 'img/yuxitanwenrentingshu.jpg',
+mp3: '',
+ogg: 'mp3/yuxitanwenrentingshu.ogg'
+},
 ];
 
 	// Load playlist
