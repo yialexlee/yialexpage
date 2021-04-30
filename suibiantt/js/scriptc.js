@@ -606,6 +606,22 @@ cover: 'img/cishengguobandoubao.jpg',
 mp3: '',
 ogg: 'mp3/cishengguobandoubao.ogg'
 },
+{
+title: '踏山河',
+artist: '是七叔呢',
+album: '',
+cover: 'img/tashanheshiqishune.jpg',
+mp3: '',
+ogg: 'mp3/tashanheshiqishune.ogg'
+},
+{
+title: '虞兮叹',
+artist: '闻人听書',
+album: '',
+cover: 'img/yuxitanwenrentingshu.jpg',
+mp3: '',
+ogg: 'mp3/yuxitanwenrentingshu.ogg'
+},
 ];
 
 	// Load playlist
