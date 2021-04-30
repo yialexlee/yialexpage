@@ -1525,6 +1525,38 @@ cover: 'img/odoriado.jpg',
 mp3: '',
 ogg: 'mp3/odoriado.ogg'
 },
+{
+title: 'Drown',
+artist: 'Milet',
+album: '',
+cover: 'img/drownmilet.jpg',
+mp3: '',
+ogg: 'mp3/drownmilet.ogg'
+},
+{
+title: 'ないない',
+artist: 'ReoNa',
+album: '',
+cover: 'img/nainaireona.jpg',
+mp3: '',
+ogg: 'mp3/nainaireona.ogg'
+},
+{
+title: '品行崩壊',
+artist: 'FantasticYouth',
+album: '',
+cover: 'img/hinkouhoukaifantasticyouth.jpg',
+mp3: '',
+ogg: 'mp3/hinkouhoukaifantasticyouth.ogg'
+},
+{
+title: 'Checkmate',
+artist: 'Milet',
+album: '',
+cover: 'img/checkmatemilet.jpg',
+mp3: '',
+ogg: 'mp3/checkmatemilet.ogg'
+},
 ];
 
 	// Load playlist
