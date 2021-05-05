@@ -1054,6 +1054,14 @@ cover: 'img/onasecludedroadsondiajunhwi.jpg',
 mp3: '',
 ogg: 'mp3/onasecludedroadsondiajunhwi.ogg'
 },
+{
+title: 'All Day',
+artist: 'Cha Ji Yeon(차지연)',
+album: '모범택시(Taxidriver) OST Part.4',
+cover: 'img/alldaychajiyeon.jpg',
+mp3: '',
+ogg: 'mp3/alldaychajiyeon.ogg'
+},
 ];
 
 	// Load playlist
