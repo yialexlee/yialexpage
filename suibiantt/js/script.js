@@ -3758,6 +3758,30 @@ cover: 'img/yuxitanwenrentingshu.jpg',
 mp3: '',
 ogg: 'mp3/yuxitanwenrentingshu.ogg'
 },
+{
+title: 'All Day',
+artist: 'Cha Ji Yeon(차지연)',
+album: '모범택시(Taxidriver) OST Part.4',
+cover: 'img/alldaychajiyeon.jpg',
+mp3: '',
+ogg: 'mp3/alldaychajiyeon.ogg'
+},
+{
+title: 'Bedroom',
+artist: 'JJ Lin 林俊傑 ft. Anne-Marie',
+album: '',
+cover: 'img/bedroomjjlinannemarie.jpg',
+mp3: '',
+ogg: 'mp3/bedroomjjlinannemarie.ogg'
+},
+{
+title: 'In the morning',
+artist: 'ITZY',
+album: 'GUESS WHO',
+cover: 'img/inthemorningitzy.jpg',
+mp3: '',
+ogg: 'mp3/inthemorningitzy.ogg'
+},
 ];
 
 	// Load playlist
