@@ -445,6 +445,14 @@ cover: 'img/bealrightflybynightcore.jpg',
 mp3: '',
 ogg: 'mp3/bealrightflybynightcore.ogg'
 },
+{
+title: 'Bedroom',
+artist: 'JJ Lin 林俊傑 ft. Anne-Marie',
+album: '',
+cover: 'img/bedroomjjlinannemarie.jpg',
+mp3: '',
+ogg: 'mp3/bedroomjjlinannemarie.ogg'
+},
 ];
 
 	// Load playlist
