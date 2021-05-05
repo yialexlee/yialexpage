@@ -1062,6 +1062,14 @@ cover: 'img/alldaychajiyeon.jpg',
 mp3: '',
 ogg: 'mp3/alldaychajiyeon.ogg'
 },
+{
+title: 'In the morning',
+artist: 'ITZY',
+album: 'GUESS WHO',
+cover: 'img/inthemorningitzy.jpg',
+mp3: '',
+ogg: 'mp3/inthemorningitzy.ogg'
+},
 ];
 
 	// Load playlist
