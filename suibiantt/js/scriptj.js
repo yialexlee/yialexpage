@@ -1557,6 +1557,30 @@ cover: 'img/checkmatemilet.jpg',
 mp3: '',
 ogg: 'mp3/checkmatemilet.ogg'
 },
+{
+title: 'Ever after',
+artist: 'Aimer',
+album: '',
+cover: 'img/everafteraimer.jpg',
+mp3: '',
+ogg: 'mp3/everafteraimer.ogg'
+},
+{
+title: '愛を知るまでは',
+artist: 'あいみょん',
+album: '',
+cover: 'img/aiwoshirumadewaaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/aiwoshirumadewaaimiyon.ogg'
+},
+{
+title: 'Cry Baby',
+artist: '髭男dism',
+album: 'Cry Baby',
+cover: 'img/crybabydism.jpg',
+mp3: '',
+ogg: 'mp3/crybabydism.ogg'
+},
 ];
 
 	// Load playlist
