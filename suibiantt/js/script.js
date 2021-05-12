@@ -3806,6 +3806,70 @@ cover: 'img/crybabydism.jpg',
 mp3: '',
 ogg: 'mp3/crybabydism.ogg'
 },
+{
+title: 'Page for Tomorrow',
+artist: 'NOW ON AIR',
+album: '',
+cover: 'img/pagefortmrnowonair.jpg',
+mp3: '',
+ogg: 'mp3/pagefortmrnowonair.ogg'
+},
+{
+title: 'もう少しだけ',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/mousukoshidake.jpg',
+mp3: '',
+ogg: 'mp3/mousukoshidake.ogg'
+},
+{
+title: 'Cold rain',
+artist: 'Aimer',
+album: '',
+cover: 'img/coldrainaimer.jpg',
+mp3: '',
+ogg: 'mp3/mcoldrainaimer.ogg'
+},
+{
+title: 'Yearning for dark shadows',
+artist: 'Resident Evil',
+album: 'Village Soundtrack',
+cover: 'img/yearningfordarkshadowsre.jpg',
+mp3: '',
+ogg: 'mp3/yearningfordarkshadowsre.mp3'
+},
+{
+title: 'We Are',
+artist: 'Richard Parkers',
+album: '',
+cover: 'img/wearerichardparkers.jpg',
+mp3: '',
+ogg: 'mp3/wearerichardparkers.ogg'
+},
+{
+title: 'Song of Destiny',
+artist: '한예(HANYE)',
+album: '',
+cover: 'img/songofdestinyhanye.jpg',
+mp3: '',
+ogg: 'mp3/songofdestinyhanye.ogg'
+},
+{
+title: 'MALO',
+artist: 'SHAX (샥스)',
+album: '',
+cover: 'img/maloshax.jpg',
+mp3: '',
+ogg: 'mp3/maloshax.ogg'
+},
+{
+title: 'Call Me (8282119)',
+artist: 'OMEGA Ⅲ',
+album: '',
+cover: 'img/callmeomega3.jpg',
+mp3: '',
+ogg: 'mp3/callmeomega3.ogg'
+},
 ];
 
 	// Load playlist
