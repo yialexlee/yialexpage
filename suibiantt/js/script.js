@@ -3828,7 +3828,7 @@ artist: 'Aimer',
 album: '',
 cover: 'img/coldrainaimer.jpg',
 mp3: '',
-ogg: 'mp3/mcoldrainaimer.ogg'
+ogg: 'mp3/coldrainaimer.ogg'
 },
 {
 title: 'Yearning for dark shadows',
