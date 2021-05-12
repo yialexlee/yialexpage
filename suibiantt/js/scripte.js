@@ -453,6 +453,14 @@ cover: 'img/bedroomjjlinannemarie.jpg',
 mp3: '',
 ogg: 'mp3/bedroomjjlinannemarie.ogg'
 },
+{
+title: 'Yearning for dark shadows',
+artist: 'Resident Evil',
+album: 'Village Soundtrack',
+cover: 'img/yearningfordarkshadowsre.jpg',
+mp3: '',
+ogg: 'mp3/yearningfordarkshadowsre.mp3'
+},
 ];
 
 	// Load playlist
