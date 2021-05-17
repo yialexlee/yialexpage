@@ -1102,6 +1102,22 @@ cover: 'img/callmeomega3.jpg',
 mp3: '',
 ogg: 'mp3/callmeomega3.ogg'
 },
+{
+title: '답답해 (No Answer)',
+artist: 'LA LIMA',
+album: '',
+cover: 'img/noanswerlalima.jpg',
+mp3: '',
+ogg: 'mp3/noanswerlalima.ogg'
+},
+{
+title: 'RUN AWAY',
+artist: 'Simon Dominic',
+album: '',
+cover: 'img/runawaysimondominic.jpg',
+mp3: '',
+ogg: 'mp3/runawaysimondominic.ogg'
+},
 ];
 
 	// Load playlist
