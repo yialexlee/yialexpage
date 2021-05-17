@@ -3961,7 +3961,7 @@ ogg: 'mp3/runawaysimondominic.ogg'
 {
 title: 'Giant',
 artist: 'YUQI ((G)I-DLE)',
-album: '',
+album: 'A Page',
 cover: 'img/giantyuqi.jpg',
 mp3: '',
 ogg: 'mp3/giantyuqi.ogg'
