@@ -3870,6 +3870,102 @@ cover: 'img/callmeomega3.jpg',
 mp3: '',
 ogg: 'mp3/callmeomega3.ogg'
 },
+{
+title: 'Say Yes',
+artist: 'Nissy',
+album: '',
+cover: 'img/sayyesnissy.jpg',
+mp3: '',
+ogg: 'mp3/sayyesnissy.ogg'
+},
+{
+title: 'まっさら',
+artist: 'ReoNa',
+album: '',
+cover: 'img/masarareona.jpg',
+mp3: '',
+ogg: 'mp3/masarareona.ogg'
+},
+{
+title: 'あしたはハレルヤ',
+artist: 'ReoNa',
+album: '',
+cover: 'img/ashitawahareruyareona.jpg',
+mp3: '',
+ogg: 'mp3/ashitawahareruyareona.ogg'
+},
+{
+title: '生きてるだけでえらいよ',
+artist: 'ReoNa',
+album: '',
+cover: 'img/masarareona.jpg',
+mp3: '',
+ogg: 'mp3/ikiterudakedeeraiyoreona.ogg'
+},
+{
+title: '愛って',
+artist: 'Adieu',
+album: '',
+cover: 'img/aitteadieu.jpg',
+mp3: '',
+ogg: 'mp3/aitteadieu.ogg'
+},
+{
+title: '最強★ピース',
+artist: 'she9',
+album: '',
+cover: 'img/saikyopisu.jpg',
+mp3: '',
+ogg: 'mp3/saikyopisu.ogg'
+},
+{
+title: 'プラネタリウム',
+artist: '大塚 愛',
+album: '',
+cover: 'img/puranetariumuotsukaai.jpg',
+mp3: '',
+ogg: 'mp3/puranetariumuotsukaai.ogg'
+},
+{
+title: 'CHE. R. RY',
+artist: 'YUI',
+album: '',
+cover: 'img/cherryyui.jpg',
+mp3: '',
+ogg: 'mp3/cherryyui.ogg'
+},
+{
+title: 'リナリア',
+artist: 'まるりとりゅうが',
+album: '',
+cover: 'img/rinariamaruritoriyuuga.jpg',
+mp3: '',
+ogg: 'mp3/rinariamaruritoriyuuga.ogg'
+},
+{
+title: '답답해 (No Answer)',
+artist: 'LA LIMA',
+album: '',
+cover: 'img/noanswerlalima.jpg',
+mp3: '',
+ogg: 'mp3/noanswerlalima.ogg'
+},
+{
+title: 'RUN AWAY',
+artist: 'Simon Dominic',
+album: '',
+cover: 'img/runawaysimondominic.jpg',
+mp3: '',
+ogg: 'mp3/runawaysimondominic.ogg'
+},
+{
+title: 'Giant',
+artist: 'YUQI ((G)I-DLE)',
+album: '',
+cover: 'img/giantyuqi.jpg',
+mp3: '',
+ogg: 'mp3/giantyuqi.ogg'
+},
 ];
 
 	// Load playlist
