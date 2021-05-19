@@ -3966,6 +3966,54 @@ cover: 'img/giantyuqi.jpg',
 mp3: '',
 ogg: 'mp3/giantyuqi.ogg'
 },
+{
+title: 'Shadow',
+artist: 'Dreamcatcher(드림캐쳐) 시연, 다미',
+album: '다크홀OST Part.2',
+cover: 'img/shadowdreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/shadowdreamcatcher.ogg'
+},
+{
+title: '내 마음이 너에게 닿았으면',
+artist: '유성은',
+album: 'Oh My Lady Lord OST Part 6',
+cover: 'img/ifmyheartreachuusungeun.jpg',
+mp3: '',
+ogg: 'mp3/ifmyheartreachuusungeun.ogg'
+},
+{
+title: 'Breaking Down',
+artist: '에일리(AILEE)',
+album: 'Doom at Your Service ( 어느 날 우리 집 현관으로 멸망이 들어왔다 ) OST Part 1',
+cover: 'img/breakingdownailee.jpg',
+mp3: '',
+ogg: 'mp3/breakingdownailee.ogg'
+},
+{
+title: 'へべれけジャンキー',
+artist: 'syudou',
+album: '',
+cover: 'img/heberekejiyankisyudou.jpg',
+mp3: '',
+ogg: 'mp3/heberekejiyankisyudou.ogg'
+},
+{
+title: 'イージーゲーム',
+artist: 'feat.和ぬか/natsumi',
+album: '',
+cover: 'img/ijigemewanukanatsumi.jpg',
+mp3: '',
+ogg: 'mp3/ijigemewanukanatsumi.ogg'
+},
+{
+title: 'あんずの花',
+artist: 'すりぃ feat.ねね',
+album: '',
+cover: 'img/anzunohanasuriinene.jpg',
+mp3: '',
+ogg: 'mp3/anzunohanasuriinene.ogg'
+},
 ];
 
 	// Load playlist
