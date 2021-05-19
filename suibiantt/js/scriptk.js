@@ -1118,6 +1118,30 @@ cover: 'img/runawaysimondominic.jpg',
 mp3: '',
 ogg: 'mp3/runawaysimondominic.ogg'
 },
+{
+title: 'Shadow',
+artist: 'Dreamcatcher(드림캐쳐) 시연, 다미',
+album: '다크홀OST Part.2',
+cover: 'img/shadowdreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/shadowdreamcatcher.ogg'
+},
+{
+title: '내 마음이 너에게 닿았으면',
+artist: '유성은',
+album: 'Oh My Lady Lord OST Part 6',
+cover: 'img/ifmyheartreachuusungeun.jpg',
+mp3: '',
+ogg: 'mp3/ifmyheartreachuusungeun.ogg'
+},
+{
+title: 'Breaking Down',
+artist: '에일리(AILEE)',
+album: 'Doom at Your Service ( 어느 날 우리 집 현관으로 멸망이 들어왔다 ) OST Part 1',
+cover: 'img/breakingdownailee.jpg',
+mp3: '',
+ogg: 'mp3/breakingdownailee.ogg'
+},
 ];
 
 	// Load playlist
