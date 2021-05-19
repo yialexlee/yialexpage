@@ -1677,6 +1677,30 @@ cover: 'img/rinariamaruritoriyuuga.jpg',
 mp3: '',
 ogg: 'mp3/rinariamaruritoriyuuga.ogg'
 },
+{
+title: 'へべれけジャンキー',
+artist: 'syudou',
+album: '',
+cover: 'img/heberekejiyankisyudou.jpg',
+mp3: '',
+ogg: 'mp3/heberekejiyankisyudou.ogg'
+},
+{
+title: 'イージーゲーム',
+artist: 'feat.和ぬか/natsumi',
+album: '',
+cover: 'img/ijigemewanukanatsumi.jpg',
+mp3: '',
+ogg: 'mp3/ijigemewanukanatsumi.ogg'
+},
+{
+title: 'あんずの花',
+artist: 'すりぃ feat.ねね',
+album: '',
+cover: 'img/anzunohanasuriinene.jpg',
+mp3: '',
+ogg: 'mp3/anzunohanasuriinene.ogg'
+},
 ];
 
 	// Load playlist
