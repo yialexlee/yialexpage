@@ -747,7 +747,30 @@
         </div>
 
     </div> <!-- end photoSwipe background -->
+<script type="text/javascript">
+         window.onload = function() {
+             document.onkeydown = function() {
+                 var e = window.event || arguments[0];
+                 if(e.keyCode == 123) {
+					alert("This function has blocked by this website !!!");
+                     return false;
+                  } else if((e.ctrlKey) && (e.shiftKey) && (e.keyCode == 73)) {
+					alert("This function has blocked by this website !!!");
+                     return false;
+                  } else if((e.shiftKey) && (e.keyCode == 121)){
+					alert("This function has blocked by this website !!!");
+                     return false;
+				  }else if((e.ctrlKey) && (e.keyCode == 85)){
+				  alert("This function has blocked by this website !!!");
+                    return false;
+                 }
+             };
+             document.oncontextmenu = function() {
 
+                 return false;
+             }
+         }
+ </script>
 
     <!-- Java Script
     ================================================== -->
