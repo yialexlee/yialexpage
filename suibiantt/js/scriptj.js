@@ -1701,6 +1701,46 @@ cover: 'img/anzunohanasuriinene.jpg',
 mp3: '',
 ogg: 'mp3/anzunohanasuriinene.ogg'
 },
+{
+title: '恋',
+artist: '星野源',
+album: '',
+cover: 'img/koihoshinogen.jpg',
+mp3: '',
+ogg: 'mp3/koihoshinogen.ogg'
+},
+{
+title: '貴方解剖純愛歌 〜死ね〜',
+artist: 'あいみょん',
+album: '',
+cover: 'img/shineaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/shineaimiyon.ogg'
+},
+{
+title: 'Hero',
+artist: '平井 大',
+album: '',
+cover: 'img/herohiraidai.jpg',
+mp3: '',
+ogg: 'mp3/herohiraidai.ogg'
+},
+{
+title: 'バードマン',
+artist: 'SEKAI NO OWARI',
+album: '',
+cover: 'img/badomansekainoowari.jpg',
+mp3: '',
+ogg: 'mp3/badomansekainoowari.ogg'
+},
+{
+title: '人生は最高の暇つぶし',
+artist: 'HoneyWorks feat.Hanon',
+album: '',
+cover: 'img/jinseiwasaikonohimatsubushihoneywork.jpg',
+mp3: '',
+ogg: 'mp3/jinseiwasaikonohimatsubushihoneywork.ogg'
+},
 ];
 
 	// Load playlist
