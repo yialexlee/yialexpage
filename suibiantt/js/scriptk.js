@@ -1142,6 +1142,14 @@ cover: 'img/breakingdownailee.jpg',
 mp3: '',
 ogg: 'mp3/breakingdownailee.ogg'
 },
+{
+title: 'Advice',
+artist: 'TAEMIN 태민',
+album: '',
+cover: 'img/advicetaemin.jpg',
+mp3: '',
+ogg: 'mp3/advicetaemin.ogg'
+},
 ];
 
 	// Load playlist
