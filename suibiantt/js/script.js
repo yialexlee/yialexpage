@@ -4014,6 +4014,94 @@ cover: 'img/anzunohanasuriinene.jpg',
 mp3: '',
 ogg: 'mp3/anzunohanasuriinene.ogg'
 },
+{
+title: 'Advice',
+artist: 'TAEMIN 태민',
+album: '',
+cover: 'img/advicetaemin.jpg',
+mp3: '',
+ogg: 'mp3/advicetaemin.ogg'
+},
+{
+title: '恋',
+artist: '星野源',
+album: '',
+cover: 'img/koihoshinogen.jpg',
+mp3: '',
+ogg: 'mp3/koihoshinogen.ogg'
+},
+{
+title: '貴方解剖純愛歌 〜死ね〜',
+artist: 'あいみょん',
+album: '',
+cover: 'img/shineaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/shineaimiyon.ogg'
+},
+{
+title: 'Hero',
+artist: '平井 大',
+album: '',
+cover: 'img/herohiraidai.jpg',
+mp3: '',
+ogg: 'mp3/herohiraidai.ogg'
+},
+{
+title: 'バードマン',
+artist: 'SEKAI NO OWARI',
+album: '',
+cover: 'img/badomansekainoowari.jpg',
+mp3: '',
+ogg: 'mp3/badomansekainoowari.ogg'
+},
+{
+title: '人生は最高の暇つぶし',
+artist: 'HoneyWorks feat.Hanon',
+album: '',
+cover: 'img/jinseiwasaikonohimatsubushihoneywork.jpg',
+mp3: '',
+ogg: 'mp3/jinseiwasaikonohimatsubushihoneywork.ogg'
+},
+{
+title: 'Moonlight(feat. Lil Milk)',
+artist: '政学Zx',
+album: '',
+cover: 'img/moonlightzhengxuezx.jpg',
+mp3: '',
+ogg: 'mp3/moonlightzhengxuezx.ogg'
+},
+{
+title: '遇螢',
+artist: '只有影子',
+album: '',
+cover: 'img/yuyingzhiyouyingzi.jpg',
+mp3: '',
+ogg: 'mp3/yuyingzhiyouyingzi.ogg'
+},
+{
+title: '女侠饶命',
+artist: '陆虎',
+album: '',
+cover: 'img/nvxiaraomingluhu.jpg',
+mp3: '',
+ogg: 'mp3/nvxiaraomingluhu.ogg'
+},
+{
+title: 'LOOP',
+artist: 'HARRIANNE(해리앤)',
+album: '',
+cover: 'img/loopharrianne.jpg',
+mp3: '',
+ogg: 'mp3/loopharrianne.ogg'
+},
+{
+title: 'Bonnie & Clyde',
+artist: 'YUQI ((G)I-DLE)',
+album: 'A Page',
+cover: 'img/giantyuqi.jpg',
+mp3: '',
+ogg: 'mp3/bonnienclydeyuqi.ogg'
+},
 ];
 
 	// Load playlist
