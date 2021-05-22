@@ -622,6 +622,30 @@ cover: 'img/yuxitanwenrentingshu.jpg',
 mp3: '',
 ogg: 'mp3/yuxitanwenrentingshu.ogg'
 },
+{
+title: 'Moonlight(feat. Lil Milk)',
+artist: '政学Zx',
+album: '',
+cover: 'img/moonlightzhengxuezx.jpg',
+mp3: '',
+ogg: 'mp3/moonlightzhengxuezx.ogg'
+},
+{
+title: '遇螢',
+artist: '只有影子',
+album: '',
+cover: 'img/yuyingzhiyouyingzi.jpg',
+mp3: '',
+ogg: 'mp3/yuyingzhiyouyingzi.ogg'
+},
+{
+title: '女侠饶命',
+artist: '陆虎',
+album: '',
+cover: 'img/nvxiaraomingluhu.jpg',
+mp3: '',
+ogg: 'mp3/nvxiaraomingluhu.ogg'
+},
 ];
 
 	// Load playlist
