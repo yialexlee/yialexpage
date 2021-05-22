@@ -469,6 +469,22 @@ cover: 'img/giantyuqi.jpg',
 mp3: '',
 ogg: 'mp3/giantyuqi.ogg'
 },
+{
+title: 'LOOP',
+artist: 'HARRIANNE(해리앤)',
+album: '',
+cover: 'img/loopharrianne.jpg',
+mp3: '',
+ogg: 'mp3/loopharrianne.ogg'
+},
+{
+title: 'Bonnie & Clyde',
+artist: 'YUQI ((G)I-DLE)',
+album: 'A Page',
+cover: 'img/giantyuqi.jpg',
+mp3: '',
+ogg: 'mp3/bonnienclydeyuqi.ogg'
+},
 ];
 
 	// Load playlist
