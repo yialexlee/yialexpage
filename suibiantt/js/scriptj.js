@@ -1741,6 +1741,14 @@ cover: 'img/jinseiwasaikonohimatsubushihoneywork.jpg',
 mp3: '',
 ogg: 'mp3/jinseiwasaikonohimatsubushihoneywork.ogg'
 },
+{
+title: '怪盗',
+artist: 'back number',
+album: '',
+cover: 'img/kaitoubacknumber.jpg',
+mp3: '',
+ogg: 'mp3/kaitoubacknumber.ogg'
+},
 ];
 
 	// Load playlist
