@@ -1150,6 +1150,22 @@ cover: 'img/advicetaemin.jpg',
 mp3: '',
 ogg: 'mp3/advicetaemin.ogg'
 },
+{
+title: '네가 분다 (When u blow)',
+artist: '권민제(Kwon Minje)',
+album: 'So I Married The Anti-fan OST Part.2',
+cover: 'img/whenublowkwonminje.jpg',
+mp3: '',
+ogg: 'mp3/whenublowkwonminje.ogg'
+},
+{
+title: 'Love Sight',
+artist: 'TOMORROW X TOGETHER',
+album: 'Doom at Your Service (Original Television Soundtrack) Pt. 2',
+cover: 'img/lovesighttmrxtgr.jpg',
+mp3: '',
+ogg: 'mp3/lovesighttmrxtgr.ogg'
+},
 ];
 
 	// Load playlist
