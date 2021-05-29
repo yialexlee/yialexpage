@@ -1749,6 +1749,30 @@ cover: 'img/kaitoubacknumber.jpg',
 mp3: '',
 ogg: 'mp3/kaitoubacknumber.ogg'
 },
+{
+title: 'W/X/Y',
+artist: 'Tani Yuuki',
+album: '',
+cover: 'img/wxytaniyuuki.jpg',
+mp3: '',
+ogg: 'mp3/wxytaniyuuki.ogg'
+},
+{
+title: '盾',
+artist: 'ロザリーナ',
+album: '',
+cover: 'img/taterozarina.jpg',
+mp3: '',
+ogg: 'mp3/taterozarina.ogg'
+},
+{
+title: '大丈夫',
+artist: 'たかやん',
+album: '',
+cover: 'img/daijoubutakayan.jpg',
+mp3: '',
+ogg: 'mp3/daijoubutakayan.ogg'
+},
 ];
 
 	// Load playlist
