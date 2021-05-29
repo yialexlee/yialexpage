@@ -1166,6 +1166,22 @@ cover: 'img/lovesighttmrxtgr.jpg',
 mp3: '',
 ogg: 'mp3/lovesighttmrxtgr.ogg'
 },
+{
+title: 'FIRST',
+artist: 'EVERGLOW',
+album: 'Last Melody',
+cover: 'img/firsteverglow.jpg',
+mp3: '',
+ogg: 'mp3/firsteverglow.ogg'
+},
+{
+title: 'Next Level',
+artist: 'aespa',
+album: '',
+cover: 'img/nextlevelaespa.jpg',
+mp3: '',
+ogg: 'mp3/nextlevelaespa.ogg'
+},
 ];
 
 	// Load playlist
