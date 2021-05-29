@@ -85,6 +85,22 @@ cover: 'img/kamurascapcomsound.jpg',
 mp3: '',
 ogg: 'mp3/kamurasgawrgura.ogg'
 },
+{
+title: 'Be Mine',
+artist: 'Kaownah',
+album: '',
+cover: 'img/beminekaownah.jpg',
+mp3: '',
+ogg: 'mp3/beminekaownah.ogg'
+},
+{
+title: 'พี่ไม่หล่อลวง (IM NOT A CON-HEARTIST)',
+artist: 'BamBam',
+album: '',
+cover: 'img/imnotaconheartist.jpg',
+mp3: '',
+ogg: 'mp3/imnotaconheartist.ogg'
+},
 ];
 
 	// Load playlist
