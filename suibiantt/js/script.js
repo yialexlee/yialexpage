@@ -4126,6 +4126,62 @@ cover: 'img/kaitoubacknumber.jpg',
 mp3: '',
 ogg: 'mp3/kaitoubacknumber.ogg'
 },
+{
+title: 'FIRST',
+artist: 'EVERGLOW',
+album: 'Last Melody',
+cover: 'img/firsteverglow.jpg',
+mp3: '',
+ogg: 'mp3/firsteverglow.ogg'
+},
+{
+title: 'Next Level',
+artist: 'aespa',
+album: '',
+cover: 'img/nextlevelaespa.jpg',
+mp3: '',
+ogg: 'mp3/nextlevelaespa.ogg'
+},
+{
+title: 'Be Mine',
+artist: 'Kaownah',
+album: '',
+cover: 'img/beminekaownah.jpg',
+mp3: '',
+ogg: 'mp3/beminekaownah.ogg'
+},
+{
+title: 'พี่ไม่หล่อลวง (IM NOT A CON-HEARTIST)',
+artist: 'BamBam',
+album: '',
+cover: 'img/imnotaconheartist.jpg',
+mp3: '',
+ogg: 'mp3/imnotaconheartist.ogg'
+},
+{
+title: 'W/X/Y',
+artist: 'Tani Yuuki',
+album: '',
+cover: 'img/wxytaniyuuki.jpg',
+mp3: '',
+ogg: 'mp3/wxytaniyuuki.ogg'
+},
+{
+title: '盾',
+artist: 'ロザリーナ',
+album: '',
+cover: 'img/taterozarina.jpg',
+mp3: '',
+ogg: 'mp3/taterozarina.ogg'
+},
+{
+title: '大丈夫',
+artist: 'たかやん',
+album: '',
+cover: 'img/daijoubutakayan.jpg',
+mp3: '',
+ogg: 'mp3/daijoubutakayan.ogg'
+},
 ];
 
 	// Load playlist
