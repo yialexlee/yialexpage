@@ -646,6 +646,14 @@ cover: 'img/nvxiaraomingluhu.jpg',
 mp3: '',
 ogg: 'mp3/nvxiaraomingluhu.ogg'
 },
+{
+title: '热爱105°C的你',
+artist: '阿肆',
+album: '',
+cover: 'img/reai105dudeniashi.jpg',
+mp3: '',
+ogg: 'mp3/reai105dudeniashi.ogg'
+},
 ];
 
 	// Load playlist
