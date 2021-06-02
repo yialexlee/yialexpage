@@ -1182,6 +1182,30 @@ cover: 'img/nextlevelaespa.jpg',
 mp3: '',
 ogg: 'mp3/nextlevelaespa.ogg'
 },
+{
+title: 'Like It Hot',
+artist: '공원소녀 GWSN',
+album: '',
+cover: 'img/likeithotgwsn.jpg',
+mp3: '',
+ogg: 'mp3/likeithotgwsn.ogg'
+},
+{
+title: 'HAPPEN (헤픈 우연)',
+artist: 'HEIZE',
+album: '',
+cover: 'img/happenheize.jpg',
+mp3: '',
+ogg: 'mp3/happenheize.ogg'
+},
+{
+title: 'Winter of May(오월의 겨울)',
+artist: 'Kim Bumsoo(김범수)',
+album: 'Youth of May OST Part 9',
+cover: 'img/winterofmaykimbumsoo.jpg',
+mp3: '',
+ogg: 'mp3/winterofmaykimbumsoo.ogg'
+},
 ];
 
 	// Load playlist
