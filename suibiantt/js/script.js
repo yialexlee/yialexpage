@@ -4214,6 +4214,118 @@ cover: 'img/reai105dudeniashi.jpg',
 mp3: '',
 ogg: 'mp3/reai105dudeniashi.ogg'
 },
+{
+title: '归去来兮',
+artist: '叶炫清 · 郑建浩 · 朱伟',
+album: '网剧《双世宠妃2》主题曲',
+cover: 'img/guiqulaixiyexuanqing.jpg',
+mp3: '',
+ogg: 'mp3/guiqulaixiyexuanqing.ogg'
+},
+{
+title: '过场',
+artist: '月尘',
+album: '',
+cover: 'img/guochangyuechen.jpg',
+mp3: '',
+ogg: 'mp3/guochangyuechen.ogg'
+},
+{
+title: '盜墓筆記·十年人間',
+artist: 'cici_ ',
+album: '',
+cover: 'img/shinianrenjiancici_.jpg',
+mp3: '',
+ogg: 'mp3/shinianrenjiancici_.ogg'
+},
+{
+title: '夢返',
+artist: '黃霄雲',
+album: '',
+cover: 'img/mengfanhuangxiaoyun.jpg',
+mp3: '',
+ogg: 'mp3/mengfanhuangxiaoyun.ogg'
+},
+{
+title: '滿目星辰皆是你',
+artist: 'LKer林柯',
+album: '',
+cover: 'img/manmuxingchengjieshinilker.jpg',
+mp3: '',
+ogg: 'mp3/manmuxingchengjieshinilker.ogg'
+},
+{
+title: '守護著我的光',
+artist: '李巍V仔',
+album: '',
+cover: 'img/shouhuzhewodeguangliweivzai.jpg',
+mp3: '',
+ogg: 'mp3/shouhuzhewodeguangliweivzai.ogg'
+},
+{
+title: '半生雪',
+artist: '是七叔呢',
+album: '',
+cover: 'img/banshengxueshiqishune.jpg',
+mp3: '',
+ogg: 'mp3/banshengxueshiqishune.ogg'
+},
+{
+title: '生而为人',
+artist: '范茹',
+album: '',
+cover: 'img/shengerweirenfanru.jpg',
+mp3: '',
+ogg: 'mp3/shengerweirenfanru.ogg'
+},
+{
+title: 'Dancing with your ghost',
+artist: '于文文',
+album: '',
+cover: 'img/dancingwithyourghost.jpg',
+mp3: '',
+ogg: 'mp3/dancingwithyourghost.ogg'
+},
+{
+title: 'Dirty Paws',
+artist: 'Of Monsters And Men',
+album: '',
+cover: 'img/dirtypawsofmonsterandmen.jpg',
+mp3: '',
+ogg: 'mp3/dirtypawsofmonsterandmen.ogg'
+},
+{
+title: 'Blur',
+artist: 'Stellar',
+album: '',
+cover: 'img/blurstellar.jpg',
+mp3: '',
+ogg: 'mp3/blurstellar.ogg'
+},
+{
+title: '勿忘',
+artist: 'Awesome City Club',
+album: '',
+cover: 'img/mochiwasureawesomecityclub.jpg',
+mp3: '',
+ogg: 'mp3/mochiwasureawesomecityclub.ogg'
+},
+{
+title: '不可幸力',
+artist: 'Vaundy',
+album: '',
+cover: 'img/fukakorikivaundy.jpg',
+mp3: '',
+ogg: 'mp3/fukakorikivaundy.ogg'
+},
+{
+title: '又三郎',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/matasaroyorushika.jpg',
+mp3: '',
+ogg: 'mp3/matasaroyorushika.ogg'
+},
 ];
 
 	// Load playlist
