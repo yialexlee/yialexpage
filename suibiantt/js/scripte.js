@@ -485,6 +485,30 @@ cover: 'img/giantyuqi.jpg',
 mp3: '',
 ogg: 'mp3/bonnienclydeyuqi.ogg'
 },
+{
+title: 'Dancing with your ghost',
+artist: '于文文',
+album: '',
+cover: 'img/dancingwithyourghost.jpg',
+mp3: '',
+ogg: 'mp3/dancingwithyourghost.ogg'
+},
+{
+title: 'Dirty Paws',
+artist: 'Of Monsters And Men',
+album: '',
+cover: 'img/dirtypawsofmonsterandmen.jpg',
+mp3: '',
+ogg: 'mp3/dirtypawsofmonsterandmen.ogg'
+},
+{
+title: 'Blur',
+artist: 'Stellar',
+album: '',
+cover: 'img/blurstellar.jpg',
+mp3: '',
+ogg: 'mp3/blurstellar.ogg'
+},
 ];
 
 	// Load playlist
