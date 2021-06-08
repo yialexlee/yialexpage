@@ -1773,6 +1773,30 @@ cover: 'img/daijoubutakayan.jpg',
 mp3: '',
 ogg: 'mp3/daijoubutakayan.ogg'
 },
+{
+title: '勿忘',
+artist: 'Awesome City Club',
+album: '',
+cover: 'img/mochiwasureawesomecityclub.jpg',
+mp3: '',
+ogg: 'mp3/mochiwasureawesomecityclub.ogg'
+},
+{
+title: '不可幸力',
+artist: 'Vaundy',
+album: '',
+cover: 'img/fukakorikivaundy.jpg',
+mp3: '',
+ogg: 'mp3/fukakorikivaundy.ogg'
+},
+{
+title: '又三郎',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/matasaroyorushika.jpg',
+mp3: '',
+ogg: 'mp3/matasaroyorushika.ogg'
+},
 ];
 
 	// Load playlist
