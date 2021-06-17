@@ -4326,6 +4326,86 @@ cover: 'img/matasaroyorushika.jpg',
 mp3: '',
 ogg: 'mp3/matasaroyorushika.ogg'
 },
+{
+title: 'เกี้ยวพาราสี',
+artist: 'P-HOT ft. SPRITE',
+album: '',
+cover: 'img/Keiywpharasiphot.jpg',
+mp3: '',
+ogg: 'mp3/Keiywpharasiphot.ogg'
+},
+{
+title: 'ใครเพื่อนเธอ',
+artist: 'Pam',
+album: '',
+cover: 'img/askrealpam.jpg',
+mp3: '',
+ogg: 'mp3/askrealpam.ogg'
+},
+{
+title: 'เจ็บส่ำฟ้า',
+artist: 'เบลล์ นิภาดา',
+album: '',
+cover: 'img/cebsafabellniphada.jpg',
+mp3: '',
+ogg: 'mp3/cebsafabellniphada.ogg'
+},
+{
+title: 'I Got U',
+artist: 'LUCY',
+album: '',
+cover: 'img/igotulucy.jpg',
+mp3: '',
+ogg: 'mp3/igotulucy.ogg'
+},
+{
+title: 'Rain To Be(비를 몰고 오는 소년)',
+artist: 'ONEWE',
+album: '',
+cover: 'img/raintobeonewe.jpg',
+mp3: '',
+ogg: 'mp3/raintobeonewe.ogg'
+},
+{
+title: '치맛바람',
+artist: 'Brave Girls',
+album: 'SUMMER QUEEN',
+cover: 'img/chimatbarambravegirl.jpg',
+mp3: '',
+ogg: 'mp3/chimatbarambravegirl.ogg'
+},
+{
+title: 'Viewtiful Days!',
+artist: '和氣あず未',
+album: '記憶に恋をした',
+cover: 'img/viewtifuldayswakiazumi.jpg',
+mp3: '',
+ogg: 'mp3/viewtifuldayswakiazumi.ogg'
+},
+{
+title: '超跑情人夢日本版',
+artist: '三原JAPAN',
+album: '',
+cover: 'img/chaopaoqingrenmengsangen.jpg',
+mp3: '',
+ogg: 'mp3/chaopaoqingrenmengsangen.ogg'
+},
+{
+title: 'BPM',
+artist: 'she9',
+album: '',
+cover: 'img/bpmshe9.jpg',
+mp3: '',
+ogg: 'mp3/bpmshe9.ogg'
+},
+{
+title: 'サプライズ',
+artist: 'LiSA',
+album: '',
+cover: 'img/sapuraizulisa.jpg',
+mp3: '',
+ogg: 'mp3/sapuraizulisa.ogg'
+},
 ];
 
 	// Load playlist
