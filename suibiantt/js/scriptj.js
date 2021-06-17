@@ -1797,6 +1797,38 @@ cover: 'img/matasaroyorushika.jpg',
 mp3: '',
 ogg: 'mp3/matasaroyorushika.ogg'
 },
+{
+title: 'Viewtiful Days!',
+artist: '和氣あず未',
+album: '記憶に恋をした',
+cover: 'img/viewtifuldayswakiazumi.jpg',
+mp3: '',
+ogg: 'mp3/viewtifuldayswakiazumi.ogg'
+},
+{
+title: '超跑情人夢日本版',
+artist: '三原JAPAN',
+album: '',
+cover: 'img/chaopaoqingrenmengsangen.jpg',
+mp3: '',
+ogg: 'mp3/chaopaoqingrenmengsangen.ogg'
+},
+{
+title: 'BPM',
+artist: 'she9',
+album: '',
+cover: 'img/bpmshe9.jpg',
+mp3: '',
+ogg: 'mp3/bpmshe9.ogg'
+},
+{
+title: 'サプライズ',
+artist: 'LiSA',
+album: '',
+cover: 'img/sapuraizulisa.jpg',
+mp3: '',
+ogg: 'mp3/sapuraizulisa.ogg'
+},
 ];
 
 	// Load playlist
