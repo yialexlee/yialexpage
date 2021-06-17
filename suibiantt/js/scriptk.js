@@ -1206,6 +1206,30 @@ cover: 'img/winterofmaykimbumsoo.jpg',
 mp3: '',
 ogg: 'mp3/winterofmaykimbumsoo.ogg'
 },
+{
+title: 'I Got U',
+artist: 'LUCY',
+album: '',
+cover: 'img/igotulucy.jpg',
+mp3: '',
+ogg: 'mp3/igotulucy.ogg'
+},
+{
+title: 'Rain To Be(비를 몰고 오는 소년)',
+artist: 'ONEWE',
+album: '',
+cover: 'img/raintobeonewe.jpg',
+mp3: '',
+ogg: 'mp3/raintobeonewe.ogg'
+},
+{
+title: '치맛바람',
+artist: 'Brave Girls',
+album: 'SUMMER QUEEN',
+cover: 'img/chimatbarambravegirl.jpg',
+mp3: '',
+ogg: 'mp3/chimatbarambravegirl.ogg'
+},
 ];
 
 	// Load playlist
