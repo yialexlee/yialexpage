@@ -101,6 +101,30 @@ cover: 'img/imnotaconheartist.jpg',
 mp3: '',
 ogg: 'mp3/imnotaconheartist.ogg'
 },
+{
+title: 'เกี้ยวพาราสี',
+artist: 'P-HOT ft. SPRITE',
+album: '',
+cover: 'img/Keiywpharasiphot.jpg',
+mp3: '',
+ogg: 'mp3/Keiywpharasiphot.ogg'
+},
+{
+title: 'ใครเพื่อนเธอ',
+artist: 'Pam',
+album: '',
+cover: 'img/askrealpam.jpg',
+mp3: '',
+ogg: 'mp3/askrealpam.ogg'
+},
+{
+title: 'เจ็บส่ำฟ้า',
+artist: 'เบลล์ นิภาดา',
+album: '',
+cover: 'img/cebsafabellniphada.jpg',
+mp3: '',
+ogg: 'mp3/cebsafabellniphada.ogg'
+},
 ];
 
 	// Load playlist
