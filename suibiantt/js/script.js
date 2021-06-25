@@ -4406,6 +4406,102 @@ cover: 'img/sapuraizulisa.jpg',
 mp3: '',
 ogg: 'mp3/sapuraizulisa.ogg'
 },
+{
+title: '白鴿',
+artist: '你的上好佳',
+album: '',
+cover: 'img/baigenideshanghaojia.jpg',
+mp3: '',
+ogg: 'mp3/baigenideshanghaojia.ogg'
+},
+{
+title: '银河与星斗',
+artist: 'yihuik苡慧',
+album: '',
+cover: 'img/yihuikyinheyuxingdou.jpg',
+mp3: '',
+ogg: 'mp3/yihuikyinheyuxingdou.ogg'
+},
+{
+title: '깨어나',
+artist: 'Ailee',
+album: '',
+cover: 'img/kkaeeonaailee.jpg',
+mp3: '',
+ogg: 'mp3/kkaeeonaailee.ogg'
+},
+{
+title: 'Don’t Turn Away',
+artist: '유소나',
+album: '결혼작사 이혼작곡2 OST Part 4',
+cover: 'img/dontrunawayusona.jpg',
+mp3: '',
+ogg: 'mp3/dontrunawayusona.ogg'
+},
+{
+title: '사랑해선 안되는 걸 알면서도',
+artist: '유제이',
+album: '결혼작사 이혼작곡2 OST Part 3',
+cover: 'img/salanghaeseonandoeneungeolalmyeonseodoyujei.jpg',
+mp3: '',
+ogg: 'mp3/salanghaeseonandoeneungeolalmyeonseodoyujei.ogg'
+},
+{
+title: '봄봄봄 (BOM BOM BOM)',
+artist: '펀치(Punch)',
+album: '멀리서 보면 푸른 봄OST Part 1',
+cover: 'img/bombombompunch.jpg',
+mp3: '',
+ogg: 'mp3/bombombompunch.ogg'
+},
+{
+title: 'I Wanna Be With You',
+artist: 'Gummy',
+album: 'Doom at Your Service (Original Television Soundtrack)Part 4',
+cover: 'img/iwannabewithugummy.jpg',
+mp3: '',
+ogg: 'mp3/iwannabewithugummy.ogg'
+},
+{
+title: '怪獣の花唄',
+artist: 'Vaundy',
+album: '',
+cover: 'img/kaijiunoutavaundy.jpg',
+mp3: '',
+ogg: 'mp3/kaijiunoutavaundy.ogg'
+},
+{
+title: 'モア',
+artist: 'After the Rain',
+album: '',
+cover: 'img/mouaaftertherain.jpg',
+mp3: '',
+ogg: 'mp3/mouaaftertherain.ogg'
+},
+{
+title: 'ずっとずっとずっと',
+artist: '緑黄色社会',
+album: '',
+cover: 'img/zuttozuttozuttoryokuoushokushakai.jpg',
+mp3: '',
+ogg: 'mp3/zuttozuttozuttoryokuoushokushakai.ogg'
+},
+{
+title: 'ヨイハナビ',
+artist: 'リムル (CV.岡咲美保)',
+album: '',
+cover: 'img/yoihanabirimuru.jpg',
+mp3: '',
+ogg: 'mp3/yoihanabirimuru.ogg'
+},
+{
+title: '105°C',
+artist: '早稻叽',
+album: '',
+cover: 'img/105shiuzaodaoji.jpg',
+mp3: '',
+ogg: 'mp3/105shiuzaodaoji.ogg'
+},
 ];
 
 	// Load playlist
