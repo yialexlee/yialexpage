@@ -1230,6 +1230,46 @@ cover: 'img/chimatbarambravegirl.jpg',
 mp3: '',
 ogg: 'mp3/chimatbarambravegirl.ogg'
 },
+{
+title: '깨어나',
+artist: 'Ailee',
+album: '',
+cover: 'img/kkaeeonaailee.jpg',
+mp3: '',
+ogg: 'mp3/kkaeeonaailee.ogg'
+},
+{
+title: 'Don’t Turn Away',
+artist: '유소나',
+album: '결혼작사 이혼작곡2 OST Part 4',
+cover: 'img/dontrunawayusona.jpg',
+mp3: '',
+ogg: 'mp3/dontrunawayusona.ogg'
+},
+{
+title: '사랑해선 안되는 걸 알면서도',
+artist: '유제이',
+album: '결혼작사 이혼작곡2 OST Part 3',
+cover: 'img/salanghaeseonandoeneungeolalmyeonseodoyujei.jpg',
+mp3: '',
+ogg: 'mp3/salanghaeseonandoeneungeolalmyeonseodoyujei.ogg'
+},
+{
+title: '봄봄봄 (BOM BOM BOM)',
+artist: '펀치(Punch)',
+album: '멀리서 보면 푸른 봄OST Part 1',
+cover: 'img/bombombompunch.jpg',
+mp3: '',
+ogg: 'mp3/bombombompunch.ogg'
+},
+{
+title: 'I Wanna Be With You',
+artist: 'Gummy',
+album: 'Doom at Your Service (Original Television Soundtrack)Part 4',
+cover: 'img/iwannabewithugummy.jpg',
+mp3: '',
+ogg: 'mp3/iwannabewithugummy.ogg'
+},
 ];
 
 	// Load playlist
