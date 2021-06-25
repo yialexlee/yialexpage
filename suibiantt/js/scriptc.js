@@ -718,6 +718,22 @@ cover: 'img/shengerweirenfanru.jpg',
 mp3: '',
 ogg: 'mp3/shengerweirenfanru.ogg'
 },
+{
+title: '白鴿',
+artist: '你的上好佳',
+album: '',
+cover: 'img/baigenideshanghaojia.jpg',
+mp3: '',
+ogg: 'mp3/baigenideshanghaojia.ogg'
+},
+{
+title: '银河与星斗',
+artist: 'yihuik苡慧',
+album: '',
+cover: 'img/yihuikyinheyuxingdou.jpg',
+mp3: '',
+ogg: 'mp3/yihuikyinheyuxingdou.ogg'
+},
 ];
 
 	// Load playlist
