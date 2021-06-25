@@ -1829,6 +1829,46 @@ cover: 'img/sapuraizulisa.jpg',
 mp3: '',
 ogg: 'mp3/sapuraizulisa.ogg'
 },
+{
+title: '怪獣の花唄',
+artist: 'Vaundy',
+album: '',
+cover: 'img/kaijiunoutavaundy.jpg',
+mp3: '',
+ogg: 'mp3/kaijiunoutavaundy.ogg'
+},
+{
+title: 'モア',
+artist: 'After the Rain',
+album: '',
+cover: 'img/mouaaftertherain.jpg',
+mp3: '',
+ogg: 'mp3/mouaaftertherain.ogg'
+},
+{
+title: 'ずっとずっとずっと',
+artist: '緑黄色社会',
+album: '',
+cover: 'img/zuttozuttozuttoryokuoushokushakai.jpg',
+mp3: '',
+ogg: 'mp3/zuttozuttozuttoryokuoushokushakai.ogg'
+},
+{
+title: 'ヨイハナビ',
+artist: 'リムル (CV.岡咲美保)',
+album: '',
+cover: 'img/yoihanabirimuru.jpg',
+mp3: '',
+ogg: 'mp3/yoihanabirimuru.ogg'
+},
+{
+title: '105°C',
+artist: '早稻叽',
+album: '',
+cover: 'img/105shiuzaodaoji.jpg',
+mp3: '',
+ogg: 'mp3/105shiuzaodaoji.ogg'
+},
 ];
 
 	// Load playlist
