@@ -1270,6 +1270,46 @@ cover: 'img/iwannabewithugummy.jpg',
 mp3: '',
 ogg: 'mp3/iwannabewithugummy.ogg'
 },
+{
+title: 'I will show you(보여줄게)',
+artist: 'Ailee',
+album: '',
+cover: 'img/iwillshowuailee.jpg',
+mp3: '',
+ogg: 'mp3/iwillshowuailee.ogg'
+},
+{
+title: 'U & I',
+artist: 'Ailee',
+album: '',
+cover: 'img/uniailee.jpg',
+mp3: '',
+ogg: 'mp3/uniailee.ogg'
+},
+{
+title: 'Mind Your Own Business(너나 잘해)',
+artist: 'Ailee',
+album: '',
+cover: 'img/mindurownusinessailee.jpg',
+mp3: '',
+ogg: 'mp3/mindurownusinessailee.ogg'
+},
+{
+title: 'Make up your mind',
+artist: 'Ailee',
+album: 'LOVIN',
+cover: 'img/makeupurmindailee.jpg',
+mp3: '',
+ogg: 'mp3/makeupurmindailee.ogg'
+},
+{
+title: 'Make up your mind',
+artist: 'Ailee',
+album: 'LOVIN',
+cover: 'img/makeupurmindailee.jpg',
+mp3: '',
+ogg: 'mp3/makeupurmindailee.ogg'
+},
 ];
 
 	// Load playlist
