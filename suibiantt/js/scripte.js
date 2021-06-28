@@ -509,6 +509,38 @@ cover: 'img/blurstellar.jpg',
 mp3: '',
 ogg: 'mp3/blurstellar.ogg'
 },
+{
+title: 'Rolling in the deep Cover',
+artist: 'AILEE X HENRY',
+album: '',
+cover: 'img/rollinginthedeepaileehenry.jpg',
+mp3: '',
+ogg: 'mp3/rollinginthedeepaileehenry.ogg'
+},
+{
+title: 'GOT IT Cover',
+artist: '毛不易 X 周深',
+album: '',
+cover: 'img/gotitmaobuyizhoushen.jpg',
+mp3: '',
+ogg: 'mp3/gotitmaobuyizhoushen.ogg'
+},
+{
+title: 'Bad Habits',
+artist: 'Ed Sheeran',
+album: '',
+cover: 'img/badhabitsedsheeran.jpg',
+mp3: '',
+ogg: 'mp3/badhabitsedsheeran.ogg'
+},
+{
+title: 'Coming to you',
+artist: '그래쓰 (GRASS)',
+album: '보이스4 OST',
+cover: 'img/comingtoyougrass.jpg',
+mp3: '',
+ogg: 'mp3/comingtoyougrass.ogg'
+},
 ];
 
 	// Load playlist
