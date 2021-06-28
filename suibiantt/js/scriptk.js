@@ -1302,14 +1302,7 @@ cover: 'img/makeupurmindailee.jpg',
 mp3: '',
 ogg: 'mp3/makeupurmindailee.ogg'
 },
-{
-title: 'Make up your mind',
-artist: 'Ailee',
-album: 'LOVIN',
-cover: 'img/makeupurmindailee.jpg',
-mp3: '',
-ogg: 'mp3/makeupurmindailee.ogg'
-},
+
 ];
 
 	// Load playlist
