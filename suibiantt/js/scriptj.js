@@ -1869,6 +1869,22 @@ cover: 'img/105shiuzaodaoji.jpg',
 mp3: '',
 ogg: 'mp3/105shiuzaodaoji.ogg'
 },
+{
+title: '繋がりたいの',
+artist: 'たかやん',
+album: '',
+cover: 'img/tsunagaritainotakayan.jpg',
+mp3: '',
+ogg: 'mp3/tsunagaritainotakayan.ogg'
+},
+{
+title: 'REFLECT',
+artist: 'Gawr Gura',
+album: '',
+cover: 'img/reflectgawgura.jpg',
+mp3: '',
+ogg: 'mp3/reflectgawgura.ogg'
+},
 ];
 
 	// Load playlist
