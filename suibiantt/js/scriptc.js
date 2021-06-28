@@ -734,6 +734,46 @@ cover: 'img/yihuikyinheyuxingdou.jpg',
 mp3: '',
 ogg: 'mp3/yihuikyinheyuxingdou.ogg'
 },
+{
+title: '玦恋',
+artist: '周深',
+album: '',
+cover: 'img/juelianzhoushen.jpg',
+mp3: '',
+ogg: 'mp3/juelianzhoushen.ogg'
+},
+{
+title: '年岁',
+artist: '毛不易',
+album: '',
+cover: 'img/niansuimaobuyi.jpg',
+mp3: '',
+ogg: 'mp3/niansuimaobuyi.ogg'
+},
+{
+title: '嘉宾',
+artist: '张远',
+album: '',
+cover: 'img/jiabingzhangyuan.jpg',
+mp3: '',
+ogg: 'mp3/jiabingzhangyuan.ogg'
+},
+{
+title: '來遲',
+artist: '戴羽彤',
+album: '',
+cover: 'img/laichidaiyutong.jpg',
+mp3: '',
+ogg: 'mp3/laichidaiyutong.ogg'
+},
+{
+title: '野摩托（Remix Dj阿卓版）',
+artist: '郭鎬鳴',
+album: '',
+cover: 'img/yemotuoguogaoming.jpg',
+mp3: '',
+ogg: 'mp3/yemotuoguogaoming.ogg'
+},
 ];
 
 	// Load playlist
