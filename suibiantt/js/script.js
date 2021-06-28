@@ -4502,6 +4502,126 @@ cover: 'img/105shiuzaodaoji.jpg',
 mp3: '',
 ogg: 'mp3/105shiuzaodaoji.ogg'
 },
+{
+title: '玦恋',
+artist: '周深',
+album: '',
+cover: 'img/juelianzhoushen.jpg',
+mp3: '',
+ogg: 'mp3/juelianzhoushen.ogg'
+},
+{
+title: '年岁',
+artist: '毛不易',
+album: '',
+cover: 'img/niansuimaobuyi.jpg',
+mp3: '',
+ogg: 'mp3/niansuimaobuyi.ogg'
+},
+{
+title: '嘉宾',
+artist: '张远',
+album: '',
+cover: 'img/jiabingzhangyuan.jpg',
+mp3: '',
+ogg: 'mp3/jiabingzhangyuan.ogg'
+},
+{
+title: '來遲',
+artist: '戴羽彤',
+album: '',
+cover: 'img/laichidaiyutong.jpg',
+mp3: '',
+ogg: 'mp3/laichidaiyutong.ogg'
+},
+{
+title: '野摩托（Remix Dj阿卓版）',
+artist: '郭鎬鳴',
+album: '',
+cover: 'img/yemotuoguogaoming.jpg',
+mp3: '',
+ogg: 'mp3/yemotuoguogaoming.ogg'
+},
+{
+title: '繋がりたいの',
+artist: 'たかやん',
+album: '',
+cover: 'img/tsunagaritainotakayan.jpg',
+mp3: '',
+ogg: 'mp3/tsunagaritainotakayan.ogg'
+},
+{
+title: 'REFLECT',
+artist: 'Gawr Gura',
+album: '',
+cover: 'img/reflectgawgura.jpg',
+mp3: '',
+ogg: 'mp3/reflectgawgura.ogg'
+},
+{
+title: 'I will show you(보여줄게)',
+artist: 'Ailee',
+album: '',
+cover: 'img/iwillshowuailee.jpg',
+mp3: '',
+ogg: 'mp3/iwillshowuailee.ogg'
+},
+{
+title: 'U & I',
+artist: 'Ailee',
+album: '',
+cover: 'img/uniailee.jpg',
+mp3: '',
+ogg: 'mp3/uniailee.ogg'
+},
+{
+title: 'Mind Your Own Business(너나 잘해)',
+artist: 'Ailee',
+album: '',
+cover: 'img/mindurownusinessailee.jpg',
+mp3: '',
+ogg: 'mp3/mindurownusinessailee.ogg'
+},
+{
+title: 'Make up your mind',
+artist: 'Ailee',
+album: 'LOVIN',
+cover: 'img/makeupurmindailee.jpg',
+mp3: '',
+ogg: 'mp3/makeupurmindailee.ogg'
+},
+{
+title: 'Rolling in the deep Cover',
+artist: 'AILEE X HENRY',
+album: '',
+cover: 'img/rollinginthedeepaileehenry.jpg',
+mp3: '',
+ogg: 'mp3/rollinginthedeepaileehenry.ogg'
+},
+{
+title: 'GOT IT Cover',
+artist: '毛不易 X 周深',
+album: '',
+cover: 'img/gotitmaobuyizhoushen.jpg',
+mp3: '',
+ogg: 'mp3/gotitmaobuyizhoushen.ogg'
+},
+{
+title: 'Bad Habits',
+artist: 'Ed Sheeran',
+album: '',
+cover: 'img/badhabitsedsheeran.jpg',
+mp3: '',
+ogg: 'mp3/badhabitsedsheeran.ogg'
+},
+{
+title: 'Coming to you',
+artist: '그래쓰 (GRASS)',
+album: '보이스4 OST',
+cover: 'img/comingtoyougrass.jpg',
+mp3: '',
+ogg: 'mp3/comingtoyougrass.ogg'
+},
 ];
 
 	// Load playlist
