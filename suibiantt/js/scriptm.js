@@ -526,6 +526,38 @@ cover: 'img/sasakiisaopanpiano.jpg',
 mp3: '',
 ogg: 'mp3/sasakiisaopanpiano.ogg'
 },
+{
+title: '情熱大陸 cover -violin',
+artist: '黃品舒',
+album: '',
+cover: 'img/jonetsudairikuhuangpinshu.jpg',
+mp3: '',
+ogg: 'mp3/jonetsudairikuhuangpinshu.ogg'
+},
+{
+title: 'Beethoven Virus cover -violin',
+artist: '친절한세영띠',
+album: '',
+cover: 'img/beethovenvirusseyoung.jpg',
+mp3: '',
+ogg: 'mp3/beethovenvirusseyoung.ogg'
+},
+{
+title: 'Windy Hill',
+artist: '羽肿',
+album: '',
+cover: 'img/windyhillyuzhong.jpg',
+mp3: '',
+ogg: 'mp3/windyhillyuzhong.ogg'
+},
+{
+title: '盛世华章',
+artist: 'Michal Cielecki',
+album: '',
+cover: 'img/shengshihuazhangmichalcielecki.jpg',
+mp3: '',
+ogg: 'mp3/shengshihuazhangmichalcielecki.ogg'
+},
 ];
 
 	// Load playlist
