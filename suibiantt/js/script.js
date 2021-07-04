@@ -4622,6 +4622,62 @@ cover: 'img/comingtoyougrass.jpg',
 mp3: '',
 ogg: 'mp3/comingtoyougrass.ogg'
 },
+{
+title: 'ウシロマエ Cover',
+artist: 'ぷらそにか',
+album: '',
+cover: 'img/ushiromaepurasonika.jpg',
+mp3: '',
+ogg: 'mp3/ushiromaepurasonika.ogg'
+},
+{
+title: 'U+',
+artist: 'にしな',
+album: '',
+cover: 'img/u+nishina.jpg',
+mp3: '',
+ogg: 'mp3/u+nishina.ogg'
+},
+{
+title: '死神',
+artist: '米津玄師',
+album: '',
+cover: 'img/shinigamiyonezukenshi.jpg',
+mp3: '',
+ogg: 'mp3/shinigamiyonezukenshi.ogg'
+},
+{
+title: 'Perfect World',
+artist: 'TWICE',
+album: '',
+cover: 'img/perfectworldtwice.jpg',
+mp3: '',
+ogg: 'mp3/perfectworldtwice.ogg'
+},
+{
+title: 'ばかじゃないのに',
+artist: 'ずっと真夜中でいいのに',
+album: '',
+cover: 'img/bakajyanainonizuttomayo.jpg',
+mp3: '',
+ogg: 'mp3/bakajyanainonizuttomayo.ogg'
+},
+{
+title: '품',
+artist: '로시, 한승윤',
+album: '',
+cover: 'img/pumrothyseungyun.jpg',
+mp3: '',
+ogg: 'mp3/pumrothyseungyun.ogg'
+},
+{
+title: 'Life Is Still Going On',
+artist: 'NCT DREAM',
+album: '',
+cover: 'img/lifeisstillgoingonctdream.jpg',
+mp3: '',
+ogg: 'mp3/lifeisstillgoingonctdream.ogg'
+},
 ];
 
 	// Load playlist
