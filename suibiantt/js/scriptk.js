@@ -1310,6 +1310,14 @@ cover: 'img/pumrothyseungyun.jpg',
 mp3: '',
 ogg: 'mp3/pumrothyseungyun.ogg'
 },
+{
+title: 'Life Is Still Going On',
+artist: 'NCT DREAM',
+album: '',
+cover: 'img/lifeisstillgoingonctdream.jpg',
+mp3: '',
+ogg: 'mp3/lifeisstillgoingonctdream.ogg'
+},
 ];
 
 	// Load playlist
