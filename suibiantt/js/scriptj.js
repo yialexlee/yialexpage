@@ -1885,6 +1885,46 @@ cover: 'img/reflectgawgura.jpg',
 mp3: '',
 ogg: 'mp3/reflectgawgura.ogg'
 },
+{
+title: 'ウシロマエ Cover',
+artist: 'ぷらそにか',
+album: '',
+cover: 'img/ushiromaepurasonika.jpg',
+mp3: '',
+ogg: 'mp3/ushiromaepurasonika.ogg'
+},
+{
+title: 'U+',
+artist: 'にしな',
+album: '',
+cover: 'img/u+nishina.jpg',
+mp3: '',
+ogg: 'mp3/u+nishina.ogg'
+},
+{
+title: '死神',
+artist: '米津玄師',
+album: '',
+cover: 'img/shinigamiyonezukenshi.jpg',
+mp3: '',
+ogg: 'mp3/shinigamiyonezukenshi.ogg'
+},
+{
+title: 'Perfect World',
+artist: 'TWICE',
+album: '',
+cover: 'img/perfectworldtwice.jpg',
+mp3: '',
+ogg: 'mp3/perfectworldtwice.ogg'
+},
+{
+title: 'ばかじゃないのに',
+artist: 'ずっと真夜中でいいのに',
+album: '',
+cover: 'img/bakajyanainonizuttomayo.jpg',
+mp3: '',
+ogg: 'mp3/bakajyanainonizuttomayo.ogg'
+},
 ];
 
 	// Load playlist
