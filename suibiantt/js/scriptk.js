@@ -1302,7 +1302,14 @@ cover: 'img/makeupurmindailee.jpg',
 mp3: '',
 ogg: 'mp3/makeupurmindailee.ogg'
 },
-
+{
+title: '품',
+artist: '로시, 한승윤',
+album: '',
+cover: 'img/pumrothyseungyun.jpg',
+mp3: '',
+ogg: 'mp3/pumrothyseungyun.ogg'
+},
 ];
 
 	// Load playlist
