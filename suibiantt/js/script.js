@@ -4678,6 +4678,14 @@ cover: 'img/lifeisstillgoingonctdream.jpg',
 mp3: '',
 ogg: 'mp3/lifeisstillgoingonctdream.ogg'
 },
+{
+title: 'Sunlight(Feat. Nilka)',
+artist: 'InfiNoise',
+album: '',
+cover: 'img/sunlightnikainfinoise.jpg',
+mp3: '',
+ogg: 'mp3/sunlightnikainfinoise.ogg'
+},
 ];
 
 	// Load playlist
