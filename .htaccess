@@ -1,2 +1,1 @@
-RewriteCond %{HTTP_HOST} ^suibiantt\.yialexlee\.tech
-RewriteRule ^(.*)$ https://yialexlee.github.io./suibiantt/$1 [R=301]
+Redirect /suibiantt https://suibiantt.yialexlee.tech
