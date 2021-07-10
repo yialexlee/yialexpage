@@ -4686,6 +4686,46 @@ cover: 'img/sunlightnikainfinoise.jpg',
 mp3: '',
 ogg: 'mp3/sunlightnikainfinoise.ogg'
 },
+{
+title: 'グレースノート',
+artist: 'Aimer',
+album: '短編アニメ「夜の国」第2夜 主題歌',
+cover: 'img/guresunotoaimer.jpg',
+mp3: '',
+ogg: 'mp3/guresunotoaimer.ogg'
+},
+{
+title: 'A Girls',
+artist: 'alma',
+album: '',
+cover: 'img/agirlsalma.jpg',
+mp3: '',
+ogg: 'mp3/agirlsalma.ogg'
+},
+{
+title: '空腹',
+artist: 'まふまふ',
+album: '',
+cover: 'img/kuufukumafumafu.jpg',
+mp3: '',
+ogg: 'mp3/kuufukumafumafu.ogg'
+},
+{
+title: 'デモーニッシュ',
+artist: 'ツユ',
+album: '貴方を不幸に誘いますね',
+cover: 'img/demonnishiyushiyu.jpg',
+mp3: '',
+ogg: 'mp3/demonnishiyushiyu.ogg'
+},
+{
+title: '忠犬ハチ',
+artist: 'ツユ',
+album: '貴方を不幸に誘いますね',
+cover: 'img/chiukenhachishiu.jpg',
+mp3: '',
+ogg: 'mp3/chiukenhachishiu.ogg'
+},
 ];
 
 	// Load playlist
