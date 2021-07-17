@@ -1965,6 +1965,22 @@ cover: 'img/chiukenhachishiu.jpg',
 mp3: '',
 ogg: 'mp3/chiukenhachishiu.ogg'
 },
+{
+title: 'ニッポン笑顔百景',
+artist: 'ももクロ MOMOIRO CLOVER Z',
+album: '',
+cover: 'img/nipponegaohaikyou.jpg',
+mp3: '',
+ogg: 'mp3/nipponegaohaikyou.ogg'
+},
+{
+title: '好きだから',
+artist: 'ユイカ',
+album: '',
+cover: 'img/sukidakarayuika.jpg',
+mp3: '',
+ogg: 'mp3/sukidakarayuika.ogg'
+},
 ];
 
 	// Load playlist
