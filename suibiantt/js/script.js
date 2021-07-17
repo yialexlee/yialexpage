@@ -4726,6 +4726,38 @@ cover: 'img/chiukenhachishiu.jpg',
 mp3: '',
 ogg: 'mp3/chiukenhachishiu.ogg'
 },
+{
+title: 'Let me be',
+artist: '백지영(Baek Z Young)',
+album: '펜트하우스3 OST　Part 2',
+cover: 'img/letmebebaekzyoung.jpg',
+mp3: '',
+ogg: 'mp3/letmebebaekzyoung.ogg'
+},
+{
+title: 'Foolish Love',
+artist: 'MSG WANNABE (M.O.M)',
+album: 'MSG WANNABE 1st Album',
+cover: 'img/foolishlovemsg.jpg',
+mp3: '',
+ogg: 'mp3/foolishlovemsg.ogg'
+},
+{
+title: 'ニッポン笑顔百景',
+artist: 'ももクロ MOMOIRO CLOVER Z',
+album: '',
+cover: 'img/nipponegaohaikyou.jpg',
+mp3: '',
+ogg: 'mp3/nipponegaohaikyou.ogg'
+},
+{
+title: '好きだから',
+artist: 'ユイカ',
+album: '',
+cover: 'img/sukidakarayuika.jpg',
+mp3: '',
+ogg: 'mp3/sukidakarayuika.ogg'
+},
 ];
 
 	// Load playlist
