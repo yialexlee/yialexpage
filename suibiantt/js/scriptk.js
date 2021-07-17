@@ -1318,6 +1318,22 @@ cover: 'img/lifeisstillgoingonctdream.jpg',
 mp3: '',
 ogg: 'mp3/lifeisstillgoingonctdream.ogg'
 },
+{
+title: 'Let me be',
+artist: '백지영(Baek Z Young)',
+album: '펜트하우스3 OST　Part 2',
+cover: 'img/letmebebaekzyoung.jpg',
+mp3: '',
+ogg: 'mp3/letmebebaekzyoung.ogg'
+},
+{
+title: 'Foolish Love',
+artist: 'MSG WANNABE (M.O.M)',
+album: 'MSG WANNABE 1st Album',
+cover: 'img/foolishlovemsg.jpg',
+mp3: '',
+ogg: 'mp3/foolishlovemsg.ogg'
+},
 ];
 
 	// Load playlist
