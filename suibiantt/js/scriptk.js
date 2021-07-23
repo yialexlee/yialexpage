@@ -1470,7 +1470,7 @@ ogg: 'mp3/foolishlovemsg.ogg'
 	// Load track
 	var loadMusic = function(i){
 		var item = playlist[i],
-			newaudio = $('<audio>').html('<source src="'+item.mp3+'"><source src="'+item.ogg+'">').appendTo('#player');
+			newaudio = $('<audio>').html('<source id="myAudio" src="'+item.mp3+'"><source id="myAudio" src="'+item.ogg+'">').appendTo('#player');
 		
 		$('.cover').html('<img src="'+item.cover+'" alt="'+item.album+'">');
 		$('.tag').html('<strong>'+item.title+'</strong><span class="artist">'+item.artist+'</span><span class="album">'+item.album+'</span>');
