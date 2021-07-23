@@ -34,6 +34,7 @@ a { outline: none; text-decoration: none; }
 #player .ctrl .control .playback { background-image: url(../images/play.png); }
 #player .ctrl .control .playback.playing { background-image: url(../images/pause.png); }
 #player .ctrl .control .fastforward { background-image: url(../images/fastforward.png); }
+#player .ctrl .control .download { background-image: url(../images/download.png); }
 #player .ctrl .control .volume .mute { background-image: url(../images/volume.png); }
 #player .ctrl .control .volume .mute.enable { background-image: url(../images/mute.png); }
 #player .ctrl .control .volume .slider { margin-top: 11px; margin-left: 10px; width: 100px; }
