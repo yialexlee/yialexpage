@@ -248,6 +248,7 @@
 
 				<div class="fastforward icon"></div>
 
+				<a href="" id="download" target="_blank" download=""><div class="download icon" ></div></a>
 			</div>
 
 			<div class="volume right">
@@ -300,7 +301,15 @@
 <a href='index.html'><span>混</span>混合歌曲歌单</a>
 </div>
 <script type="text/javascript">
+$('#download').click(function () {
+                var oAudio = document.getElementById('myAudio');
+                var url = "https://yialexlee.tech/suibiantt/"+oAudio.getAttribute('src');
+				var ask = window.confirm("You will be redirect to download page !!!");
+    if (ask) {
+        window.location.href = url;
 
+    }
+				 });
 $(function() {
 
 var timer = null;
