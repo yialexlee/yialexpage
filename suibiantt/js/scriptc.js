@@ -774,6 +774,14 @@ cover: 'img/yemotuoguogaoming.jpg',
 mp3: '',
 ogg: 'mp3/yemotuoguogaoming.ogg'
 },
+{
+title: '不如 (女声翻唱)',
+artist: '也可',
+album: '',
+cover: 'img/buruyeke.jpg',
+mp3: '',
+ogg: 'mp3/buruyeke.ogg'
+},
 ];
 
 	// Load playlist
