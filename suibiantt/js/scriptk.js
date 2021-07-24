@@ -1334,6 +1334,38 @@ cover: 'img/foolishlovemsg.jpg',
 mp3: '',
 ogg: 'mp3/foolishlovemsg.ogg'
 },
+{
+title: 'Closer',
+artist: 'LA LIMA (라리마)',
+album: '',
+cover: 'img/closerlalima.jpg',
+mp3: '',
+ogg: 'mp3/closerlalima.ogg'
+},
+{
+title: 'DIAMOND',
+artist: '스파클링 (Sparkling)',
+album: '',
+cover: 'img/diamondsparkling.jpg',
+mp3: '',
+ogg: 'mp3/diamondsparkling.ogg'
+},
+{
+title: '별자리',
+artist: 'SHAX, 티파티, 스파클링, LA LIMA',
+album: '',
+cover: 'img/byeoljaliimitation.jpg',
+mp3: '',
+ogg: 'mp3/byeoljaliimitation.ogg'
+},
+{
+title: '악몽 (Nightmare)',
+artist: 'Sondia(손디아)',
+album: '',
+cover: 'img/nightmaresondia.jpg',
+mp3: '',
+ogg: 'mp3/nightmaresondia.ogg'
+},
 ];
 
 	// Load playlist
