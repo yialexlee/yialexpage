@@ -4758,6 +4758,110 @@ cover: 'img/sukidakarayuika.jpg',
 mp3: '',
 ogg: 'mp3/sukidakarayuika.ogg'
 },
+{
+title: '不如 (女声翻唱)',
+artist: '也可',
+album: '',
+cover: 'img/buruyeke.jpg',
+mp3: '',
+ogg: 'mp3/buruyeke.ogg'
+},
+{
+title: 'Butterflies',
+artist: 'MAX & Ali Gatie',
+album: '',
+cover: 'img/butterfliesmaxnaligate.jpg',
+mp3: '',
+ogg: 'mp3/butterfliesmaxnaligate.ogg'
+},
+{
+title: 'Drunk On Emotions',
+artist: 'Clara Mae',
+album: '',
+cover: 'img/drunkonemotionsclaramae.jpg',
+mp3: '',
+ogg: 'mp3/drunkonemotionsclaramae.ogg'
+},
+{
+title: 'Love To Lose',
+artist: 'Sandro Cavazza, Georgia Ku',
+album: '',
+cover: 'img/lovetolosesandrogeorgia.jpg',
+mp3: '',
+ogg: 'mp3/lovetolosesandrogeorgia.ogg'
+},
+{
+title: 'Closer',
+artist: 'LA LIMA (라리마)',
+album: '',
+cover: 'img/closerlalima.jpg',
+mp3: '',
+ogg: 'mp3/closerlalima.ogg'
+},
+{
+title: 'DIAMOND',
+artist: '스파클링 (Sparkling)',
+album: '',
+cover: 'img/diamondsparkling.jpg',
+mp3: '',
+ogg: 'mp3/diamondsparkling.ogg'
+},
+{
+title: '별자리',
+artist: 'SHAX, 티파티, 스파클링, LA LIMA',
+album: '',
+cover: 'img/byeoljaliimitation.jpg',
+mp3: '',
+ogg: 'mp3/byeoljaliimitation.ogg'
+},
+{
+title: '악몽 (Nightmare)',
+artist: 'Sondia(손디아)',
+album: '',
+cover: 'img/nightmaresondia.jpg',
+mp3: '',
+ogg: 'mp3/nightmaresondia.ogg'
+},
+{
+title: '勿忘 (Covered by KOBASOLO & Nagie Lane )',
+artist: 'KOBASOLO & Nagie Lane',
+album: '',
+cover: 'img/mochiwasurekoasolonagie.jpg',
+mp3: '',
+ogg: 'mp3/mochiwasurekoasolonagie.ogg'
+},
+{
+title: 'ギャンブル',
+artist: 'syudou',
+album: '',
+cover: 'img/gyanburusyudou.jpg',
+mp3: '',
+ogg: 'mp3/gyanburusyudou.ogg'
+},
+{
+title: '爆笑',
+artist: 'syudou',
+album: '',
+cover: 'img/bakushousyudou.jpg',
+mp3: '',
+ogg: 'mp3/bakushousyudou.ogg'
+},
+{
+title: 'DROP',
+artist: '美波',
+album: '',
+cover: 'img/dropminami.jpg',
+mp3: '',
+ogg: 'mp3/dropminami.ogg'
+},
+{
+title: 'YY',
+artist: 'ロイ-RöE- ',
+album: '',
+cover: 'img/yyroe.jpg',
+mp3: '',
+ogg: 'mp3/yyroe.ogg'
+},
 ];
 
 	// Load playlist
