@@ -549,6 +549,30 @@ cover: 'img/sunlightnikainfinoise.jpg',
 mp3: '',
 ogg: 'mp3/sunlightnikainfinoise.ogg'
 },
+{
+title: 'Butterflies',
+artist: 'MAX & Ali Gatie',
+album: '',
+cover: 'img/butterfliesmaxnaligate.jpg',
+mp3: '',
+ogg: 'mp3/butterfliesmaxnaligate.ogg'
+},
+{
+title: 'Drunk On Emotions',
+artist: 'Clara Mae',
+album: '',
+cover: 'img/drunkonemotionsclaramae.jpg',
+mp3: '',
+ogg: 'mp3/drunkonemotionsclaramae.ogg'
+},
+{
+title: 'Love To Lose',
+artist: 'Sandro Cavazza, Georgia Ku',
+album: '',
+cover: 'img/lovetolosesandrogeorgia.jpg',
+mp3: '',
+ogg: 'mp3/lovetolosesandrogeorgia.ogg'
+},
 ];
 
 	// Load playlist
