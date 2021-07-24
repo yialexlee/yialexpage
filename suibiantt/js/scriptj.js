@@ -1981,6 +1981,46 @@ cover: 'img/sukidakarayuika.jpg',
 mp3: '',
 ogg: 'mp3/sukidakarayuika.ogg'
 },
+{
+title: '勿忘 (Covered by KOBASOLO & Nagie Lane )',
+artist: 'KOBASOLO & Nagie Lane',
+album: '',
+cover: 'img/mochiwasurekoasolonagie.jpg',
+mp3: '',
+ogg: 'mp3/mochiwasurekoasolonagie.ogg'
+},
+{
+title: 'ギャンブル',
+artist: 'syudou',
+album: '',
+cover: 'img/gyanburusyudou.jpg',
+mp3: '',
+ogg: 'mp3/gyanburusyudou.ogg'
+},
+{
+title: '爆笑',
+artist: 'syudou',
+album: '',
+cover: 'img/bakushousyudou.jpg',
+mp3: '',
+ogg: 'mp3/bakushousyudou.ogg'
+},
+{
+title: 'DROP',
+artist: '美波',
+album: '',
+cover: 'img/dropminami.jpg',
+mp3: '',
+ogg: 'mp3/dropminami.ogg'
+},
+{
+title: 'YY',
+artist: 'ロイ-RöE- ',
+album: '',
+cover: 'img/yyroe.jpg',
+mp3: '',
+ogg: 'mp3/yyroe.ogg'
+},
 ];
 
 	// Load playlist
