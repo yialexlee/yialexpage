@@ -130,7 +130,7 @@ ogg: 'mp3/cebsafabellniphada.ogg'
 	// Load playlist
 	for (var i=0; i<playlist.length; i++){
 		var item = playlist[i];
-		$('#playlist').append('<li>'+item.artist+' - '+item.title+'</li>');
+		$('#playlist').append('<li>'+item.title+' - '+item.artist+'</li>');
 	}
 
 	var time = new Date(),
