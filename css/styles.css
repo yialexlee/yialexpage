@@ -4962,3 +4962,6 @@ html.no-csstransitions .s-home__content {
         font-size: 1.4rem;
     }
 }
+body::-webkit-scrollbar{width:0.5em}
+body::-webkit-scrollbar-track{background-color:black}
+body::-webkit-scrollbar-thumb{background-color:#d9083c;border-radius:10px}
