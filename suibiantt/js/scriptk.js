@@ -1366,6 +1366,30 @@ cover: 'img/nightmaresondia.jpg',
 mp3: '',
 ogg: 'mp3/nightmaresondia.ogg'
 },
+{
+title: 'Twenty-three (스물셋)',
+artist: 'AKMU & IU',
+album: '',
+cover: 'img/twentythreeakmuiu.jpg',
+mp3: '',
+ogg: 'mp3/twentythreeakmuiu.ogg'
+},
+{
+title: '낙하 (NAKKA)',
+artist: 'AKMU & IU',
+album: '',
+cover: 'img/nakkaakmuiu.jpg',
+mp3: '',
+ogg: 'mp3/nakkaakmuiu.ogg'
+},
+{
+title: 'BEcause',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/becausedreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/becausedreamcatcher.ogg'
+},
 ];
 
 	// Load playlist
