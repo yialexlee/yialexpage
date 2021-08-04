@@ -4862,6 +4862,46 @@ cover: 'img/yyroe.jpg',
 mp3: '',
 ogg: 'mp3/yyroe.ogg'
 },
+{
+title: 'Like Flames',
+artist: 'MindaRyn',
+album: '『転生したらスライムだった件第2期』オープニング主題歌第二弾',
+cover: 'img/likeflamesmindaryn.jpg',
+mp3: '',
+ogg: 'mp3/likeflamesmindaryn.ogg'
+},
+{
+title: 'ノスタルジア',
+artist: 'AliA',
+album: '',
+cover: 'img/nosutarujiaalia.jpg',
+mp3: '',
+ogg: 'mp3/nosutarujiaalia.ogg'
+},
+{
+title: 'Twenty-three (스물셋)',
+artist: 'AKMU & IU',
+album: '',
+cover: 'img/twentythreeakmuiu.jpg',
+mp3: '',
+ogg: 'mp3/twentythreeakmuiu.ogg'
+},
+{
+title: '낙하 (NAKKA)',
+artist: 'AKMU & IU',
+album: '',
+cover: 'img/nakkaakmuiu.jpg',
+mp3: '',
+ogg: 'mp3/nakkaakmuiu.ogg'
+},
+{
+title: 'BEcause',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/becausedreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/becausedreamcatcher.ogg'
+},
 ];
 
 	// Load playlist
