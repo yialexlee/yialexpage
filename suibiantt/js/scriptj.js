@@ -2021,6 +2021,22 @@ cover: 'img/yyroe.jpg',
 mp3: '',
 ogg: 'mp3/yyroe.ogg'
 },
+{
+title: 'Like Flames',
+artist: 'MindaRyn',
+album: '『転生したらスライムだった件第2期』オープニング主題歌第二弾',
+cover: 'img/likeflamesmindaryn.jpg',
+mp3: '',
+ogg: 'mp3/likeflamesmindaryn.ogg'
+},
+{
+title: 'ノスタルジア',
+artist: 'AliA',
+album: '',
+cover: 'img/nosutarujiaalia.jpg',
+mp3: '',
+ogg: 'mp3/nosutarujiaalia.ogg'
+},
 ];
 
 	// Load playlist
