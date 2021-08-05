@@ -4902,6 +4902,30 @@ cover: 'img/becausedreamcatcher.jpg',
 mp3: '',
 ogg: 'mp3/becausedreamcatcher.ogg'
 },
+{
+title: 'Love Song',
+artist: 'Uru',
+album: '',
+cover: 'img/lovesoguru.jpg',
+mp3: '',
+ogg: 'mp3/lovesoguru.ogg'
+},
+{
+title: '生來是鹰',
+artist: '陈雪燃',
+album: '',
+cover: 'img/shenglaishiyingchengxueran.jpg',
+mp3: '',
+ogg: 'mp3/shenglaishiyingchengxueran.ogg'
+},
+{
+title: 'На часах ноль-ноль',
+artist: 'Dabro',
+album: '',
+cover: 'img/nachasakhnolnoldabro.jpg',
+mp3: '',
+ogg: 'mp3/nachasakhnolnoldabro.ogg'
+},
 ];
 
 	// Load playlist
