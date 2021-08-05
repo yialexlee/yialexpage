@@ -782,6 +782,14 @@ cover: 'img/buruyeke.jpg',
 mp3: '',
 ogg: 'mp3/buruyeke.ogg'
 },
+{
+title: '生來是鹰',
+artist: '陈雪燃',
+album: '',
+cover: 'img/shenglaishiyingchengxueran.jpg',
+mp3: '',
+ogg: 'mp3/shenglaishiyingchengxueran.ogg'
+},
 ];
 
 	// Load playlist
