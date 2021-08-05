@@ -2037,6 +2037,14 @@ cover: 'img/nosutarujiaalia.jpg',
 mp3: '',
 ogg: 'mp3/nosutarujiaalia.ogg'
 },
+{
+title: 'Love Song',
+artist: 'Uru',
+album: '',
+cover: 'img/lovesoguru.jpg',
+mp3: '',
+ogg: 'mp3/lovesoguru.ogg'
+},
 ];
 
 	// Load playlist
