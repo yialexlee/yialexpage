@@ -125,6 +125,14 @@ cover: 'img/cebsafabellniphada.jpg',
 mp3: '',
 ogg: 'mp3/cebsafabellniphada.ogg'
 },
+{
+title: 'На часах ноль-ноль',
+artist: 'Dabro',
+album: '',
+cover: 'img/nachasakhnolnoldabro.jpg',
+mp3: '',
+ogg: 'mp3/nachasakhnolnoldabro.ogg'
+},
 ];
 
 	// Load playlist
