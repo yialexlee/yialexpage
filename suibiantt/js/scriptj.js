@@ -2045,6 +2045,22 @@ cover: 'img/lovesoguru.jpg',
 mp3: '',
 ogg: 'mp3/lovesoguru.ogg'
 },
+{
+title: '三時のキス',
+artist: 'ロクデナシ',
+album: '',
+cover: 'img/sanjinokisurokudenashi.jpg',
+mp3: '',
+ogg: 'mp3/sanjinokisurokudenashi.ogg'
+},
+{
+title: 'ヘビリンゴ ',
+artist: 'すりぃ feat.ねね',
+album: '',
+cover: 'img/hebiringosuriinene.jpg',
+mp3: '',
+ogg: 'mp3/hebiringosuriinene.ogg'
+},
 ];
 
 	// Load playlist
