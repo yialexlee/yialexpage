@@ -2067,7 +2067,7 @@ artist: '鎖那',
 album: '',
 cover: 'img/kanojowatabiniderukisarina.jpg',
 mp3: '',
-ogg: 'mp3/kanojowatabiniderukisarina.wav'
+ogg: 'mp3/kanojowatabiniderukisarina.ogg'
 },
 {
 title: 'tutu',
@@ -2075,7 +2075,7 @@ artist: '鎖那',
 album: '',
 cover: 'img/tutukisarina.jpg',
 mp3: '',
-ogg: 'mp3/tutukisarina.wav'
+ogg: 'mp3/tutukisarina.ogg'
 },
 ];
 
