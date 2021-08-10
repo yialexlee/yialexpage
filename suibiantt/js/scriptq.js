@@ -133,6 +133,14 @@ cover: 'img/nachasakhnolnoldabro.jpg',
 mp3: '',
 ogg: 'mp3/nachasakhnolnoldabro.ogg'
 },
+{
+title: 'Don Omar - Danza Kuduro REMIX Long Version',
+artist: 'GANGSTER CITY',
+album: '',
+cover: 'img/danzakudororemixgangstercity.jpg',
+mp3: '',
+ogg: 'mp3/danzakudororemixgangstercity.wav'
+},
 ];
 
 	// Load playlist
