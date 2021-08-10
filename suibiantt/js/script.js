@@ -4942,6 +4942,30 @@ cover: 'img/hebiringosuriinene.jpg',
 mp3: '',
 ogg: 'mp3/hebiringosuriinene.ogg'
 },
+{
+title: '彼女は旅に出る',
+artist: '鎖那',
+album: '',
+cover: 'img/kanojowatabiniderukisarina.jpg',
+mp3: '',
+ogg: 'mp3/kanojowatabiniderukisarina.wav'
+},
+{
+title: 'tutu',
+artist: '鎖那',
+album: '',
+cover: 'img/tutukisarina.jpg',
+mp3: '',
+ogg: 'mp3/tutukisarina.wav'
+},
+{
+title: 'Don Omar - Danza Kuduro REMIX Long Version',
+artist: 'GANGSTER CITY',
+album: '',
+cover: 'img/danzakudororemixgangstercity.jpg',
+mp3: '',
+ogg: 'mp3/danzakudororemixgangstercity.wav'
+},
 ];
 
 	// Load playlist
