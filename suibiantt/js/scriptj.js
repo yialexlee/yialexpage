@@ -2061,6 +2061,22 @@ cover: 'img/hebiringosuriinene.jpg',
 mp3: '',
 ogg: 'mp3/hebiringosuriinene.ogg'
 },
+{
+title: '彼女は旅に出る',
+artist: '鎖那',
+album: '',
+cover: 'img/kanojowatabiniderukisarina.jpg',
+mp3: '',
+ogg: 'mp3/kanojowatabiniderukisarina.wav'
+},
+{
+title: 'tutu',
+artist: '鎖那',
+album: '',
+cover: 'img/tutukisarina.jpg',
+mp3: '',
+ogg: 'mp3/tutukisarina.wav'
+},
 ];
 
 	// Load playlist
