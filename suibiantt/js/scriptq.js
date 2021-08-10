@@ -139,7 +139,7 @@ artist: 'GANGSTER CITY',
 album: '',
 cover: 'img/danzakudororemixgangstercity.jpg',
 mp3: '',
-ogg: 'mp3/danzakudororemixgangstercity.wav'
+ogg: 'mp3/danzakudororemixgangstercity.ogg'
 },
 ];
 
