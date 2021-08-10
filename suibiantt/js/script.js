@@ -4948,7 +4948,7 @@ artist: '鎖那',
 album: '',
 cover: 'img/kanojowatabiniderukisarina.jpg',
 mp3: '',
-ogg: 'mp3/kanojowatabiniderukisarina.wav'
+ogg: 'mp3/kanojowatabiniderukisarina.ogg'
 },
 {
 title: 'tutu',
@@ -4956,7 +4956,7 @@ artist: '鎖那',
 album: '',
 cover: 'img/tutukisarina.jpg',
 mp3: '',
-ogg: 'mp3/tutukisarina.wav'
+ogg: 'mp3/tutukisarina.ogg'
 },
 {
 title: 'Don Omar - Danza Kuduro REMIX Long Version',
@@ -4964,7 +4964,7 @@ artist: 'GANGSTER CITY',
 album: '',
 cover: 'img/danzakudororemixgangstercity.jpg',
 mp3: '',
-ogg: 'mp3/danzakudororemixgangstercity.wav'
+ogg: 'mp3/danzakudororemixgangstercity.ogg'
 },
 ];
 
