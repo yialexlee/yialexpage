@@ -2077,6 +2077,30 @@ cover: 'img/tutukisarina.jpg',
 mp3: '',
 ogg: 'mp3/tutukisarina.ogg'
 },
+{
+title: 'ワールドイズマイン',
+artist: 'ハンブレッダーズ',
+album: '',
+cover: 'img/worldisminehumbreaders.jpg',
+mp3: '',
+ogg: 'mp3/worldisminehumbreaders.ogg'
+},
+{
+title: '夏霞',
+artist: 'あたらよ',
+album: '',
+cover: 'img/natukasumiatarayo.jpg',
+mp3: '',
+ogg: 'mp3/natukasumiatarayo.ogg'
+},
+{
+title: '会いたくて',
+artist: 'Ado',
+album: '',
+cover: 'img/aitakuteado.jpg',
+mp3: '',
+ogg: 'mp3/aitakuteado.ogg'
+},
 ];
 
 	// Load playlist
