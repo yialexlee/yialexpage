@@ -573,6 +573,14 @@ cover: 'img/lovetolosesandrogeorgia.jpg',
 mp3: '',
 ogg: 'mp3/lovetolosesandrogeorgia.ogg'
 },
+{
+title: 'I Love You 3000',
+artist: 'Stephanie Poetri',
+album: '',
+cover: 'img/iloveu3000tephaniepoetri.jpg',
+mp3: '',
+ogg: 'mp3/iloveu3000tephaniepoetri.ogg'
+},
 ];
 
 	// Load playlist
