@@ -141,6 +141,14 @@ cover: 'img/danzakudororemixgangstercity.jpg',
 mp3: '',
 ogg: 'mp3/danzakudororemixgangstercity.ogg'
 },
+{
+title: 'Caramelldansen (Swedish Original)',
+artist: 'Caramella Girls',
+album: '',
+cover: 'img/caramelldansencaramellagirls.jpg',
+mp3: '',
+ogg: 'mp3/caramelldansencaramellagirls.ogg'
+},
 ];
 
 	// Load playlist
