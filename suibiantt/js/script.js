@@ -4966,6 +4966,14 @@ cover: 'img/danzakudororemixgangstercity.jpg',
 mp3: '',
 ogg: 'mp3/danzakudororemixgangstercity.ogg'
 },
+{
+title: 'ワールドイズマイン',
+artist: 'ハンブレッダーズ',
+album: '',
+cover: 'img/danzakudororemixgangstercity.jpg',
+mp3: '',
+ogg: 'mp3/danzakudororemixgangstercity.ogg'
+},
 ];
 
 	// Load playlist
