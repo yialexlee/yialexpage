@@ -790,6 +790,14 @@ cover: 'img/shenglaishiyingchengxueran.jpg',
 mp3: '',
 ogg: 'mp3/shenglaishiyingchengxueran.ogg'
 },
+{
+title: '掠火之槍',
+artist: '三無 x 祖婭納惜',
+album: '',
+cover: 'img/jinghuozhiqiangannwuzuyanaxi.jpg',
+mp3: '',
+ogg: 'mp3/jinghuozhiqiangannwuzuyanaxi.ogg'
+},
 ];
 
 	// Load playlist
