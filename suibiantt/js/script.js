@@ -5006,6 +5006,54 @@ cover: 'img/iloveu3000tephaniepoetri.jpg',
 mp3: '',
 ogg: 'mp3/iloveu3000tephaniepoetri.ogg'
 },
+{
+title: '掠火之槍',
+artist: '三無x祖婭納惜',
+album: '',
+cover: 'img/jinghuozhiqiangannwuzuyanaxi.jpg',
+mp3: '',
+ogg: 'mp3/jinghuozhiqiangannwuzuyanaxi.ogg'
+},
+{
+title: '白い蝉',
+artist: 'majiko / まじ娘',
+album: '',
+cover: 'img/shiroisemimajiko.jpg',
+mp3: '',
+ogg: 'mp3/shiroisemimajiko.ogg'
+},
+{
+title: 'ロマンスの約束',
+artist: '幾田りら',
+album: '',
+cover: 'img/romansunoyakusokuikura.jpg',
+mp3: '',
+ogg: 'mp3/romansunoyakusokuikura.ogg'
+},
+{
+title: 'Cry Baby',
+artist: '髭男dism',
+album: '',
+cover: 'img/crybabyhigedandism.jpg',
+mp3: '',
+ogg: 'mp3/crybabyhigedandism.ogg'
+},
+{
+title: 'Eyes of the future',
+artist: 'HiHi Jets',
+album: '',
+cover: 'img/eyesofthefuturehihijets.jpg',
+mp3: '',
+ogg: 'mp3/eyesofthefuturehihijets.ogg'
+},
+{
+title: 'Sleepless Night',
+artist: 'yama',
+album: '',
+cover: 'img/sleepnightyama.jpg',
+mp3: '',
+ogg: 'mp3/sleepnightyama.ogg'
+},
 ];
 
 	// Load playlist
