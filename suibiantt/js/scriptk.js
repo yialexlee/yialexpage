@@ -1390,6 +1390,14 @@ cover: 'img/becausedreamcatcher.jpg',
 mp3: '',
 ogg: 'mp3/becausedreamcatcher.ogg'
 },
+{
+title: '소리꾼',
+artist: 'Stray Kids',
+album: 'NOEASY',
+cover: 'img/solikkunstraykid.jpg',
+mp3: '',
+ogg: 'mp3/solikkunstraykid.ogg'
+},
 ];
 
 	// Load playlist
