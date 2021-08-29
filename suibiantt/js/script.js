@@ -5054,6 +5054,54 @@ cover: 'img/sleepnightyama.jpg',
 mp3: '',
 ogg: 'mp3/sleepnightyama.ogg'
 },
+{
+title: '소리꾼',
+artist: 'Stray Kids',
+album: 'NOEASY',
+cover: 'img/solikkunstraykid.jpg',
+mp3: '',
+ogg: 'mp3/solikkunstraykid.ogg'
+},
+{
+title: 'Still Wonder',
+artist: '하현상(Ha Hyunsang)',
+album: '너는 나의 봄 OST Part 3',
+cover: 'img/stillwonderhahyunsang.jpg',
+mp3: '',
+ogg: 'mp3/stillwonderhahyunsang.ogg'
+},
+{
+title: '世界の秘密',
+artist: '酸欠少女さユり',
+album: '',
+cover: 'img/sekainohimitsusankenshyojousayuri.jpg',
+mp3: '',
+ogg: 'mp3/sekainohimitsusankenshyojousayuri.ogg'
+},
+{
+title: 'ヨワネハキ feat. 和ぬか, asmi',
+artist: 'MAISONdes',
+album: '',
+cover: 'img/yowanehakimaisondes.jpg',
+mp3: '',
+ogg: 'mp3/yowanehakimaisondes.ogg'
+},
+{
+title: 'ヨワネハキ feat. 和ぬか, asmi ( The First Take ver )',
+artist: 'MAISONdes',
+album: '',
+cover: 'img/yowanehakimaisondesthefirsttake.jpg',
+mp3: '',
+ogg: 'mp3/yowanehakimaisondesthefirsttake.ogg'
+},
+{
+title: '八月の蛍',
+artist: 'HACHI',
+album: '',
+cover: 'img/hachigatsunohotaruhachi.jpg',
+mp3: '',
+ogg: 'mp3/hachigatsunohotaruhachi.ogg'
+},
 ];
 
 	// Load playlist
