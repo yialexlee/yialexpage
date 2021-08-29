@@ -2141,6 +2141,38 @@ cover: 'img/sleepnightyama.jpg',
 mp3: '',
 ogg: 'mp3/sleepnightyama.ogg'
 },
+{
+title: '世界の秘密',
+artist: '酸欠少女さユり',
+album: '',
+cover: 'img/sekainohimitsusankenshyojousayuri.jpg',
+mp3: '',
+ogg: 'mp3/sekainohimitsusankenshyojousayuri.ogg'
+},
+{
+title: 'ヨワネハキ feat. 和ぬか, asmi',
+artist: 'MAISONdes',
+album: '',
+cover: 'img/yowanehakimaisondes.jpg',
+mp3: '',
+ogg: 'mp3/yowanehakimaisondes.ogg'
+},
+{
+title: 'ヨワネハキ feat. 和ぬか, asmi ( The First Take ver )',
+artist: 'MAISONdes',
+album: '',
+cover: 'img/yowanehakimaisondesthefirsttake.jpg',
+mp3: '',
+ogg: 'mp3/yowanehakimaisondesthefirsttake.ogg'
+},
+{
+title: '八月の蛍',
+artist: 'HACHI',
+album: '',
+cover: 'img/hachigatsunohotaruhachi.jpg',
+mp3: '',
+ogg: 'mp3/hachigatsunohotaruhachi.ogg'
+},
 ];
 
 	// Load playlist
