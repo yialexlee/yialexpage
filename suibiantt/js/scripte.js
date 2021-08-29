@@ -581,6 +581,14 @@ cover: 'img/iloveu3000tephaniepoetri.jpg',
 mp3: '',
 ogg: 'mp3/iloveu3000tephaniepoetri.ogg'
 },
+{
+title: 'Still Wonder',
+artist: '하현상(Ha Hyunsang)',
+album: '너는 나의 봄 OST Part 3',
+cover: 'img/stillwonderhahyunsang.jpg',
+mp3: '',
+ogg: 'mp3/stillwonderhahyunsang.ogg'
+},
 ];
 
 	// Load playlist
