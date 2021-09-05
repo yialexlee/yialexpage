@@ -1398,6 +1398,14 @@ cover: 'img/solikkunstraykid.jpg',
 mp3: '',
 ogg: 'mp3/solikkunstraykid.ogg'
 },
+{
+title: '구원자 (Savior) Feat. B.I',
+artist: '이하이 (LeeHi)',
+album: 'ONLY',
+cover: 'img/saviorleehi.jpg',
+mp3: '',
+ogg: 'mp3/saviorleehi.ogg'
+},
 ];
 
 	// Load playlist
