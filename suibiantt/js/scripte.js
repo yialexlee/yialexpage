@@ -589,6 +589,14 @@ cover: 'img/stillwonderhahyunsang.jpg',
 mp3: '',
 ogg: 'mp3/stillwonderhahyunsang.ogg'
 },
+{
+title: 'Dandelions',
+artist: 'Ruth B.',
+album: '',
+cover: 'img/dandelionsruthb.jpg',
+mp3: '',
+ogg: 'mp3/dandelionsruthb.ogg'
+},
 ];
 
 	// Load playlist
