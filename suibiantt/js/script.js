@@ -5102,6 +5102,54 @@ cover: 'img/hachigatsunohotaruhachi.jpg',
 mp3: '',
 ogg: 'mp3/hachigatsunohotaruhachi.ogg'
 },
+{
+title: '구원자 (Savior) Feat. B.I',
+artist: '이하이 (LeeHi)',
+album: 'ONLY',
+cover: 'img/saviorleehi.jpg',
+mp3: '',
+ogg: 'mp3/saviorleehi.ogg'
+},
+{
+title: 'Dandelions',
+artist: 'Ruth B.',
+album: '',
+cover: 'img/dandelionsruthb.jpg',
+mp3: '',
+ogg: 'mp3/dandelionsruthb.ogg'
+},
+{
+title: ' ทน Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/thnpookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/thnpookkyoat.ogg'
+},
+{
+title: 'WIP WUP (วิบวับ)  Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/wipwuppookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/wipwuppookkyoat.ogg'
+},
+{
+title: 'อยากเป็นลูกเขย ( ຢາກເປັນລູກເຂີຍ )Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/yakpenlukkhoenypookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/yakpenlukkhoenypookkyoat.ogg'
+},
+{
+title: 'ใส่ใจได้แค่มอง (ໃສ່ໃຈໄດ້ແຕ່ມອງ)Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/saichaidaiaetmongpookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/saichaidaiaetmongpookkyoat.ogg'
+},
 ];
 
 	// Load playlist
