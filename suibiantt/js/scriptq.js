@@ -149,6 +149,38 @@ cover: 'img/caramelldansencaramellagirls.jpg',
 mp3: '',
 ogg: 'mp3/caramelldansencaramellagirls.ogg'
 },
+{
+title: 'ทน Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/thnpookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/thnpookkyoat.ogg'
+},
+{
+title: 'WIP WUP (วิบวับ)  Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/wipwuppookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/wipwuppookkyoat.ogg'
+},
+{
+title: 'อยากเป็นลูกเขย ( ຢາກເປັນລູກເຂີຍ )Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/yakpenlukkhoenypookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/yakpenlukkhoenypookkyoat.ogg'
+},
+{
+title: 'ใส่ใจได้แค่มอง (ໃສ່ໃຈໄດ້ແຕ່ມອງ)Acoustic Cover By Pookky x Oat ',
+artist: 'Pookky x Oat',
+album: '',
+cover: 'img/saichaidaiaetmongpookkyoat.jpg',
+mp3: '',
+ogg: 'mp3/saichaidaiaetmongpookkyoat.ogg'
+},
 ];
 
 	// Load playlist
