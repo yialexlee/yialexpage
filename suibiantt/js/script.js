@@ -5150,6 +5150,46 @@ cover: 'img/saichaidaiaetmongpookkyoat.jpg',
 mp3: '',
 ogg: 'mp3/saichaidaiaetmongpookkyoat.ogg'
 },
+{
+title: 'Chance',
+artist: 'N.Flying(엔플라잉)',
+album: '',
+cover: 'img/nflyingchance.jpg',
+mp3: '',
+ogg: 'mp3/nflyingchance.ogg'
+},
+{
+title: 'トライミライ',
+artist: 'she9',
+album: '',
+cover: 'img/doraimiraishe9.jpg',
+mp3: '',
+ogg: 'mp3/doraimiraishe9.ogg'
+},
+{
+title: 'Summer Fling',
+artist: 'Nina Nesbitt',
+album: '',
+cover: 'img/summerflingninanesbitt.jpg',
+mp3: '',
+ogg: 'mp3/summerflingninanesbitt.ogg'
+},
+{
+title: 'Im not Pretty',
+artist: 'JESSIA',
+album: '',
+cover: 'img/imnotprettyjessia.jpg',
+mp3: '',
+ogg: 'mp3/imnotprettyjessia.ogg'
+},
+{
+title: 'Girls Like Us',
+artist: 'Zoe Wees',
+album: '',
+cover: 'img/girlslikeuszoewees.jpg',
+mp3: '',
+ogg: 'mp3/girlslikeuszoewees.ogg'
+},
 ];
 
 	// Load playlist
