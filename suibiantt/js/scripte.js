@@ -597,6 +597,30 @@ cover: 'img/dandelionsruthb.jpg',
 mp3: '',
 ogg: 'mp3/dandelionsruthb.ogg'
 },
+{
+title: 'Summer Fling',
+artist: 'Nina Nesbitt',
+album: '',
+cover: 'img/summerflingninanesbitt.jpg',
+mp3: '',
+ogg: 'mp3/summerflingninanesbitt.ogg'
+},
+{
+title: 'Im not Pretty',
+artist: 'JESSIA',
+album: '',
+cover: 'img/imnotprettyjessia.jpg',
+mp3: '',
+ogg: 'mp3/imnotprettyjessia.ogg'
+},
+{
+title: 'Girls Like Us',
+artist: 'Zoe Wees',
+album: '',
+cover: 'img/girlslikeuszoewees.jpg',
+mp3: '',
+ogg: 'mp3/girlslikeuszoewees.ogg'
+},
 ];
 
 	// Load playlist
