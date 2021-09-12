@@ -2173,6 +2173,14 @@ cover: 'img/hachigatsunohotaruhachi.jpg',
 mp3: '',
 ogg: 'mp3/hachigatsunohotaruhachi.ogg'
 },
+{
+title: 'トライミライ',
+artist: 'she9',
+album: '',
+cover: 'img/doraimiraishe9.jpg',
+mp3: '',
+ogg: 'mp3/doraimiraishe9.ogg'
+},
 ];
 
 	// Load playlist
