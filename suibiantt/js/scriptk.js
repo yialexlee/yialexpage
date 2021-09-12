@@ -1406,6 +1406,14 @@ cover: 'img/saviorleehi.jpg',
 mp3: '',
 ogg: 'mp3/saviorleehi.ogg'
 },
+{
+title: 'Chance',
+artist: 'N.Flying(엔플라잉)',
+album: '',
+cover: 'img/nflyingchance.jpg',
+mp3: '',
+ogg: 'mp3/nflyingchance.ogg'
+},
 ];
 
 	// Load playlist
