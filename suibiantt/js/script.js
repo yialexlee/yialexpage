@@ -5190,6 +5190,30 @@ cover: 'img/girlslikeuszoewees.jpg',
 mp3: '',
 ogg: 'mp3/girlslikeuszoewees.ogg'
 },
+{
+title: 'Reason',
+artist: '요아리(Yoari)',
+album: '검은 태양 OST Part 1',
+cover: 'img/reasonyoari.jpg',
+mp3: '',
+ogg: 'mp3/reasonyoari.ogg'
+},
+{
+title: 'THATS WHAT I WANT',
+artist: 'Lil Nas',
+album: '',
+cover: 'img/thatswhatiwantlilnas.jpg',
+mp3: '',
+ogg: 'mp3/thatswhatiwantlilnas.ogg'
+},
+{
+title: 'LALISA',
+artist: 'LISA',
+album: '',
+cover: 'img/lalisalisa.jpg',
+mp3: '',
+ogg: 'mp3/lalisalisa.ogg'
+},
 ];
 
 	// Load playlist
