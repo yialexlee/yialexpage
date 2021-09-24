@@ -2181,6 +2181,22 @@ cover: 'img/doraimiraishe9.jpg',
 mp3: '',
 ogg: 'mp3/doraimiraishe9.ogg'
 },
+{
+title: '花月ノ夢',
+artist: 'さくらみこ',
+album: '',
+cover: 'img/hagetsunoyumesakuramiko.jpg',
+mp3: '',
+ogg: 'mp3/hagetsunoyumesakuramiko.ogg'
+},
+{
+title: '大正浪漫',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/taishouromanyoasobi.jpg',
+mp3: '',
+ogg: 'mp3/taishouromanyoasobi.ogg'
+},
 ];
 
 	// Load playlist
