@@ -1414,6 +1414,30 @@ cover: 'img/nflyingchance.jpg',
 mp3: '',
 ogg: 'mp3/nflyingchance.ogg'
 },
+{
+title: 'LALISA',
+artist: 'LISA',
+album: '',
+cover: 'img/lalisalisa.jpg',
+mp3: '',
+ogg: 'mp3/lalisalisa.ogg'
+},
+{
+title: 'Deja Vu',
+artist: 'ATEEZ(에이티즈)',
+album: '',
+cover: 'img/dejavuateez.jpg',
+mp3: '',
+ogg: 'mp3/dejavuateez.ogg'
+},
+{
+title: '색안경 (STEREOTYPE)',
+artist: 'STAYC(스테이씨)',
+album: '',
+cover: 'img/stereotypestayc.jpg',
+mp3: '',
+ogg: 'mp3/stereotypestayc.ogg'
+},
 ];
 
 	// Load playlist
