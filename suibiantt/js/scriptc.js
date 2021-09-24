@@ -798,6 +798,30 @@ cover: 'img/jinghuozhiqiangannwuzuyanaxi.jpg',
 mp3: '',
 ogg: 'mp3/jinghuozhiqiangannwuzuyanaxi.ogg'
 },
+{
+title: '画离弦',
+artist: '海伦',
+album: '',
+cover: 'img/hualixianhailun.jpg',
+mp3: '',
+ogg: 'mp3/hualixianhailun.ogg'
+},
+{
+title: '花花世界',
+artist: '尤起勝/夏婉安',
+album: '',
+cover: 'img/huahuashijieyouqishengxiawanan.jpg',
+mp3: '',
+ogg: 'mp3/huahuashijieyouqishengxiawanan.ogg'
+},
+{
+title: '你能不能不要离开我',
+artist: '莫叫姐姐',
+album: '',
+cover: 'img/ninengbunengbuyaolikaiwomojiaojiejie.jpg',
+mp3: '',
+ogg: 'mp3/ninengbunengbuyaolikaiwomojiaojiejie.ogg'
+},
 ];
 
 	// Load playlist
