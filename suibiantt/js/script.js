@@ -5214,6 +5214,62 @@ cover: 'img/lalisalisa.jpg',
 mp3: '',
 ogg: 'mp3/lalisalisa.ogg'
 },
+{
+title: 'Deja Vu',
+artist: 'ATEEZ(에이티즈)',
+album: '',
+cover: 'img/dejavuateez.jpg',
+mp3: '',
+ogg: 'mp3/dejavuateez.ogg'
+},
+{
+title: '색안경 (STEREOTYPE)',
+artist: 'STAYC(스테이씨)',
+album: '',
+cover: 'img/stereotypestayc.jpg',
+mp3: '',
+ogg: 'mp3/stereotypestayc.ogg'
+},
+{
+title: '花月ノ夢',
+artist: 'さくらみこ',
+album: '',
+cover: 'img/hagetsunoyumesakuramiko.jpg',
+mp3: '',
+ogg: 'mp3/hagetsunoyumesakuramiko.ogg'
+},
+{
+title: '大正浪漫',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/taishouromanyoasobi.jpg',
+mp3: '',
+ogg: 'mp3/taishouromanyoasobi.ogg'
+},
+{
+title: '画离弦',
+artist: '海伦',
+album: '',
+cover: 'img/hualixianhailun.jpg',
+mp3: '',
+ogg: 'mp3/hualixianhailun.ogg'
+},
+{
+title: '花花世界',
+artist: '尤起勝/夏婉安',
+album: '',
+cover: 'img/huahuashijieyouqishengxiawanan.jpg',
+mp3: '',
+ogg: 'mp3/huahuashijieyouqishengxiawanan.ogg'
+},
+{
+title: '你能不能不要离开我',
+artist: '莫叫姐姐',
+album: '',
+cover: 'img/ninengbunengbuyaolikaiwomojiaojiejie.jpg',
+mp3: '',
+ogg: 'mp3/ninengbunengbuyaolikaiwomojiaojiejie.ogg'
+},
 ];
 
 	// Load playlist
