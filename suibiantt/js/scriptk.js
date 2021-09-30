@@ -1438,6 +1438,14 @@ cover: 'img/stereotypestayc.jpg',
 mp3: '',
 ogg: 'mp3/stereotypestayc.ogg'
 },
+{
+title: 'LOCO',
+artist: 'ITZY',
+album: 'ITZY The 1st Album "CRAZY IN LOVE"',
+cover: 'img/locoitzy.jpg',
+mp3: '',
+ogg: 'mp3/locoitzy.ogg'
+},
 ];
 
 	// Load playlist
