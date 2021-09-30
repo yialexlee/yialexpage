@@ -5270,6 +5270,70 @@ cover: 'img/ninengbunengbuyaolikaiwomojiaojiejie.jpg',
 mp3: '',
 ogg: 'mp3/ninengbunengbuyaolikaiwomojiaojiejie.ogg'
 },
+{
+title: 'LOCO',
+artist: 'ITZY',
+album: 'ITZY The 1st Album "CRAZY IN LOVE"',
+cover: 'img/locoitzy.jpg',
+mp3: '',
+ogg: 'mp3/locoitzy.ogg'
+},
+{
+title: '深海',
+artist: '森七菜',
+album: '',
+cover: 'img/shinkaimorinana.jpg',
+mp3: '',
+ogg: 'mp3/shinkaimorinana.ogg'
+},
+{
+title: '血流',
+artist: 'yama',
+album: '',
+cover: 'img/ketsuryuyama.jpg',
+mp3: '',
+ogg: 'mp3/ketsuryuyama.ogg'
+},
+{
+title: 'Choose me',
+artist: 'BAND-MAID',
+album: '',
+cover: 'img/bandmaidchooseme.jpg',
+mp3: '',
+ogg: 'mp3/bandmaidchooseme.ogg'
+},
+{
+title: 'After Life',
+artist: 'BAND-MAID',
+album: '',
+cover: 'img/afterlifebandmaid.jpg',
+mp3: '',
+ogg: 'mp3/afterlifebandmaid.ogg'
+},
+{
+title: '湘南族',
+artist: 'Aural Vampire',
+album: 'ZOLTANK',
+cover: 'img/shonanzokuauralvampire.jpg',
+mp3: '',
+ogg: 'mp3/shonanzokuauralvampire.ogg'
+},
+{
+title: 'Im a Pop',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img/imapopchanmina.jpg',
+mp3: '',
+ogg: 'mp3/imapopchanmina.ogg'
+},
+{
+title: '美人',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img/bijinchanmina.jpg',
+mp3: '',
+ogg: 'mp3/bijinchanmina.ogg'
+},
 ];
 
 	// Load playlist
