@@ -2253,6 +2253,22 @@ cover: 'img/bijinchanmina.jpg',
 mp3: '',
 ogg: 'mp3/bijinchanmina.ogg'
 },
+{
+title: 'シャッター',
+artist: '優里',
+album: '',
+cover: 'img/shiyattayuri.jpg',
+mp3: '',
+ogg: 'mp3/shiyattayuri.ogg'
+},
+{
+title: 'Magical Word',
+artist: 'P丸様',
+album: '',
+cover: 'img/magicalwordpmarusama.jpg',
+mp3: '',
+ogg: 'mp3/magicalwordpmarusama.ogg'
+},
 ];
 
 	// Load playlist
