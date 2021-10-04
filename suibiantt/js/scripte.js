@@ -637,6 +637,22 @@ cover: 'img/thatswhatiwantlilnas.jpg',
 mp3: '',
 ogg: 'mp3/thatswhatiwantlilnas.ogg'
 },
+{
+title: 'End of a life',
+artist: 'Mori Calliope',
+album: '',
+cover: 'img/endofalifemoricalliope.jpg',
+mp3: '',
+ogg: 'mp3/endofalifemoricalliope.ogg'
+},
+{
+title: 'The Feels',
+artist: 'TWICE',
+album: '',
+cover: 'img/thefeelstwice.jpg',
+mp3: '',
+ogg: 'mp3/thefeelstwice.ogg'
+},
 ];
 
 	// Load playlist
