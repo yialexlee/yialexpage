@@ -2269,6 +2269,14 @@ cover: 'img/magicalwordpmarusama.jpg',
 mp3: '',
 ogg: 'mp3/magicalwordpmarusama.ogg'
 },
+{
+title: 'そばにいて。',
+artist: 'ユイカ',
+album: '',
+cover: 'img/sobaniiteyuika.jpg',
+mp3: '',
+ogg: 'mp3/sobaniiteyuika.ogg'
+},
 ];
 
 	// Load playlist
