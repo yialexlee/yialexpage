@@ -1446,6 +1446,14 @@ cover: 'img/locoitzy.jpg',
 mp3: '',
 ogg: 'mp3/locoitzy.ogg'
 },
+{
+title: 'Savage',
+artist: 'aespa 에스파',
+album: '',
+cover: 'img/savageaespa.jpg',
+mp3: '',
+ogg: 'mp3/savageaespa.ogg'
+},
 ];
 
 	// Load playlist
