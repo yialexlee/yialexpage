@@ -653,6 +653,22 @@ cover: 'img/thefeelstwice.jpg',
 mp3: '',
 ogg: 'mp3/thefeelstwice.ogg'
 },
+{
+title: 'Lost Control',
+artist: 'Alan Walker ft. Sorana',
+album: 'Different World',
+cover: 'img/lostcontrolalanwalker.jpg',
+mp3: '',
+ogg: 'mp3/lostcontrolalanwalker.ogg'
+},
+{
+title: 'STAY',
+artist: 'The Kid LAROI, Justin Bieber',
+album: '',
+cover: 'img/stayjustinbieberthekidlarot.jpg',
+mp3: '',
+ogg: 'mp3/stayjustinbieberthekidlarot.ogg'
+},
 ];
 
 	// Load playlist
