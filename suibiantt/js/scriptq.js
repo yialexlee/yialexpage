@@ -181,6 +181,30 @@ cover: 'img/saichaidaiaetmongpookkyoat.jpg',
 mp3: '',
 ogg: 'mp3/saichaidaiaetmongpookkyoat.ogg'
 },
+{
+title: 'Berani',
+artist: 'DOLLA',
+album: '',
+cover: 'img/beranidolla.jpg',
+mp3: '',
+ogg: 'mp3/beranidolla.ogg'
+},
+{
+title: 'MONEY HONEY (Prod. By URBOYTJ)',
+artist: 'F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE)',
+album: '',
+cover: 'img/moneyhoneyfherourboytj.jpg',
+mp3: '',
+ogg: 'mp3/moneyhoneyfherourboytj.ogg'
+},
+{
+title: 'เก่งแต่เรื่องคนอื่น (EXPERT)',
+artist: 'INK WARUNTORN Feat.SPRITE',
+album: '',
+cover: 'img/expertinkwaruntorn.jpg',
+mp3: '',
+ogg: 'mp3/expertinkwaruntorn.ogg'
+},
 ];
 
 	// Load playlist
