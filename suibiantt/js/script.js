@@ -5366,6 +5366,70 @@ cover: 'img/magicalwordpmarusama.jpg',
 mp3: '',
 ogg: 'mp3/magicalwordpmarusama.ogg'
 },
+{
+title: 'そばにいて。',
+artist: 'ユイカ',
+album: '',
+cover: 'img/sobaniiteyuika.jpg',
+mp3: '',
+ogg: 'mp3/sobaniiteyuika.ogg'
+},
+{
+title: 'Lost Control',
+artist: 'Alan Walker ft. Sorana',
+album: 'Different World',
+cover: 'img/lostcontrolalanwalker.jpg',
+mp3: '',
+ogg: 'mp3/lostcontrolalanwalker.ogg'
+},
+{
+title: 'STAY',
+artist: 'The Kid LAROI, Justin Bieber',
+album: '',
+cover: 'img/stayjustinbieberthekidlarot.jpg',
+mp3: '',
+ogg: 'mp3/stayjustinbieberthekidlarot.ogg'
+},
+{
+title: 'Savage',
+artist: 'aespa 에스파',
+album: '',
+cover: 'img/savageaespa.jpg',
+mp3: '',
+ogg: 'mp3/savageaespa.ogg'
+},
+{
+title: 'Keep me afraid',
+artist: 'Nessa Barrett',
+album: '',
+cover: 'img/keepmeafraid.jpg',
+mp3: '',
+ogg: 'mp3/keepmeafraid.ogg'
+},
+{
+title: 'Berani',
+artist: 'DOLLA',
+album: '',
+cover: 'img/beranidolla.jpg',
+mp3: '',
+ogg: 'mp3/beranidolla.ogg'
+},
+{
+title: 'MONEY HONEY (Prod. By URBOYTJ)',
+artist: 'F.HERO x URBOYTJ Ft. MINNIE ((G)I-DLE)',
+album: '',
+cover: 'img/moneyhoneyfherourboytj.jpg',
+mp3: '',
+ogg: 'mp3/moneyhoneyfherourboytj.ogg'
+},
+{
+title: 'เก่งแต่เรื่องคนอื่น (EXPERT)',
+artist: 'INK WARUNTORN Feat.SPRITE',
+album: '',
+cover: 'img/expertinkwaruntorn.jpg',
+mp3: '',
+ogg: 'mp3/expertinkwaruntorn.ogg'
+},
 ];
 
 	// Load playlist
