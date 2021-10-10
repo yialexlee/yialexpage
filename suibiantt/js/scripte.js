@@ -669,6 +669,14 @@ cover: 'img/stayjustinbieberthekidlarot.jpg',
 mp3: '',
 ogg: 'mp3/stayjustinbieberthekidlarot.ogg'
 },
+{
+title: 'Keep me afraid',
+artist: 'Nessa Barrett',
+album: '',
+cover: 'img/keepmeafraid.jpg',
+mp3: '',
+ogg: 'mp3/keepmeafraid.ogg'
+},
 ];
 
 	// Load playlist
