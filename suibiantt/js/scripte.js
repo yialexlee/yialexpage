@@ -677,6 +677,22 @@ cover: 'img/keepmeafraid.jpg',
 mp3: '',
 ogg: 'mp3/keepmeafraid.ogg'
 },
+{
+title: 'Invisible',
+artist: 'Gremlin',
+album: '',
+cover: 'img/invisiblegremin.jpg',
+mp3: '',
+ogg: 'mp3/invisiblegremin.ogg'
+},
+{
+title: 'Zombie',
+artist: 'Bad Wolves',
+album: '',
+cover: 'img/zombiebadwolves.jpg',
+mp3: '',
+ogg: 'mp3/zombiebadwolves.ogg'
+},
 ];
 
 	// Load playlist
