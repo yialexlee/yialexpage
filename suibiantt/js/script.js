@@ -5430,6 +5430,78 @@ cover: 'img/expertinkwaruntorn.jpg',
 mp3: '',
 ogg: 'mp3/expertinkwaruntorn.ogg'
 },
+{
+title: '比擬',
+artist: '阿YueYue',
+album: '',
+cover: 'img/biniayueyue.jpg',
+mp3: '',
+ogg: 'mp3/biniayueyue.ogg'
+},
+{
+title: '孤城',
+artist: '洛先生',
+album: '',
+cover: 'img/guchengluoxiansheng.jpg',
+mp3: '',
+ogg: 'mp3/guchengluoxiansheng.ogg'
+},
+{
+title: '沈园外',
+artist: '阿YueYue/戾格',
+album: '',
+cover: 'img/shenyuanwaiayueyuelige.jpg',
+mp3: '',
+ogg: 'mp3/shenyuanwaiayueyuelige.ogg'
+},
+{
+title: 'Invisible',
+artist: 'Gremlin',
+album: '',
+cover: 'img/invisiblegremin.jpg',
+mp3: '',
+ogg: 'mp3/invisiblegremin.ogg'
+},
+{
+title: 'Zombie',
+artist: 'Bad Wolves',
+album: '',
+cover: 'img/zombiebadwolves.jpg',
+mp3: '',
+ogg: 'mp3/zombiebadwolves.ogg'
+},
+{
+title: '太陽',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img/daiyouchanmina.jpg',
+mp3: '',
+ogg: 'mp3/daiyouchanmina.ogg'
+},
+{
+title: 'Lucky Days',
+artist: '福原 遥',
+album: '',
+cover: 'img/luckydayfukaharaharuka.jpg',
+mp3: '',
+ogg: 'mp3/luckydayfukaharaharuka.ogg'
+},
+{
+title: 'Возьми сердце моё cover',
+artist: 'Канги',
+album: '',
+cover: 'img/Vozmiserdtsemoyoarishanya.jpg',
+mp3: '',
+ogg: 'mp3/Vozmiserdtsemoyokangi.ogg'
+},
+{
+title: 'Возьми сердце моё cover',
+artist: 'arishanya',
+album: '',
+cover: 'img/Vozmiserdtsemoyoarishanya.jpg',
+mp3: '',
+ogg: 'mp3/Vozmiserdtsemoyoarishanya.ogg'
+},
 ];
 
 	// Load playlist
