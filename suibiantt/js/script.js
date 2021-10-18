@@ -5487,7 +5487,7 @@ mp3: '',
 ogg: 'mp3/luckydayfukaharaharuka.ogg'
 },
 {
-title: 'Возьми сердце моё cover',
+title: 'Возьми сердце моё',
 artist: 'Канги',
 album: '',
 cover: 'img/Vozmiserdtsemoyoarishanya.jpg',
