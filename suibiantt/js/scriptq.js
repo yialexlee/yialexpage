@@ -205,6 +205,22 @@ cover: 'img/expertinkwaruntorn.jpg',
 mp3: '',
 ogg: 'mp3/expertinkwaruntorn.ogg'
 },
+{
+title: 'Возьми сердце моё',
+artist: 'Канги',
+album: '',
+cover: 'img/Vozmiserdtsemoyoarishanya.jpg',
+mp3: '',
+ogg: 'mp3/Vozmiserdtsemoyokangi.ogg'
+},
+{
+title: 'Возьми сердце моё cover',
+artist: 'arishanya',
+album: '',
+cover: 'img/Vozmiserdtsemoyoarishanya.jpg',
+mp3: '',
+ogg: 'mp3/Vozmiserdtsemoyoarishanya.ogg'
+},
 ];
 
 	// Load playlist
