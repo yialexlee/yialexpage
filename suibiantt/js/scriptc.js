@@ -822,6 +822,30 @@ cover: 'img/ninengbunengbuyaolikaiwomojiaojiejie.jpg',
 mp3: '',
 ogg: 'mp3/ninengbunengbuyaolikaiwomojiaojiejie.ogg'
 },
+{
+title: '比擬',
+artist: '阿YueYue',
+album: '',
+cover: 'img/biniayueyue.jpg',
+mp3: '',
+ogg: 'mp3/biniayueyue.ogg'
+},
+{
+title: '孤城',
+artist: '洛先生',
+album: '',
+cover: 'img/guchengluoxiansheng.jpg',
+mp3: '',
+ogg: 'mp3/guchengluoxiansheng.ogg'
+},
+{
+title: '沈园外',
+artist: '阿YueYue/戾格',
+album: '',
+cover: 'img/shenyuanwaiayueyuelige.jpg',
+mp3: '',
+ogg: 'mp3/shenyuanwaiayueyuelige.ogg'
+},
 ];
 
 	// Load playlist
