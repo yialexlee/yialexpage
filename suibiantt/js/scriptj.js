@@ -2277,6 +2277,22 @@ cover: 'img/sobaniiteyuika.jpg',
 mp3: '',
 ogg: 'mp3/sobaniiteyuika.ogg'
 },
+{
+title: '太陽',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img/daiyouchanmina.jpg',
+mp3: '',
+ogg: 'mp3/daiyouchanmina.ogg'
+},
+{
+title: 'Lucky Days',
+artist: '福原 遥',
+album: '',
+cover: 'img/luckydayfukaharaharuka.jpg',
+mp3: '',
+ogg: 'mp3/luckydayfukaharaharuka.ogg'
+},
 ];
 
 	// Load playlist
