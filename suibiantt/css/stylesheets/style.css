@@ -59,3 +59,6 @@ a { outline: none; text-decoration: none; }
 footer { position: relative; font-size: 12px; color: white; heigh:0px; text-shadow: 0 1px 2px #000; text-align: center; }
 footer a { color: #fff; font-weight: bold; }
 footer a:hover { text-decoration: none; }
+body::-webkit-scrollbar{width:0.6em}
+body::-webkit-scrollbar-track{background-color:black}
+body::-webkit-scrollbar-thumb{background-color:#360d94;border-radius:10px;}
