@@ -2293,6 +2293,22 @@ cover: 'img/luckydayfukaharaharuka.jpg',
 mp3: '',
 ogg: 'mp3/luckydayfukaharaharuka.ogg'
 },
+{
+title: 'Heart',
+artist: 'あいみょん',
+album: '',
+cover: 'img/heartaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/heartaimiyon.ogg'
+},
+{
+title: 'ツバメ (feat. ミドリーズ)',
+artist: 'YOASOBI',
+album: '',
+cover: 'tsubameyoasobi.jpg',
+mp3: '',
+ogg: 'mp3/tsubameyoasobi.ogg'
+},
 ];
 
 	// Load playlist
