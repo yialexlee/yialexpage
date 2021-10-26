@@ -5514,7 +5514,7 @@ ogg: 'mp3/heartaimiyon.ogg'
 title: 'ツバメ (feat. ミドリーズ)',
 artist: 'YOASOBI',
 album: '',
-cover: 'tsubameyoasobi.jpg',
+cover: 'img/tsubameyoasobi.jpg',
 mp3: '',
 ogg: 'mp3/tsubameyoasobi.ogg'
 },
