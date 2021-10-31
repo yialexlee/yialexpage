@@ -846,6 +846,22 @@ cover: 'img/shenyuanwaiayueyuelige.jpg',
 mp3: '',
 ogg: 'mp3/shenyuanwaiayueyuelige.ogg'
 },
+{
+title: '高攀',
+artist: '小乐哥',
+album: '',
+cover: 'img/gaopanxiaolege.jpg',
+mp3: '',
+ogg: 'mp3/gaopanxiaolege.ogg'
+},
+{
+title: '玻璃心',
+artist: '黃明志 Ft.陳芳語',
+album: '',
+cover: 'img/bolixinnameweechengfangyu.jpg',
+mp3: '',
+ogg: 'mp3/bolixinnameweechengfangyu.ogg'
+},
 ];
 
 	// Load playlist
