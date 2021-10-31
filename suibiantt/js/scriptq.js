@@ -221,6 +221,30 @@ cover: 'img/Vozmiserdtsemoyoarishanya.jpg',
 mp3: '',
 ogg: 'mp3/Vozmiserdtsemoyoarishanya.ogg'
 },
+{
+title: 'Танцы под дождем',
+artist: 'MIA BOYKA, Ваня Дмитриенко',
+album: '',
+cover: 'img/tantsypoddozhdemmiaboyka.jpg',
+mp3: '',
+ogg: 'mp3/tantsypoddozhdemmiaboyka.ogg'
+},
+{
+title: 'Капкан (Волшебная Ариэль)',
+artist: 'Konfuz, MIA BOYKA',
+album: '',
+cover: 'img/kapkanmiaboykakonfuz.jpg',
+mp3: '',
+ogg: 'mp3/kapkanmiaboykakonfuz.ogg'
+},
+{
+title: 'Юность',
+artist: 'Dabro',
+album: '',
+cover: 'img/youthdabro.jpg',
+mp3: '',
+ogg: 'mp3/youthdabro.ogg'
+},
 ];
 
 	// Load playlist
