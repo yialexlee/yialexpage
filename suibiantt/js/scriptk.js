@@ -1454,6 +1454,38 @@ cover: 'img/savageaespa.jpg',
 mp3: '',
 ogg: 'mp3/savageaespa.ogg'
 },
+{
+title: '나를 신경 쓰고 있는 건가',
+artist: '웬디(WENDY)',
+album: '유미의 세포들 OST Part.1',
+cover: 'img/naleulsingyeongsseugoissneungeongawendy.jpg',
+mp3: '',
+ogg: 'mp3/naleulsingyeongsseugoissneungeongawendy.ogg'
+},
+{
+title: '타이밍',
+artist: '선우정아',
+album: '유미의 세포들 OST Part.11',
+cover: 'img/timingjungsunwoo.jpg',
+mp3: '',
+ogg: 'mp3/timingjungsunwoo.ogg'
+},
+{
+title: 'Rock with you',
+artist: 'SEVENTEEN',
+album: 'SEVENTEEN 9th Mini Album - Attacca',
+cover: 'img/rockwithuseventeen.jpg',
+mp3: '',
+ogg: 'mp3/rockwithuseventeen.ogg'
+},
+{
+title: 'XOXO',
+artist: 'JEON SOMI (전소미)',
+album: '',
+cover: 'img/xoxojeonsomi.jpg',
+mp3: '',
+ogg: 'mp3/xoxojeonsomi.ogg'
+},
 ];
 
 	// Load playlist
