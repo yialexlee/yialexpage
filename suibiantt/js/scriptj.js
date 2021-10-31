@@ -2309,6 +2309,30 @@ cover: 'img/tsubameyoasobi.jpg',
 mp3: '',
 ogg: 'mp3/tsubameyoasobi.ogg'
 },
+{
+title: 'Oz.',
+artist: 'yama',
+album: '',
+cover: 'img/ozyama.jpg',
+mp3: '',
+ogg: 'mp3/ozyama.ogg'
+},
+{
+title: 'ヒカレイノチ',
+artist: 'Kitri キトリ',
+album: '',
+cover: 'img/hikareinochikitri.jpg',
+mp3: '',
+ogg: 'mp3/hikareinochikitri.ogg'
+},
+{
+title: 'モラトリアム',
+artist: 'Omoinotake',
+album: '',
+cover: 'img/moratoriamuomoinotake.jpg',
+mp3: '',
+ogg: 'mp3/moratoriamuomoinotake.ogg'
+},
 ];
 
 	// Load playlist
