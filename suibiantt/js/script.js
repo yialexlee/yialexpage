@@ -5518,6 +5518,102 @@ cover: 'img/tsubameyoasobi.jpg',
 mp3: '',
 ogg: 'mp3/tsubameyoasobi.ogg'
 },
+{
+title: 'Oz.',
+artist: 'yama',
+album: '',
+cover: 'img/ozyama.jpg',
+mp3: '',
+ogg: 'mp3/ozyama.ogg'
+},
+{
+title: 'ヒカレイノチ',
+artist: 'Kitri キトリ',
+album: '',
+cover: 'img/hikareinochikitri.jpg',
+mp3: '',
+ogg: 'mp3/hikareinochikitri.ogg'
+},
+{
+title: 'モラトリアム',
+artist: 'Omoinotake',
+album: '',
+cover: 'img/moratoriamuomoinotake.jpg',
+mp3: '',
+ogg: 'mp3/moratoriamuomoinotake.ogg'
+},
+{
+title: '나를 신경 쓰고 있는 건가',
+artist: '웬디(WENDY)',
+album: '유미의 세포들 OST Part.1',
+cover: 'img/naleulsingyeongsseugoissneungeongawendy.jpg',
+mp3: '',
+ogg: 'mp3/naleulsingyeongsseugoissneungeongawendy.ogg'
+},
+{
+title: '타이밍',
+artist: '선우정아',
+album: '유미의 세포들 OST Part.11',
+cover: 'img/timingjungsunwoo.jpg',
+mp3: '',
+ogg: 'mp3/timingjungsunwoo.ogg'
+},
+{
+title: 'Rock with you',
+artist: 'SEVENTEEN',
+album: 'SEVENTEEN 9th Mini Album - Attacca',
+cover: 'img/rockwithuseventeen.jpg',
+mp3: '',
+ogg: 'mp3/rockwithuseventeen.ogg'
+},
+{
+title: 'XOXO',
+artist: 'JEON SOMI (전소미)',
+album: '',
+cover: 'img/xoxojeonsomi.jpg',
+mp3: '',
+ogg: 'mp3/xoxojeonsomi.ogg'
+},
+{
+title: '高攀',
+artist: '小乐哥',
+album: '',
+cover: 'img/gaopanxiaolege.jpg',
+mp3: '',
+ogg: 'mp3/gaopanxiaolege.ogg'
+},
+{
+title: '玻璃心',
+artist: '黃明志 Ft.陳芳語',
+album: '',
+cover: 'img/bolixinnameweechengfangyu.jpg',
+mp3: '',
+ogg: 'mp3/bolixinnameweechengfangyu.ogg'
+},
+{
+title: 'Танцы под дождем',
+artist: 'MIA BOYKA, Ваня Дмитриенко',
+album: '',
+cover: 'img/tantsypoddozhdemmiaboyka.jpg',
+mp3: '',
+ogg: 'mp3/tantsypoddozhdemmiaboyka.ogg'
+},
+{
+title: 'Капкан (Волшебная Ариэль)',
+artist: 'Konfuz, MIA BOYKA',
+album: '',
+cover: 'img/kapkanmiaboykakonfuz.jpg',
+mp3: '',
+ogg: 'mp3/kapkanmiaboykakonfuz.ogg'
+},
+{
+title: 'Юность',
+artist: 'Dabro',
+album: '',
+cover: 'img/youthdabro.jpg',
+mp3: '',
+ogg: 'mp3/youthdabro.ogg'
+},
 ];
 
 	// Load playlist
