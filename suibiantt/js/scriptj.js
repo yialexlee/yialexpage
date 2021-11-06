@@ -2333,6 +2333,14 @@ cover: 'img/moratoriamuomoinotake.jpg',
 mp3: '',
 ogg: 'mp3/moratoriamuomoinotake.ogg'
 },
+{
+title: 'MAKAFUKA',
+artist: 'グランサガ×RADWIMPS',
+album: '',
+cover: 'img/mafafukaguranagaaradwimps.jpg',
+mp3: '',
+ogg: 'mp3/mafafukaguranagaaradwimps.ogg'
+},
 ];
 
 	// Load playlist
