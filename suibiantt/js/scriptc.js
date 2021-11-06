@@ -862,6 +862,14 @@ cover: 'img/bolixinnameweechengfangyu.jpg',
 mp3: '',
 ogg: 'mp3/bolixinnameweechengfangyu.ogg'
 },
+{
+title: '自娱自乐',
+artist: '徐心愉',
+album: '',
+cover: 'img/ziyuzilexuxinyu.jpg',
+mp3: '',
+ogg: 'mp3/ziyuzilexuxinyu.ogg'
+},
 ];
 
 	// Load playlist
