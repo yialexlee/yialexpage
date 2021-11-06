@@ -5614,6 +5614,30 @@ cover: 'img/youthdabro.jpg',
 mp3: '',
 ogg: 'mp3/youthdabro.ogg'
 },
+{
+title: '自娱自乐',
+artist: '徐心愉',
+album: '',
+cover: 'img/ziyuzilexuxinyu.jpg',
+mp3: '',
+ogg: 'mp3/ziyuzilexuxinyu.ogg'
+},
+{
+title: 'So Dumb ',
+artist: 'Mindme feat.NeiNei',
+album: '',
+cover: 'img/sodumbmindmeneinei.jpg',
+mp3: '',
+ogg: 'mp3/sodumbmindmeneinei.ogg'
+},
+{
+title: 'MAKAFUKA',
+artist: 'グランサガ×RADWIMPS',
+album: '',
+cover: 'img/mafafukaguranagaaradwimps.jpg',
+mp3: '',
+ogg: 'mp3/mafafukaguranagaaradwimps.ogg'
+},
 ];
 
 	// Load playlist
