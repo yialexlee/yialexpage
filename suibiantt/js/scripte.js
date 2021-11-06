@@ -693,6 +693,14 @@ cover: 'img/zombiebadwolves.jpg',
 mp3: '',
 ogg: 'mp3/zombiebadwolves.ogg'
 },
+{
+title: 'So Dumb ',
+artist: 'Mindme feat.NeiNei',
+album: '',
+cover: 'img/sodumbmindmeneinei.jpg',
+mp3: '',
+ogg: 'mp3/sodumbmindmeneinei.ogg'
+},
 ];
 
 	// Load playlist
