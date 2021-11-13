@@ -2341,6 +2341,14 @@ cover: 'img/mafafukaguranagaaradwimps.jpg',
 mp3: '',
 ogg: 'mp3/mafafukaguranagaaradwimps.ogg'
 },
+{
+title: 'Dark seeks light',
+artist: 'ニノミヤユイ',
+album: '',
+cover: 'img/darkseekslightnonomiyayui.jpg',
+mp3: '',
+ogg: 'mp3/darkseekslightnonomiyayui.ogg'
+},
 ];
 
 	// Load playlist
