@@ -2349,6 +2349,30 @@ cover: 'img/darkseekslightnonomiyayui.jpg',
 mp3: '',
 ogg: 'mp3/darkseekslightnonomiyayui.ogg'
 },
+{
+title: 'A Promise',
+artist: '結城アイラ',
+album: '',
+cover: 'img/apromiseketsujoaira.jpg',
+mp3: '',
+ogg: 'mp3/apromiseketsujoaira.ogg'
+},
+{
+title: '不完全花',
+artist: 'こはならむ',
+album: '',
+cover: 'img/fukanzenkakohanalam.jpg',
+mp3: '',
+ogg: 'mp3/fukanzenkakohanalam.ogg'
+},
+{
+title: '迷えるヒツジ',
+artist: 'こはならむ',
+album: '',
+cover: 'img/mayoeruhitsujikohanalam.jpg',
+mp3: '',
+ogg: 'mp3/mayoeruhitsujikohanalam.ogg'
+},
 ];
 
 	// Load playlist
