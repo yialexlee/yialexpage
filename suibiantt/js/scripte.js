@@ -701,6 +701,22 @@ cover: 'img/sodumbmindmeneinei.jpg',
 mp3: '',
 ogg: 'mp3/sodumbmindmeneinei.ogg'
 },
+{
+title: 'UP',
+artist: '하진(HAJIN)',
+album: '구경이 OST Part 2',
+cover: 'img/uphajin.jpg',
+mp3: '',
+ogg: 'mp3/uphajin.ogg'
+},
+{
+title: 'Destiny',
+artist: '김필 (Kim Feel)',
+album: '지리산 OST Part 1',
+cover: 'img/destinykimfeel.jpg',
+mp3: '',
+ogg: 'mp3/destinykimfeel.ogg'
+},
 ];
 
 	// Load playlist
