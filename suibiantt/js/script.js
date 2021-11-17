@@ -5646,6 +5646,46 @@ cover: 'img/darkseekslightnonomiyayui.jpg',
 mp3: '',
 ogg: 'mp3/darkseekslightnonomiyayui.ogg'
 },
+{
+title: 'A Promise',
+artist: '結城アイラ',
+album: '',
+cover: 'img/apromiseketsujoaira.jpg',
+mp3: '',
+ogg: 'mp3/apromiseketsujoaira.ogg'
+},
+{
+title: '不完全花',
+artist: 'こはならむ',
+album: '',
+cover: 'img/fukanzenkakohanalam.jpg',
+mp3: '',
+ogg: 'mp3/fukanzenkakohanalam.ogg'
+},
+{
+title: '迷えるヒツジ',
+artist: 'こはならむ',
+album: '',
+cover: 'img/mayoeruhitsujikohanalam.jpg',
+mp3: '',
+ogg: 'mp3/mayoeruhitsujikohanalam.ogg'
+},
+{
+title: 'UP',
+artist: '하진(HAJIN)',
+album: '구경이 OST Part 2',
+cover: 'img/uphajin.jpg',
+mp3: '',
+ogg: 'mp3/uphajin.ogg'
+},
+{
+title: 'Destiny',
+artist: '김필 (Kim Feel)',
+album: '지리산 OST Part 1',
+cover: 'img/destinykimfeel.jpg',
+mp3: '',
+ogg: 'mp3/destinykimfeel.ogg'
+},
 ];
 
 	// Load playlist
