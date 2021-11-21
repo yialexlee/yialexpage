@@ -5686,6 +5686,70 @@ cover: 'img/destinykimfeel.jpg',
 mp3: '',
 ogg: 'mp3/destinykimfeel.ogg'
 },
+{
+title: 'ラストシーン',
+artist: '菅田将暉',
+album: '',
+cover: 'img/lastscenesugatamasaki.jpg',
+mp3: '',
+ogg: 'mp3/lastscenesugatamasaki.ogg'
+},
+{
+title: 'Bloom',
+artist: 'WJSN EXY',
+album: 'IDOL [아이돌 : The Coup] OST Part 2',
+cover: 'img/bloomwjsnexy.jpg',
+mp3: '',
+ogg: 'mp3/bloomwjsnexy.ogg'
+},
+{
+title: 'Paradise',
+artist: '소유(SOYOU)',
+album: 'IDOL [아이돌 : The Coup] OST Part 1',
+cover: 'img/paradisesoyou.jpg',
+mp3: '',
+ogg: 'mp3/paradisesoyou.ogg'
+},
+{
+title: 'Home',
+artist: 'BIG Naughty(서동현), 엑시(EXY), Raiden(레이든)',
+album: 'IDOL [아이돌 : The Coup] OST Part 1',
+cover: 'img/paradisesoyou.jpg',
+mp3: '',
+ogg: 'mp3/homebigexyraiden.ogg'
+},
+{
+title: '刪了吧',
+artist: '烟(许佳豪)',
+album: '',
+cover: 'img/shanlebayan.jpg',
+mp3: '',
+ogg: 'mp3/shanlebayan.ogg'
+},
+{
+title: '琵琶行',
+artist: '河伯',
+album: '',
+cover: 'img/pipaxinghebo.jpg',
+mp3: '',
+ogg: 'mp3/pipaxinghebo.ogg'
+},
+{
+title: '春庭院',
+artist: '等什么君',
+album: '',
+cover: 'img/chuntingyuandengshenmejun.jpg',
+mp3: '',
+ogg: 'mp3/chuntingyuandengshenmejun.ogg'
+},
+{
+title: '极恶都市',
+artist: '夏日入侵计划',
+album: '',
+cover: 'img/jiedushixiariruqinjihua.jpg',
+mp3: '',
+ogg: 'mp3/jiedushixiariruqinjihua.ogg'
+},
 ];
 
 	// Load playlist
