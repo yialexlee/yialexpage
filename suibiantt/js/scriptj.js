@@ -2373,6 +2373,14 @@ cover: 'img/mayoeruhitsujikohanalam.jpg',
 mp3: '',
 ogg: 'mp3/mayoeruhitsujikohanalam.ogg'
 },
+{
+title: 'ラストシーン',
+artist: '菅田将暉',
+album: '',
+cover: 'img/lastscenesugatamasaki.jpg',
+mp3: '',
+ogg: 'mp3/lastscenesugatamasaki.ogg'
+},
 ];
 
 	// Load playlist
