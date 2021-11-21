@@ -870,6 +870,38 @@ cover: 'img/ziyuzilexuxinyu.jpg',
 mp3: '',
 ogg: 'mp3/ziyuzilexuxinyu.ogg'
 },
+{
+title: '刪了吧',
+artist: '烟(许佳豪)',
+album: '',
+cover: 'img/shanlebayan.jpg',
+mp3: '',
+ogg: 'mp3/shanlebayan.ogg'
+},
+{
+title: '琵琶行',
+artist: '河伯',
+album: '',
+cover: 'img/pipaxinghebo.jpg',
+mp3: '',
+ogg: 'mp3/pipaxinghebo.ogg'
+},
+{
+title: '春庭院',
+artist: '等什么君',
+album: '',
+cover: 'img/chuntingyuandengshenmejun.jpg',
+mp3: '',
+ogg: 'mp3/chuntingyuandengshenmejun.ogg'
+},
+{
+title: '极恶都市',
+artist: '夏日入侵计划',
+album: '',
+cover: 'img/jiedushixiariruqinjihua.jpg',
+mp3: '',
+ogg: 'mp3/jiedushixiariruqinjihua.ogg'
+},
 ];
 
 	// Load playlist
