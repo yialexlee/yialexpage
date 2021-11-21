@@ -1486,6 +1486,30 @@ cover: 'img/xoxojeonsomi.jpg',
 mp3: '',
 ogg: 'mp3/xoxojeonsomi.ogg'
 },
+{
+title: 'Bloom',
+artist: 'WJSN EXY',
+album: 'IDOL [아이돌 : The Coup] OST Part 2',
+cover: 'img/bloomwjsnexy.jpg',
+mp3: '',
+ogg: 'mp3/bloomwjsnexy.ogg'
+},
+{
+title: 'Paradise',
+artist: '소유(SOYOU)',
+album: 'IDOL [아이돌 : The Coup] OST Part 1',
+cover: 'img/paradisesoyou.jpg',
+mp3: '',
+ogg: 'mp3/paradisesoyou.ogg'
+},
+{
+title: 'Home',
+artist: 'BIG Naughty(서동현), 엑시(EXY), Raiden(레이든)',
+album: 'IDOL [아이돌 : The Coup] OST Part 1',
+cover: 'img/paradisesoyou.jpg',
+mp3: '',
+ogg: 'mp3/homebigexyraiden.ogg'
+},
 ];
 
 	// Load playlist
