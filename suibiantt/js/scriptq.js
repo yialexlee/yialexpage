@@ -245,6 +245,14 @@ cover: 'img/youthdabro.jpg',
 mp3: '',
 ogg: 'mp3/youthdabro.ogg'
 },
+{
+title: 'I Love Mama Mantu Remix Jedag Jedug',
+artist: 'Bulan Sutena',
+album: '',
+cover: 'img/ilovemamamantubulansutena.jpg',
+mp3: '',
+ogg: 'mp3/ilovemamamantubulansutena.ogg'
+},
 ];
 
 	// Load playlist
