@@ -717,6 +717,14 @@ cover: 'img/destinykimfeel.jpg',
 mp3: '',
 ogg: 'mp3/destinykimfeel.ogg'
 },
+{
+title: 'Easy On Me',
+artist: 'Adele',
+album: '',
+cover: 'img/easyonmeadele.jpg',
+mp3: '',
+ogg: 'mp3/easyonmeadele.ogg'
+},
 ];
 
 	// Load playlist
