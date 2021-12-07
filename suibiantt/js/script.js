@@ -5750,6 +5750,118 @@ cover: 'img/jiedushixiariruqinjihua.jpg',
 mp3: '',
 ogg: 'mp3/jiedushixiariruqinjihua.ogg'
 },
+{
+title: 'Easy On Me',
+artist: 'Adele',
+album: '',
+cover: 'img/easyonmeadele.jpg',
+mp3: '',
+ogg: 'mp3/easyonmeadele.ogg'
+},
+{
+title: '가끔은 말야 (Sometimes)',
+artist: '하니(HANI)(EXID)',
+album: 'IDOL [아이돌 : The Coup] OST Part 3',
+cover: 'img/sometimeshani.jpg',
+mp3: '',
+ogg: 'mp3/sometimeshani.ogg'
+},
+{
+title: 'Christmas EveL',
+artist: 'Stray Kids',
+album: '',
+cover: 'img/christmasevelstraykids.jpg',
+mp3: '',
+ogg: 'mp3/christmasevelstraykids.ogg'
+},
+{
+title: 'なんでもないよ、',
+artist: 'マカロニえんぴつ',
+album: '',
+cover: 'img/nandemonaiyomakaronienpitsu.jpg',
+mp3: '',
+ogg: 'mp3/nandemonaiyomakaronienpitsu.ogg'
+},
+{
+title: 'なんでもないよ、Cover by こはならむ',
+artist: 'こはならむ',
+album: '',
+cover: 'img/nandemonaiyomakaronienpitsu.jpg',
+mp3: '',
+ogg: 'mp3/nandemonaiyokohannaramu.ogg'
+},
+{
+title: '宝石 feat. 幾田りら',
+artist: '伶',
+album: '',
+cover: 'img/housekirei.jpg',
+mp3: '',
+ogg: 'mp3/housekirei.ogg'
+},
+{
+title: 'Ahoy!! 我ら宝鐘海賊団',
+artist: '宝鐘マリン',
+album: '',
+cover: 'img/ahoywarerahoushokaizokudanhoushomarin.jpg',
+mp3: '',
+ogg: 'mp3/ahoywarerahoushokaizokudanhoushomarin.ogg'
+},
+{
+title: 'もしも命が描けたら',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/moshimoinochigakaketara.jpg',
+mp3: '',
+ogg: 'mp3/moshimoinochigakaketara.ogg'
+},
+{
+title: '神っぽいな Cover by ラプラス・ダークネス',
+artist: 'ラプラス・ダークネス',
+album: '',
+cover: 'img/kamipoinnarapurasudakunesu.jpg',
+mp3: '',
+ogg: 'mp3/kamipoinnarapurasudakunesu.ogg'
+},
+{
+title: 'LOCO -Japanese ver.-',
+artist: 'ITZY',
+album: '',
+cover: 'img/locojapanitzy.jpg',
+mp3: '',
+ogg: 'mp3/locojapanitzy.ogg'
+},
+{
+title: 'Chopstick',
+artist: 'NiziU',
+album: '1st Album『U』',
+cover: 'img/chopstickniziu.jpg',
+mp3: '',
+ogg: 'mp3/chopstickniziu.ogg'
+},
+{
+title: 'Pirate',
+artist: 'EVERGLOW',
+album: 'Return of The Girl',
+cover: 'img/pirateeverglow.jpg',
+mp3: '',
+ogg: 'mp3/pirateeverglow.ogg'
+},
+{
+title: 'ELEVEN',
+artist: 'IVE',
+album: '',
+cover: 'img/elevenive.jpg',
+mp3: '',
+ogg: 'mp3/elevenive.ogg'
+},
+{
+title: 'I Love Mama Mantu Remix Jedag Jedug',
+artist: 'Bulan Sutena',
+album: '',
+cover: 'img/ilovemamamantubulansutena.jpg',
+mp3: '',
+ogg: 'mp3/ilovemamamantubulansutena.ogg'
+},
 ];
 
 	// Load playlist
