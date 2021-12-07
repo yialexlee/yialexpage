@@ -1542,6 +1542,7 @@ cover: 'img/elevenive.jpg',
 mp3: '',
 ogg: 'mp3/elevenive.ogg'
 },
+
 ];
 
 	// Load playlist
