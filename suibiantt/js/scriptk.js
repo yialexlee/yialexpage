@@ -1510,6 +1510,22 @@ cover: 'img/paradisesoyou.jpg',
 mp3: '',
 ogg: 'mp3/homebigexyraiden.ogg'
 },
+{
+title: '가끔은 말야 (Sometimes)',
+artist: '하니(HANI)(EXID)',
+album: 'IDOL [아이돌 : The Coup] OST Part 3',
+cover: 'img/sometimeshani.jpg',
+mp3: '',
+ogg: 'mp3/sometimeshani.ogg'
+},
+{
+title: 'Christmas EveL',
+artist: 'Stray Kids',
+album: '',
+cover: 'img/christmasevelstraykids.jpg',
+mp3: '',
+ogg: 'mp3/christmasevelstraykids.ogg'
+},
 ];
 
 	// Load playlist
