@@ -1526,6 +1526,22 @@ cover: 'img/christmasevelstraykids.jpg',
 mp3: '',
 ogg: 'mp3/christmasevelstraykids.ogg'
 },
+{
+title: 'Pirate',
+artist: 'EVERGLOW',
+album: 'Return of The Girl',
+cover: 'img/pirateeverglow.jpg',
+mp3: '',
+ogg: 'mp3/pirateeverglow.ogg'
+},
+{
+title: 'ELEVEN',
+artist: 'IVE',
+album: '',
+cover: 'img/elevenive.jpg',
+mp3: '',
+ogg: 'mp3/elevenive.ogg'
+},
 ];
 
 	// Load playlist
