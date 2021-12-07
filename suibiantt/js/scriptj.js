@@ -2381,6 +2381,70 @@ cover: 'img/lastscenesugatamasaki.jpg',
 mp3: '',
 ogg: 'mp3/lastscenesugatamasaki.ogg'
 },
+{
+title: 'なんでもないよ、',
+artist: 'マカロニえんぴつ',
+album: '',
+cover: 'img/nandemonaiyomakaronienpitsu.jpg',
+mp3: '',
+ogg: 'mp3/nandemonaiyomakaronienpitsu.ogg'
+},
+{
+title: 'なんでもないよ、Cover by こはならむ',
+artist: 'こはならむ',
+album: '',
+cover: 'img/nandemonaiyomakaronienpitsu.jpg',
+mp3: '',
+ogg: 'mp3/nandemonaiyokohannaramu.ogg'
+},
+{
+title: '宝石 feat. 幾田りら',
+artist: '伶',
+album: '',
+cover: 'img/housekirei.jpg',
+mp3: '',
+ogg: 'mp3/housekirei.ogg'
+},
+{
+title: 'Ahoy!! 我ら宝鐘海賊団',
+artist: '宝鐘マリン',
+album: '',
+cover: 'img/ahoywarerahoushokaizokudanhoushomarin.jpg',
+mp3: '',
+ogg: 'mp3/ahoywarerahoushokaizokudanhoushomarin.ogg'
+},
+{
+title: 'もしも命が描けたら',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/moshimoinochigakaketara.jpg',
+mp3: '',
+ogg: 'mp3/moshimoinochigakaketara.ogg'
+},
+{
+title: '神っぽいな Cover by ラプラス・ダークネス',
+artist: 'ラプラス・ダークネス',
+album: '',
+cover: 'img/kamipoinnarapurasudakunesu.jpg',
+mp3: '',
+ogg: 'mp3/kamipoinnarapurasudakunesu.ogg'
+},
+{
+title: 'LOCO -Japanese ver.-',
+artist: 'ITZY',
+album: '',
+cover: 'img/locojapanitzy.jpg',
+mp3: '',
+ogg: 'mp3/locojapanitzy.ogg'
+},
+{
+title: 'Chopstick',
+artist: 'NiziU',
+album: '1st Album『U』',
+cover: 'img/chopstickniziu.jpg',
+mp3: '',
+ogg: 'mp3/chopstickniziu.ogg'
+},
 ];
 
 	// Load playlist
