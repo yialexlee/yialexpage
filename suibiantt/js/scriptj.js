@@ -2461,6 +2461,14 @@ cover: 'img/otonakanazakiiori.jpg',
 mp3: '',
 ogg: 'mp3/otonakanazakiiori.ogg'
 },
+{
+title: '残響散歌',
+artist: 'Aimer',
+album: '',
+cover: 'img/zankyousankaaimer.jpg',
+mp3: '',
+ogg: 'mp3/zankyousankaaimer.ogg'
+},
 ];
 
 	// Load playlist
