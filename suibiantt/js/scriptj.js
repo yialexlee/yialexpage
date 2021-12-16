@@ -2445,6 +2445,22 @@ cover: 'img/chopstickniziu.jpg',
 mp3: '',
 ogg: 'mp3/chopstickniziu.ogg'
 },
+{
+title: '不器用な男',
+artist: 'カンザキイオリ',
+album: '',
+cover: 'img/fukiyonaotokokanazakiiori.jpg',
+mp3: '',
+ogg: 'mp3/fukiyonaotokokanazakiiori.ogg'
+},
+{
+title: '大人',
+artist: 'カンザキイオリ',
+album: '',
+cover: 'img/otonakanazakiiori.jpg',
+mp3: '',
+ogg: 'mp3/otonakanazakiiori.ogg'
+},
 ];
 
 	// Load playlist
