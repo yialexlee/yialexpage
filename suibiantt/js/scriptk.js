@@ -1542,7 +1542,46 @@ cover: 'img/elevenive.jpg',
 mp3: '',
 ogg: 'mp3/elevenive.ogg'
 },
-
+{
+title: '빛으로 WE RISE',
+artist: 'Cotton Candy',
+album: 'IDOL [아이돌 : The Coup] OST Part 5',
+cover: 'img/werisecottoncandy.jpg',
+mp3: '',
+ogg: 'mp3/werisecottoncandy.ogg'
+},
+{
+title: 'Pray',
+artist: 'GA EUN (가은)',
+album: 'IDOL [아이돌 : The Coup] OST Part 4',
+cover: 'img/praygaeun.jpg',
+mp3: '',
+ogg: 'mp3/praygaeun.ogg'
+},
+{
+title: '울어도 좋아 (You Can Cry)',
+artist: 'E.Gen (이젠) Feat Cheon Ji Won (천지원)',
+album: 'IDOL [아이돌 : The Coup] OST Part 2',
+cover: 'img/ucancryegencheonjiwon.jpg',
+mp3: '',
+ogg: 'mp3/ucancryegencheonjiwon.ogg'
+},
+{
+title: '피날레 (Finale)',
+artist: 'Cotton Candy',
+album: 'IDOL [아이돌 : The Coup] OST Part 6',
+cover: 'img/finalecottoncandy.jpg',
+mp3: '',
+ogg: 'mp3/finalecottoncandy.ogg'
+},
+{
+title: '오늘 밤 (Tonight) (feat. 그린)',
+artist: '이은상, 김민규, 조준영, 홍은기 (HONG EUNKI)',
+album: 'IDOL [아이돌 : The Coup] OST Part 6',
+cover: 'img/finalecottoncandy.jpg',
+mp3: '',
+ogg: 'mp3/tonighthongeunki.ogg'
+},
 ];
 
 	// Load playlist
