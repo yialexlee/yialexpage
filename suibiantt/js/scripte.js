@@ -725,6 +725,14 @@ cover: 'img/easyonmeadele.jpg',
 mp3: '',
 ogg: 'mp3/easyonmeadele.ogg'
 },
+{
+title: 'Rise',
+artist: 'Calum Scott',
+album: '',
+cover: 'img/risecalumscott.jpg',
+mp3: '',
+ogg: 'mp3/risecalumscott.ogg'
+},
 ];
 
 	// Load playlist
