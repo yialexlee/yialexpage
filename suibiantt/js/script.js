@@ -5926,6 +5926,54 @@ cover: 'img/zankyousankaaimer.jpg',
 mp3: '',
 ogg: 'mp3/zankyousankaaimer.ogg'
 },
+{
+title: 'Rise',
+artist: 'Calum Scott',
+album: '',
+cover: 'img/risecalumscott.jpg',
+mp3: '',
+ogg: 'mp3/risecalumscott.ogg'
+},
+{
+title: 'Fly Up',
+artist: 'Queen WA$ABII',
+album: 'IDOL [아이돌 : The Coup] OST Part 3',
+cover: 'img/flyupqueenwasabii.jpg',
+mp3: '',
+ogg: 'mp3/flyupqueenwasabii.ogg'
+},
+{
+title: 'Queendom',
+artist: 'Red Velvet',
+album: '',
+cover: 'img/queendomredvelvet.jpg',
+mp3: '',
+ogg: 'mp3/queendomredvelvet.ogg'
+},
+{
+title: 'bugAboo',
+artist: 'bugAboo(버가부)',
+album: '',
+cover: 'img/bugboobugboo.jpg',
+mp3: '',
+ogg: 'mp3/bugboobugboo.ogg'
+},
+{
+title: 'Dreams Come True',
+artist: 'aespa',
+album: '',
+cover: 'img/dreamcometrueaespa.jpg',
+mp3: '',
+ogg: 'mp3/dreamcometrueaespa.ogg'
+},
+{
+title: '우리가 헤어져야 했던 이유',
+artist: '비비(BIBI)',
+album: '그 해 우리는 OST Part 2',
+cover: 'img/uligaheeojyeoyahaessdeonbibi.jpg',
+mp3: '',
+ogg: 'mp3/uligaheeojyeoyahaessdeonbibi.ogg'
+},
 ];
 
 	// Load playlist
