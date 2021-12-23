@@ -5974,6 +5974,46 @@ cover: 'img/uligaheeojyeoyahaessdeonbibi.jpg',
 mp3: '',
 ogg: 'mp3/uligaheeojyeoyahaessdeonbibi.ogg'
 },
+{
+title: '환청(Feat. 나쑈(NaShow))',
+artist: '장재인',
+album: 'MBC 드라마 킬미힐미 OST',
+cover: 'img/hwancheongjangjaein.jpg',
+mp3: '',
+ogg: 'mp3/hwancheongjangjaein.ogg'
+},
+{
+title: '시간을 거슬러',
+artist: 'LYn',
+album: 'MBC 드라마 해를 품은 달 OST Part 2',
+cover: 'img/siganeulgeoseulleolyn.jpg',
+mp3: '',
+ogg: 'mp3/siganeulgeoseulleolyn.ogg'
+},
+{
+title: 'Shanghai Romance',
+artist: 'Orange Carame',
+album: '',
+cover: 'img/shanghairomance.jpg',
+mp3: '',
+ogg: 'mp3/shanghairomance.ogg'
+},
+{
+title: 'Full Moon(보름달)',
+artist: 'Sunmi(선미) ',
+album: '',
+cover: 'img/fullmoonsunmi.jpg',
+mp3: '',
+ogg: 'mp3/fullmoonsunmi.ogg'
+},
+{
+title: 'Thank You (feat. Beenzino)',
+artist: 'D-UNIT',
+album: '',
+cover: 'img/tqdunit.jpg',
+mp3: '',
+ogg: 'mp3/tqdunit.ogg'
+},
 ];
 
 	// Load playlist
