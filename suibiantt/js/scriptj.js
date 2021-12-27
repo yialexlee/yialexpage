@@ -2469,6 +2469,22 @@ cover: 'img/zankyousankaaimer.jpg',
 mp3: '',
 ogg: 'mp3/zankyousankaaimer.ogg'
 },
+{
+title: '月夜ノコトリ',
+artist: '白鳥ことり',
+album: '',
+cover: 'img/tsukiyonokotorishiratorikotori.jpg',
+mp3: '',
+ogg: 'mp3/tsukiyonokotorishiratorikotori.ogg'
+},
+{
+title: '戀の歌',
+artist: '白鳥ことり',
+album: '',
+cover: 'img/rennoutashiratorikotori.jpg',
+mp3: '',
+ogg: 'mp3/rennoutashiratorikotori.ogg'
+},
 ];
 
 	// Load playlist
