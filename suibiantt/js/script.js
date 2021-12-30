@@ -6078,7 +6078,6 @@ cover: 'img/anymorejeonsomi.jpg',
 mp3: '',
 ogg: 'mp3/anymorejeonsomi.ogg'
 },
-
 ];
 
 	// Load playlist
