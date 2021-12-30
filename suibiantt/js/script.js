@@ -6030,6 +6030,54 @@ cover: 'img/rennoutashiratorikotori.jpg',
 mp3: '',
 ogg: 'mp3/rennoutashiratorikotori.ogg'
 },
+{
+title: '하루',
+artist: '포맨(4MEN)',
+album: '하루 :: 불가살(Bulgasal: Immortal Souls) OST Part.1',
+cover: 'img/halu4men.jpg',
+mp3: '',
+ogg: 'mp3/halu4men.ogg'
+},
+{
+title: 'ASAP',
+artist: 'STAYC(스테이씨)',
+album: 'STAYDOM',
+cover: 'img/asapstayc.jpg',
+mp3: '',
+ogg: 'mp3/asapstayc.ogg'
+},
+{
+title: 'Why',
+artist: 'Janet Suhh(자넷서)',
+album: '그 해 우리는(Our Beloved Summer) OST Part.6',
+cover: 'img/whyjanetsuhh.jpg',
+mp3: '',
+ogg: 'mp3/whyjanetsuhh.ogg'
+},
+{
+title: 'Christmas Tree',
+artist: 'V',
+album: '그 해 우리는(Our Beloved Summer) OST Part.5',
+cover: 'img/christmastreev.jpg',
+mp3: '',
+ogg: 'mp3/christmastreev.ogg'
+},
+{
+title: 'Heroes Tonight (feat. Johnning)',
+artist: 'Janji',
+album: '',
+cover: 'img/heroestonightjanji.jpg',
+mp3: '',
+ogg: 'mp3/heroestonightjanji.ogg'
+},
+{
+title: 'Anymore',
+artist: 'JEON SOMI (전소미)',
+album: 'XOXO',
+cover: 'img/anymorejeonsomi.jpg',
+mp3: '',
+ogg: 'mp3/anymorejeonsomi.ogg'
+},
 ];
 
 	// Load playlist
