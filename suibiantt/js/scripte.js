@@ -733,6 +733,22 @@ cover: 'img/risecalumscott.jpg',
 mp3: '',
 ogg: 'mp3/risecalumscott.ogg'
 },
+{
+title: 'Heroes Tonight (feat. Johnning)',
+artist: 'Janji',
+album: '',
+cover: 'img/heroestonightjanji.jpg',
+mp3: '',
+ogg: 'mp3/heroestonightjanji.ogg'
+},
+{
+title: 'Anymore',
+artist: 'JEON SOMI (전소미)',
+album: 'XOXO',
+cover: 'img/anymorejeonsomi.jpg',
+mp3: '',
+ogg: 'mp3/anymorejeonsomi.ogg'
+},
 ];
 
 	// Load playlist
