@@ -6078,6 +6078,22 @@ cover: 'img/anymorejeonsomi.jpg',
 mp3: '',
 ogg: 'mp3/anymorejeonsomi.ogg'
 },
+{
+title: 'WA DA DA',
+artist: 'Kep1er 케플러',
+album: 'FIRST IMPACT',
+cover: 'img/wadadakep1er.jpg',
+mp3: '',
+ogg: 'mp3/wadadakep1er.ogg'
+},
+{
+title: '忘れじの言の葉 Cover by ダズビー',
+artist: 'ダズビー',
+album: '',
+cover: 'img/wasurejinokotonohadazubi.jpg',
+mp3: '',
+ogg: 'mp3/wasurejinokotonohadazubi.ogg'
+},
 ];
 
 	// Load playlist
