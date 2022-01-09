@@ -1694,6 +1694,14 @@ cover: 'img/christmastreev.jpg',
 mp3: '',
 ogg: 'mp3/christmastreev.ogg'
 },
+{
+title: 'WA DA DA',
+artist: 'Kep1er 케플러',
+album: 'FIRST IMPACT',
+cover: 'img/wadadakep1er.jpg',
+mp3: '',
+ogg: 'mp3/wadadakep1er.ogg'
+},
 ];
 
 	// Load playlist
