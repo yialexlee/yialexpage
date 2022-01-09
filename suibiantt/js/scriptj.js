@@ -2485,6 +2485,14 @@ cover: 'img/rennoutashiratorikotori.jpg',
 mp3: '',
 ogg: 'mp3/rennoutashiratorikotori.ogg'
 },
+{
+title: '忘れじの言の葉 Cover by ダズビー',
+artist: 'ダズビー',
+album: '',
+cover: 'img/wasurejinokotonohadazubi.jpg',
+mp3: '',
+ogg: 'mp3/wasurejinokotonohadazubi.ogg'
+},
 ];
 
 	// Load playlist
