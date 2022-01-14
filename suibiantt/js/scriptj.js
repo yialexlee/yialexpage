@@ -2493,6 +2493,14 @@ cover: 'img/wasurejinokotonohadazubi.jpg',
 mp3: '',
 ogg: 'mp3/wasurejinokotonohadazubi.ogg'
 },
+{
+title: 'レオ',
+artist: '優里',
+album: '',
+cover: 'img/reoyuri.jpg',
+mp3: '',
+ogg: 'mp3/reoyuri.ogg'
+},
 ];
 
 	// Load playlist
