@@ -1702,6 +1702,30 @@ cover: 'img/wadadakep1er.jpg',
 mp3: '',
 ogg: 'mp3/wadadakep1er.ogg'
 },
+{
+title: '여름비',
+artist: '샘김 (Sam Kim)',
+album: '그 해 우리는(Our Beloved Summer) OST Part.8',
+cover: 'img/yeoleumbisamkim.jpg',
+mp3: '',
+ogg: 'mp3/yeoleumbisamkim.ogg'
+},
+{
+title: '터널',
+artist: '김예지(With KARDI)',
+album: '불가살(Bulgasal: Immortal Souls OST) OST Part.2',
+cover: 'img/teoneolgimyejikardi.jpg',
+mp3: '',
+ogg: 'mp3/teoneolgimyejikardi.ogg'
+},
+{
+title: 'Super Yuppers!(슈퍼 그럼요)',
+artist: 'WJSN Chocome(우주소녀 쪼꼬미)',
+album: '',
+cover: 'img/superyupperswjsnchocome.jpg',
+mp3: '',
+ogg: 'mp3/superyupperswjsnchocome.ogg'
+},
 ];
 
 	// Load playlist
