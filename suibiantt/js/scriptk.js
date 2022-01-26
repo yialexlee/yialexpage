@@ -1726,6 +1726,54 @@ cover: 'img/superyupperswjsnchocome.jpg',
 mp3: '',
 ogg: 'mp3/superyupperswjsnchocome.ogg'
 },
+{
+title: '언덕나무',
+artist: '이승윤',
+album: '그 해 우리는(Our Beloved Summer) OST Part.7',
+cover: 'img/eondeognamuiseungyun.jpg',
+mp3: '',
+ogg: 'mp3/eondeognamuiseungyun.ogg'
+},
+{
+title: 'Cant Control Myself',
+artist: 'TAEYEON 태연',
+album: '',
+cover: 'img/cantcontrolmyselftaeyeon.jpg',
+mp3: '',
+ogg: 'mp3/cantcontrolmyselftaeyeon.ogg'
+},
+{
+title: '잊을 수 없다면',
+artist: '민서',
+album: '',
+cover: 'img/ijeulsueobsdamyeonminseo.jpg',
+mp3: '',
+ogg: 'mp3/ijeulsueobsdamyeonminseo.ogg'
+},
+{
+title: '행복하게 해줄게',
+artist: '장범준',
+album: '',
+cover: 'img/haengboghagehaejulgejangbeomjun.jpg',
+mp3: '',
+ogg: 'mp3/haengboghagehaejulgejangbeomjun.ogg'
+},
+{
+title: '놀이',
+artist: '유주(YUJU)',
+album: '',
+cover: 'img/noliyuju.jpg',
+mp3: '',
+ogg: 'mp3/noliyuju.ogg'
+},
+{
+title: 'SMILEY(Feat. BIBI)',
+artist: 'YENA (최예나)',
+album: '',
+cover: 'img/smileyyena.jpg',
+mp3: '',
+ogg: 'mp3/smileyyena.ogg'
+},
 ];
 
 	// Load playlist
