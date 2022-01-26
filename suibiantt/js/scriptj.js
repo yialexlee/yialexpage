@@ -2501,6 +2501,46 @@ cover: 'img/reoyuri.jpg',
 mp3: '',
 ogg: 'mp3/reoyuri.ogg'
 },
+{
+title: 'Wonderland',
+artist: 'iri',
+album: '',
+cover: 'img/wonderlandiri.jpg',
+mp3: '',
+ogg: 'mp3/wonderlandiri.ogg'
+},
+{
+title: '踊り子 cover by ぷらそにか',
+artist: 'ぷらそにか',
+album: '',
+cover: 'img/odorikopurasonika.jpg',
+mp3: '',
+ogg: 'mp3/odorikopurasonika.ogg'
+},
+{
+title: '悪魔の子',
+artist: 'ヒグチアイ',
+album: '',
+cover: 'img/akumanokohiguchiai.jpg',
+mp3: '',
+ogg: 'mp3/akumanokohiguchiai.ogg'
+},
+{
+title: '心という名の不可解',
+artist: 'Ado',
+album: '',
+cover: 'img/kokorotoiunanofukakaiado.jpg',
+mp3: '',
+ogg: 'mp3/kokorotoiunanofukakaiado.ogg'
+},
+{
+title: 'スパークル',
+artist: '幾田りら',
+album: '',
+cover: 'img/supakuruikutarira.jpg',
+mp3: '',
+ogg: 'mp3/supakuruikutarira.ogg'
+},
 ];
 
 	// Load playlist
