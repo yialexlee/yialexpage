@@ -6302,6 +6302,46 @@ cover: 'img/beyondthetime.jpg',
 mp3: '',
 ogg: 'mp3/beyondthetime.ogg'
 },
+{
+title: 'When Im Gone',
+artist: 'Alesso & Katy Perry',
+album: '',
+cover: 'img/whenimgonealessonkatyperry.jpg',
+mp3: '',
+ogg: 'mp3/whenimgonealessonkatyperry.ogg'
+},
+{
+title: 'She is all i wanna be',
+artist: 'Tate McRae',
+album: '',
+cover: 'img/sheisalliwannabetatemcrae.jpg',
+mp3: '',
+ogg: 'mp3/sheisalliwannabetatemcrae.ogg'
+},
+{
+title: 'Brace Up',
+artist: '163 braces',
+album: '',
+cover: 'img/braceup163braces.jpg',
+mp3: '',
+ogg: 'mp3/braceup163braces.ogg'
+},
+{
+title: '暗哑',
+artist: '夏婉安',
+album: '',
+cover: 'img/anyaxiawanan.jpg',
+mp3: '',
+ogg: 'mp3/anyaxiawanan.ogg'
+},
+{
+title: 'BAD',
+artist: 'DOLLA',
+album: '',
+cover: 'img/baddolla.jpg',
+mp3: '',
+ogg: 'mp3/baddolla.ogg'
+},
 ];
 
 	// Load playlist
