@@ -2541,6 +2541,38 @@ cover: 'img/supakuruikutarira.jpg',
 mp3: '',
 ogg: 'mp3/supakuruikutarira.ogg'
 },
+{
+title: '裸の勇者',
+artist: 'Vaundy',
+album: '',
+cover: 'img/hadakanoyushavaundy.jpg',
+mp3: '',
+ogg: 'mp3/hadakanoyushavaundy.ogg'
+},
+{
+title: 'あいつの犬',
+artist: '松本千夏',
+album: '',
+cover: 'img/aitsunoinuchinatsumatsumoto.jpg',
+mp3: '',
+ogg: 'mp3/aitsunoinuchinatsumatsumoto.ogg'
+},
+{
+title: 'ミスター',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/misutayoasobi.jpg',
+mp3: '',
+ogg: 'mp3/misutayoasobi.ogg'
+},
+{
+title: 'Misery',
+artist: '優里',
+album: '',
+cover: 'img/miseryyuri.jpg',
+mp3: '',
+ogg: 'mp3/miseryyuri.ogg'
+},
 ];
 
 	// Load playlist
