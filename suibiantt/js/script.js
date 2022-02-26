@@ -6137,7 +6137,7 @@ ogg: 'mp3/eondeognamuiseungyun.ogg'
 {
 title: 'Cant Control Myself',
 artist: 'TAEYEON 태연',
-album: '',
+album: 'INVU - The 3rd Album',
 cover: 'img/cantcontrolmyselftaeyeon.jpg',
 mp3: '',
 ogg: 'mp3/cantcontrolmyselftaeyeon.ogg'
@@ -6213,6 +6213,94 @@ album: '',
 cover: 'img/supakuruikutarira.jpg',
 mp3: '',
 ogg: 'mp3/supakuruikutarira.ogg'
+},
+{
+title: '언제나 사랑해',
+artist: '케이시 Kassy',
+album: '',
+cover: 'img/eonjenasalanghaekassy.jpg',
+mp3: '',
+ogg: 'mp3/eonjenasalanghaekassy.ogg'
+},
+{
+title: 'INVU',
+artist: '태연 TAEYEON',
+album: 'INVU - The 3rd Album',
+cover: 'img/taeyeoninvu.jpg',
+mp3: '',
+ogg: 'mp3/taeyeoninvu.ogg'
+},
+{
+title: '그런 밤 Some Nights',
+artist: '태연 TAEYEON',
+album: 'INVU - The 3rd Album',
+cover: 'img/taeyeoninvu.jpg',
+mp3: '',
+ogg: 'mp3/somenightinvu.ogg'
+},
+{
+title: '아주, 천천히',
+artist: '비비(BIBI)',
+album: '스물다섯 스물하나 OST Part 3',
+cover: 'img/ajucheoncheonhibibi.jpg',
+mp3: '',
+ogg: 'mp3/ajucheoncheonhibibi.ogg'
+},
+{
+title: 'Dilemma',
+artist: 'Apink 에이핑크',
+album: 'Apink Special Album [HORN]',
+cover: 'img/dilemmaapink.jpg',
+mp3: '',
+ogg: 'mp3/dilemmaapink.ogg'
+},
+{
+title: '裸の勇者',
+artist: 'Vaundy',
+album: '',
+cover: 'img/hadakanoyushavaundy.jpg',
+mp3: '',
+ogg: 'mp3/hadakanoyushavaundy.ogg'
+},
+{
+title: 'あいつの犬',
+artist: '松本千夏',
+album: '',
+cover: 'img/aitsunoinuchinatsumatsumoto.jpg',
+mp3: '',
+ogg: 'mp3/aitsunoinuchinatsumatsumoto.ogg'
+},
+{
+title: 'ミスター',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/misutayoasobi.jpg',
+mp3: '',
+ogg: 'mp3/misutayoasobi.ogg'
+},
+{
+title: 'Misery',
+artist: '優里',
+album: '',
+cover: 'img/miseryyuri.jpg',
+mp3: '',
+ogg: 'mp3/miseryyuri.ogg'
+},
+{
+title: 'Play',
+artist: 'Alan Walker',
+album: '',
+cover: 'img/playalanwalker.jpg',
+mp3: '',
+ogg: 'mp3/playalanwalker.ogg'
+},
+{
+title: 'Beyond The Time',
+artist: 'Janet Suhh(자넷서)',
+album: '불가살 OST Part.4',
+cover: 'img/beyondthetime.jpg',
+mp3: '',
+ogg: 'mp3/beyondthetime.ogg'
 },
 ];
 
