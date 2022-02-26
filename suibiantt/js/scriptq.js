@@ -261,6 +261,7 @@ cover: 'img/baddolla.jpg',
 mp3: '',
 ogg: 'mp3/baddolla.ogg'
 },
+
 ];
 
 	// Load playlist
