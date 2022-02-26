@@ -1737,7 +1737,7 @@ ogg: 'mp3/eondeognamuiseungyun.ogg'
 {
 title: 'Cant Control Myself',
 artist: 'TAEYEON 태연',
-album: '',
+album: 'INVU - The 3rd Album',
 cover: 'img/cantcontrolmyselftaeyeon.jpg',
 mp3: '',
 ogg: 'mp3/cantcontrolmyselftaeyeon.ogg'
@@ -1773,6 +1773,46 @@ album: '',
 cover: 'img/smileyyena.jpg',
 mp3: '',
 ogg: 'mp3/smileyyena.ogg'
+},
+{
+title: '언제나 사랑해',
+artist: '케이시 Kassy',
+album: '',
+cover: 'img/eonjenasalanghaekassy.jpg',
+mp3: '',
+ogg: 'mp3/eonjenasalanghaekassy.ogg'
+},
+{
+title: 'INVU',
+artist: '태연 TAEYEON',
+album: 'INVU - The 3rd Album',
+cover: 'img/taeyeoninvu.jpg',
+mp3: '',
+ogg: 'mp3/taeyeoninvu.ogg'
+},
+{
+title: '그런 밤 Some Nights',
+artist: '태연 TAEYEON',
+album: 'INVU - The 3rd Album',
+cover: 'img/taeyeoninvu.jpg',
+mp3: '',
+ogg: 'mp3/somenightinvu.ogg'
+},
+{
+title: '아주, 천천히',
+artist: '비비(BIBI)',
+album: '스물다섯 스물하나 OST Part 3',
+cover: 'img/ajucheoncheonhibibi.jpg',
+mp3: '',
+ogg: 'mp3/ajucheoncheonhibibi.ogg'
+},
+{
+title: 'Dilemma',
+artist: 'Apink 에이핑크',
+album: 'Apink Special Album [HORN]',
+cover: 'img/dilemmaapink.jpg',
+mp3: '',
+ogg: 'mp3/dilemmaapink.ogg'
 },
 ];
 
