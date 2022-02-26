@@ -749,6 +749,22 @@ cover: 'img/anymorejeonsomi.jpg',
 mp3: '',
 ogg: 'mp3/anymorejeonsomi.ogg'
 },
+{
+title: 'Play',
+artist: 'Alan Walker',
+album: '',
+cover: 'img/playalanwalker.jpg',
+mp3: '',
+ogg: 'mp3/playalanwalker.ogg'
+},
+{
+title: 'Beyond The Time',
+artist: 'Janet Suhh(자넷서)',
+album: '불가살 OST Part.4',
+cover: 'img/beyondthetime.jpg',
+mp3: '',
+ogg: 'mp3/beyondthetime.ogg'
+},
 ];
 
 	// Load playlist
