@@ -765,6 +765,22 @@ cover: 'img/beyondthetime.jpg',
 mp3: '',
 ogg: 'mp3/beyondthetime.ogg'
 },
+{
+title: 'When Im Gone',
+artist: 'Alesso & Katy Perry',
+album: '',
+cover: 'img/whenimgonealessonkatyperry.jpg',
+mp3: '',
+ogg: 'mp3/whenimgonealessonkatyperry.ogg'
+},
+{
+title: 'She is all i wanna be',
+artist: 'Tate McRae',
+album: '',
+cover: 'img/sheisalliwannabetatemcrae.jpg',
+mp3: '',
+ogg: 'mp3/sheisalliwannabetatemcrae.ogg'
+},
 ];
 
 	// Load playlist
