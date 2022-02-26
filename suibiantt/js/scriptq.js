@@ -253,6 +253,14 @@ cover: 'img/ilovemamamantubulansutena.jpg',
 mp3: '',
 ogg: 'mp3/ilovemamamantubulansutena.ogg'
 },
+{
+title: 'BAD',
+artist: 'DOLLA',
+album: '',
+cover: 'img/baddolla.jpg',
+mp3: '',
+ogg: 'mp3/baddolla.ogg'
+},
 ];
 
 	// Load playlist
