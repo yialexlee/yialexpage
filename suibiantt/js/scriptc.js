@@ -902,6 +902,22 @@ cover: 'img/jiedushixiariruqinjihua.jpg',
 mp3: '',
 ogg: 'mp3/jiedushixiariruqinjihua.ogg'
 },
+{
+title: 'Brace Up',
+artist: '163 braces',
+album: '',
+cover: 'img/braceup163braces.jpg',
+mp3: '',
+ogg: 'mp3/braceup163braces.ogg'
+},
+{
+title: '暗哑',
+artist: '夏婉安',
+album: '',
+cover: 'img/anyaxiawanan.jpg',
+mp3: '',
+ogg: 'mp3/anyaxiawanan.ogg'
+},
 ];
 
 	// Load playlist
