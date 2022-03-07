@@ -261,7 +261,30 @@ cover: 'img/baddolla.jpg',
 mp3: '',
 ogg: 'mp3/baddolla.ogg'
 },
-
+{
+title: 'แปะหัวใจ',
+artist: 'JAONAAY ft. Juné',
+album: '',
+cover: 'img/pewozaijaonaayjune.jpg',
+mp3: '',
+ogg: 'mp3/pewozaijaonaayjune.ogg'
+},
+{
+title: 'ดึกแล้วอย่าเพิ่งกลับ',
+artist: 'JAONAAY',
+album: '',
+cover: 'img/nenglaoyakpengkaojanoaay.jpg',
+mp3: '',
+ogg: 'mp3/nenglaoyakpengkaojanoaay.ogg'
+},
+{
+title: 'Материк',
+artist: 'Артем Качер & Ани Лорак',
+album: '',
+cover: 'img/materikartemkacheranilorak.jpg',
+mp3: '',
+ogg: 'mp3/materikartemkacheranilorak.ogg'
+},
 ];
 
 	// Load playlist
