@@ -6342,6 +6342,78 @@ cover: 'img/baddolla.jpg',
 mp3: '',
 ogg: 'mp3/baddolla.ogg'
 },
+{
+title: 'แปะหัวใจ',
+artist: 'JAONAAY ft. Juné',
+album: '',
+cover: 'img/pewozaijaonaayjune.jpg',
+mp3: '',
+ogg: 'mp3/pewozaijaonaayjune.ogg'
+},
+{
+title: 'ดึกแล้วอย่าเพิ่งกลับ',
+artist: 'JAONAAY',
+album: '',
+cover: 'img/nenglaoyakpengkaojanoaay.jpg',
+mp3: '',
+ogg: 'mp3/nenglaoyakpengkaojanoaay.ogg'
+},
+{
+title: 'Материк',
+artist: 'Артем Качер & Ани Лорак',
+album: '',
+cover: 'img/materikartemkacheranilorak.jpg',
+mp3: '',
+ogg: 'mp3/materikartemkacheranilorak.ogg'
+},
+{
+title: '巴比诺 Bambino feat. Bunga',
+artist: 'Layla Sania 蕾拉',
+album: '',
+cover: 'img/bambinolaylasania.jpg',
+mp3: '',
+ogg: 'mp3/bambinolaylasania.ogg'
+},
+{
+title: '踏雪',
+artist: '等什麼君/FOX胡天渝',
+album: '',
+cover: 'img/taxuedengshenmejunfox.jpg',
+mp3: '',
+ogg: 'mp3/taxuedengshenmejunfox.ogg'
+},
+{
+title: '月老牵红线',
+artist: '毛省曈',
+album: '',
+cover: 'img/yuelaoqianhongxianmaoshentong.jpg',
+mp3: '',
+ogg: 'mp3/yuelaoqianhongxianmaoshentong.ogg'
+},
+{
+title: '好想抱住你',
+artist: '程jiajia',
+album: '',
+cover: 'img/haoxiangbaozhunichenjiajia.jpg',
+mp3: '',
+ogg: 'mp3/haoxiangbaozhunichenjiajia.ogg'
+},
+{
+title: 'O.O',
+artist: 'NMIXX',
+album: '',
+cover: 'img/oonmixx.jpg',
+mp3: '',
+ogg: 'mp3/oonmixx.ogg'
+},
+{
+title: 'Believe',
+artist: 'Rothy(로시)',
+album: '',
+cover: 'img/believerothy.jpg',
+mp3: '',
+ogg: 'mp3/believerothy.ogg'
+},
 ];
 
 	// Load playlist
