@@ -918,6 +918,38 @@ cover: 'img/anyaxiawanan.jpg',
 mp3: '',
 ogg: 'mp3/anyaxiawanan.ogg'
 },
+{
+title: '巴比诺 Bambino feat. Bunga',
+artist: 'Layla Sania 蕾拉',
+album: '',
+cover: 'img/bambinolaylasania.jpg',
+mp3: '',
+ogg: 'mp3/bambinolaylasania.ogg'
+},
+{
+title: '踏雪',
+artist: '等什麼君/FOX胡天渝',
+album: '',
+cover: 'img/taxuedengshenmejunfox.jpg',
+mp3: '',
+ogg: 'mp3/taxuedengshenmejunfox.ogg'
+},
+{
+title: '月老牵红线',
+artist: '毛省曈',
+album: '',
+cover: 'img/yuelaoqianhongxianmaoshentong.jpg',
+mp3: '',
+ogg: 'mp3/yuelaoqianhongxianmaoshentong.ogg'
+},
+{
+title: '好想抱住你',
+artist: '程jiajia',
+album: '',
+cover: 'img/haoxiangbaozhunichenjiajia.jpg',
+mp3: '',
+ogg: 'mp3/haoxiangbaozhunichenjiajia.ogg'
+},
 ];
 
 	// Load playlist
