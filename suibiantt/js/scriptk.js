@@ -1814,6 +1814,22 @@ cover: 'img/dilemmaapink.jpg',
 mp3: '',
 ogg: 'mp3/dilemmaapink.ogg'
 },
+{
+title: 'O.O',
+artist: 'NMIXX',
+album: '',
+cover: 'img/oonmixx.jpg',
+mp3: '',
+ogg: 'mp3/oonmixx.ogg'
+},
+{
+title: 'Believe',
+artist: 'Rothy(로시)',
+album: '',
+cover: 'img/believerothy.jpg',
+mp3: '',
+ogg: 'mp3/believerothy.ogg'
+},
 ];
 
 	// Load playlist
