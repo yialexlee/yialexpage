@@ -1830,6 +1830,14 @@ cover: 'img/believerothy.jpg',
 mp3: '',
 ogg: 'mp3/believerothy.ogg'
 },
+{
+title: 'TOMBOY',
+artist: '(G)I-DLE',
+album: 'I NEVER DIE',
+cover: 'img/tomboygidle.jpg',
+mp3: '',
+ogg: 'mp3/tomboygidle.ogg'
+},
 ];
 
 	// Load playlist
