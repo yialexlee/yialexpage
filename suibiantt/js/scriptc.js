@@ -950,6 +950,54 @@ cover: 'img/haoxiangbaozhunichenjiajia.jpg',
 mp3: '',
 ogg: 'mp3/haoxiangbaozhunichenjiajia.ogg'
 },
+{
+title: '星光派对',
+artist: '赵希予',
+album: '',
+cover: 'img/xingguangpaiduizhaoxiyu.jpg',
+mp3: '',
+ogg: 'mp3/xingguangpaiduizhaoxiyu.ogg'
+},
+{
+title: '海市蜃楼',
+artist: '三叔',
+album: '',
+cover: 'img/haishishanlousanshu.jpg',
+mp3: '',
+ogg: 'mp3/haishishanlousanshu.ogg'
+},
+{
+title: '辞九门回忆',
+artist: '等什么君',
+album: '',
+cover: 'img/cijiumenhuiyidengshenmejun.jpg',
+mp3: '',
+ogg: 'mp3/cijiumenhuiyidengshenmejun.ogg'
+},
+{
+title: '你是恩赐也是劫',
+artist: '含大仙儿',
+album: '',
+cover: 'img/nishienciyeshijiehandaxianer.jpg',
+mp3: '',
+ogg: 'mp3/nishienciyeshijiehandaxianer.ogg'
+},
+{
+title: '春涧',
+artist: '浅影阿',
+album: '',
+cover: 'img/chunjianqianyinga.jpg',
+mp3: '',
+ogg: 'mp3/chunjianqianyinga.ogg'
+},
+{
+title: '檸檬氣泡水',
+artist: '抓貓的魚/汐音社',
+album: '',
+cover: 'img/ningmengqipaoshuizhuamaodeyu.jpg',
+mp3: '',
+ogg: 'mp3/ningmengqipaoshuizhuamaodeyu.ogg'
+},
 ];
 
 	// Load playlist
