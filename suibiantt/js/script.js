@@ -6414,6 +6414,110 @@ cover: 'img/believerothy.jpg',
 mp3: '',
 ogg: 'mp3/believerothy.ogg'
 },
+{
+title: '星光派对',
+artist: '赵希予',
+album: '',
+cover: 'img/xingguangpaiduizhaoxiyu.jpg',
+mp3: '',
+ogg: 'mp3/xingguangpaiduizhaoxiyu.ogg'
+},
+{
+title: '海市蜃楼',
+artist: '三叔',
+album: '',
+cover: 'img/haishishanlousanshu.jpg',
+mp3: '',
+ogg: 'mp3/haishishanlousanshu.ogg'
+},
+{
+title: '辞九门回忆',
+artist: '等什么君',
+album: '',
+cover: 'img/cijiumenhuiyidengshenmejun.jpg',
+mp3: '',
+ogg: 'mp3/cijiumenhuiyidengshenmejun.ogg'
+},
+{
+title: '你是恩赐也是劫',
+artist: '含大仙儿',
+album: '',
+cover: 'img/nishienciyeshijiehandaxianer.jpg',
+mp3: '',
+ogg: 'mp3/nishienciyeshijiehandaxianer.ogg'
+},
+{
+title: '春涧',
+artist: '浅影阿',
+album: '',
+cover: 'img/chunjianqianyinga.jpg',
+mp3: '',
+ogg: 'mp3/chunjianqianyinga.ogg'
+},
+{
+title: '檸檬氣泡水',
+artist: '抓貓的魚/汐音社',
+album: '',
+cover: 'img/ningmengqipaoshuizhuamaodeyu.jpg',
+mp3: '',
+ogg: 'mp3/ningmengqipaoshuizhuamaodeyu.ogg'
+},
+{
+title: 'TOMBOY',
+artist: '(G)I-DLE',
+album: 'I NEVER DIE',
+cover: 'img/tomboygidle.jpg',
+mp3: '',
+ogg: 'mp3/tomboygidle.ogg'
+},
+{
+title: '招き猫',
+artist: '水曜日のカンパネラ',
+album: '',
+cover: 'img/manekinekosuiyoubinokanpanera.jpg',
+mp3: '',
+ogg: 'mp3/manekinekosuiyoubinokanpanera.ogg'
+},
+{
+title: '3月9日',
+artist: 'Little Glee Monster',
+album: '',
+cover: 'img/sangatsukokonokalittlegleemonster.jpg',
+mp3: '',
+ogg: 'mp3/sangatsukokonokalittlegleemonster.ogg'
+},
+{
+title: 'スロウリー',
+artist: '明透',
+album: '',
+cover: 'img/surourimeitou.jpg',
+mp3: '',
+ogg: 'mp3/surourimeitou.ogg'
+},
+{
+title: 'ソラゴト',
+artist: '明透',
+album: '',
+cover: 'img/soragotomeitou.jpg',
+mp3: '',
+ogg: 'mp3/soragotomeitou.ogg'
+},
+{
+title: 'the last bullet',
+artist: '幸祜 -KOKO- ',
+album: '',
+cover: 'img/thelastbulletkoko.jpg',
+mp3: '',
+ogg: 'mp3/thelastbulletkoko.ogg'
+},
+{
+title: '永遠のあくる日',
+artist: 'Ado',
+album: '',
+cover: 'img/enennoakuruhiado.jpg',
+mp3: '',
+ogg: 'mp3/enennoakuruhiado.ogg'
+},
 ];
 
 	// Load playlist
