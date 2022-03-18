@@ -2573,6 +2573,54 @@ cover: 'img/miseryyuri.jpg',
 mp3: '',
 ogg: 'mp3/miseryyuri.ogg'
 },
+{
+title: '招き猫',
+artist: '水曜日のカンパネラ',
+album: '',
+cover: 'img/manekinekosuiyoubinokanpanera.jpg',
+mp3: '',
+ogg: 'mp3/manekinekosuiyoubinokanpanera.ogg'
+},
+{
+title: '3月9日',
+artist: 'Little Glee Monster',
+album: '',
+cover: 'img/sangatsukokonokalittlegleemonster.jpg',
+mp3: '',
+ogg: 'mp3/sangatsukokonokalittlegleemonster.ogg'
+},
+{
+title: 'スロウリー',
+artist: '明透',
+album: '',
+cover: 'img/surourimeitou.jpg',
+mp3: '',
+ogg: 'mp3/surourimeitou.ogg'
+},
+{
+title: 'ソラゴト',
+artist: '明透',
+album: '',
+cover: 'img/soragotomeitou.jpg',
+mp3: '',
+ogg: 'mp3/soragotomeitou.ogg'
+},
+{
+title: 'the last bullet',
+artist: '幸祜 -KOKO- ',
+album: '',
+cover: 'img/thelastbulletkoko.jpg',
+mp3: '',
+ogg: 'mp3/thelastbulletkoko.ogg'
+},
+{
+title: '永遠のあくる日',
+artist: 'Ado',
+album: '',
+cover: 'img/enennoakuruhiado.jpg',
+mp3: '',
+ogg: 'mp3/enennoakuruhiado.ogg'
+},
 ];
 
 	// Load playlist
