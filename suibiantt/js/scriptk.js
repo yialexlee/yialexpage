@@ -1854,6 +1854,14 @@ cover: 'img/feelmyrhythmredvelvet.jpg',
 mp3: '',
 ogg: 'mp3/feelmyrhythmredvelvet.ogg'
 },
+{
+title: 'Thank You',
+artist: 'Brave Girls',
+album: '',
+cover: 'img/thankyoubravegirls.jpg',
+mp3: '',
+ogg: 'mp3/thankyoubravegirls.ogg'
+},
 ];
 
 	// Load playlist
