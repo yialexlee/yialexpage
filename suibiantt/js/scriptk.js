@@ -1838,6 +1838,22 @@ cover: 'img/tomboygidle.jpg',
 mp3: '',
 ogg: 'mp3/tomboygidle.ogg'
 },
+{
+title: 'MANIAC',
+artist: 'Stray Kids',
+album: '',
+cover: 'img/maniacstraykids.jpg',
+mp3: '',
+ogg: 'mp3/maniacstraykids.ogg'
+},
+{
+title: 'Feel My Rhythm',
+artist: 'Red Velvet',
+album: '',
+cover: 'img/feelmyrhythmredvelvet.jpg',
+mp3: '',
+ogg: 'mp3/feelmyrhythmredvelvet.ogg'
+},
 ];
 
 	// Load playlist
