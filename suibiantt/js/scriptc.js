@@ -998,6 +998,38 @@ cover: 'img/ningmengqipaoshuizhuamaodeyu.jpg',
 mp3: '',
 ogg: 'mp3/ningmengqipaoshuizhuamaodeyu.ogg'
 },
+{
+title: '剑魂',
+artist: '李煒',
+album: '',
+cover: 'img/jianhunliwei.jpg',
+mp3: '',
+ogg: 'mp3/jianhunliwei.ogg'
+},
+{
+title: '作酒',
+artist: '豆包',
+album: '',
+cover: 'img/zuojiudoubao.jpg',
+mp3: '',
+ogg: 'mp3/zuojiudoubao.ogg'
+},
+{
+title: '千秋迭梦',
+artist: '阿YueYue/镜予歌',
+album: '',
+cover: 'img/qianqiudiemengjingyuge.jpg',
+mp3: '',
+ogg: 'mp3/qianqiudiemengjingyuge.ogg'
+},
+{
+title: '孤勇者',
+artist: '陳奕迅',
+album: '',
+cover: 'img/guyongzhechengyixun.jpg',
+mp3: '',
+ogg: 'mp3/guyongzhechengyixun.ogg'
+},
 ];
 
 	// Load playlist
