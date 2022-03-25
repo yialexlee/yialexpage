@@ -2621,6 +2621,30 @@ cover: 'img/enennoakuruhiado.jpg',
 mp3: '',
 ogg: 'mp3/enennoakuruhiado.ogg'
 },
+{
+title: 'ただ声一つ',
+artist: 'ロクデナシ',
+album: '',
+cover: 'img/tadakoehitotsurokudenashi.jpg',
+mp3: '',
+ogg: 'mp3/tadakoehitotsurokudenashi.ogg'
+},
+{
+title: 'カメレオン',
+artist: 'King Gnu',
+album: '',
+cover: 'img/kamereonkinggnu.jpg',
+mp3: '',
+ogg: 'mp3/kamereonkinggnu.ogg'
+},
+{
+title: 'まつり',
+artist: '藤井 風',
+album: '',
+cover: 'img/matsurifujikaze.jpg',
+mp3: '',
+ogg: 'mp3/matsurifujikaze.ogg'
+},
 ];
 
 	// Load playlist
