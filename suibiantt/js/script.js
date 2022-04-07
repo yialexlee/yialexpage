@@ -6662,6 +6662,78 @@ cover: 'img/mailangyihuik.jpg',
 mp3: '',
 ogg: 'mp3/mailangyihuik.ogg'
 },
+{
+title: 'Daylight',
+artist: 'MindaRyn',
+album: '',
+cover: 'img/daylightmindaryn.jpg',
+mp3: '',
+ogg: 'mp3/daylightmindaryn.ogg'
+},
+{
+title: '双葉',
+artist: 'あいみょん',
+album: '',
+cover: 'img/futabaaimiyon.jpg',
+mp3: '',
+ogg: 'mp3/futabaaimiyon.ogg'
+},
+{
+title: 'ドメスティックでバイオレンス',
+artist: 'Ado',
+album: '狂言',
+cover: 'img/domesutikudebaioresu.jpg',
+mp3: '',
+ogg: 'mp3/domesutikudebaioresu.ogg'
+},
+{
+title: 'MoonWalker',
+artist: 'yama',
+album: '',
+cover: 'img/moonwalkeryama.jpg',
+mp3: '',
+ogg: 'mp3/moonwalkeryama.ogg'
+},
+{
+title: 'We Are',
+artist: 'INI',
+album: '',
+cover: 'img/weareini.jpg',
+mp3: '',
+ogg: 'mp3/weareini.ogg'
+},
+{
+title: '恋泥棒',
+artist: 'ユイカ',
+album: '',
+cover: 'img/koidoroboyuika.jpg',
+mp3: '',
+ogg: 'mp3/koidoroboyuika.ogg'
+},
+{
+title: 'キョリ感',
+artist: 'ハコニワリリィ',
+album: '',
+cover: 'img/kyorikanhakoniwaririi.jpg',
+mp3: '',
+ogg: 'mp3/kyorikanhakoniwaririi.ogg'
+},
+{
+title: '僕なんか',
+artist: '日向坂46',
+album: '',
+cover: 'img/bokunankahinazaka46.jpg',
+mp3: '',
+ogg: 'mp3/bokunankahinazaka46.ogg'
+},
+{
+title: 'Voltage',
+artist: 'ITZY',
+album: '',
+cover: 'img/voltageitzy.jpg',
+mp3: '',
+ogg: 'mp3/voltageitzy.ogg'
+},
 ];
 
 	// Load playlist
