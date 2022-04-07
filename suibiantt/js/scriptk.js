@@ -1862,6 +1862,22 @@ cover: 'img/thankyoubravegirls.jpg',
 mp3: '',
 ogg: 'mp3/thankyoubravegirls.ogg'
 },
+{
+title: 'LOVE DIVE',
+artist: 'IVE',
+album: '',
+cover: 'img/lovediveive.jpg',
+mp3: '',
+ogg: 'mp3/lovediveive.ogg'
+},
+{
+title: 'Love, Maybe(사랑인가 봐)',
+artist: 'MeloMance',
+album: '사내맞선 OST (A Business Proposal OST)',
+cover: 'img/lovemaybemelomance.jpg',
+mp3: '',
+ogg: 'mp3/lovemaybemelomance.ogg'
+},
 ];
 
 	// Load playlist
