@@ -1030,6 +1030,38 @@ cover: 'img/guyongzhechengyixun.jpg',
 mp3: '',
 ogg: 'mp3/guyongzhechengyixun.ogg'
 },
+{
+title: '弱',
+artist: 'joysaaaa',
+album: '',
+cover: 'img/ruojoysaaaa.jpg',
+mp3: '',
+ogg: 'mp3/ruojoysaaaa.ogg'
+},
+{
+title: '一念难渡我 (抖音DJ版)',
+artist: '高枫、壹起酒肆',
+album: '',
+cover: 'img/yiniannanduwogaofeng.jpg',
+mp3: '',
+ogg: 'mp3/yiniannanduwogaofeng.ogg'
+},
+{
+title: '月老掉线（DJ阿卓版）',
+artist: '王不醒',
+album: '',
+cover: 'img/yuelaodiaoxianwangbuxing.jpg',
+mp3: '',
+ogg: 'mp3/yuelaodiaoxianwangbuxing.ogg'
+},
+{
+title: '麦浪',
+artist: 'yihuik苡慧',
+album: '',
+cover: 'img/mailangyihuik.jpg',
+mp3: '',
+ogg: 'mp3/mailangyihuik.ogg'
+},
 ];
 
 	// Load playlist
