@@ -781,6 +781,22 @@ cover: 'img/sheisalliwannabetatemcrae.jpg',
 mp3: '',
 ogg: 'mp3/sheisalliwannabetatemcrae.ogg'
 },
+{
+title: 'Take Me (feat. RUNN)',
+artist: 'William Black & Matte',
+album: '',
+cover: 'img/takemewilliamblacknmatte.jpg',
+mp3: '',
+ogg: 'mp3/takemewilliamblacknmatte.ogg'
+},
+{
+title: 'Baby Girl (feat. Anthony B. Quiñones)',
+artist: 'El Neón',
+album: '',
+cover: 'img/babygirlelneon.jpg',
+mp3: '',
+ogg: 'mp3/babygirlelneon.ogg'
+},
 ];
 
 	// Load playlist
