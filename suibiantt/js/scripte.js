@@ -797,6 +797,14 @@ cover: 'img/babygirlelneon.jpg',
 mp3: '',
 ogg: 'mp3/babygirlelneon.ogg'
 },
+{
+title: 'Daylight',
+artist: 'MindaRyn',
+album: '',
+cover: 'img/daylightmindaryn.jpg',
+mp3: '',
+ogg: 'mp3/daylightmindaryn.ogg'
+},
 ];
 
 	// Load playlist
