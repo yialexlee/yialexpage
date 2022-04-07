@@ -6598,6 +6598,70 @@ cover: 'img/matsurifujikaze.jpg',
 mp3: '',
 ogg: 'mp3/matsurifujikaze.ogg'
 },
+{
+title: 'LOVE DIVE',
+artist: 'IVE',
+album: '',
+cover: 'img/lovediveive.jpg',
+mp3: '',
+ogg: 'mp3/lovediveive.ogg'
+},
+{
+title: 'Love, Maybe(사랑인가 봐)',
+artist: 'MeloMance',
+album: '사내맞선 OST (A Business Proposal OST)',
+cover: 'img/lovemaybemelomance.jpg',
+mp3: '',
+ogg: 'mp3/lovemaybemelomance.ogg'
+},
+{
+title: 'Take Me (feat. RUNN)',
+artist: 'William Black & Matte',
+album: '',
+cover: 'img/takemewilliamblacknmatte.jpg',
+mp3: '',
+ogg: 'mp3/takemewilliamblacknmatte.ogg'
+},
+{
+title: 'Baby Girl (feat. Anthony B. Quiñones)',
+artist: 'El Neón',
+album: '',
+cover: 'img/babygirlelneon.jpg',
+mp3: '',
+ogg: 'mp3/babygirlelneon.ogg'
+},
+{
+title: '弱',
+artist: 'joysaaaa',
+album: '',
+cover: 'img/ruojoysaaaa.jpg',
+mp3: '',
+ogg: 'mp3/ruojoysaaaa.ogg'
+},
+{
+title: '一念难渡我 (抖音DJ版)',
+artist: '高枫、壹起酒肆',
+album: '',
+cover: 'img/yiniannanduwogaofeng.jpg',
+mp3: '',
+ogg: 'mp3/yiniannanduwogaofeng.ogg'
+},
+{
+title: '月老掉线（DJ阿卓版）',
+artist: '王不醒',
+album: '',
+cover: 'img/yuelaodiaoxianwangbuxing.jpg',
+mp3: '',
+ogg: 'mp3/yuelaodiaoxianwangbuxing.ogg'
+},
+{
+title: '麦浪',
+artist: 'yihuik苡慧',
+album: '',
+cover: 'img/mailangyihuik.jpg',
+mp3: '',
+ogg: 'mp3/mailangyihuik.ogg'
+},
 ];
 
 	// Load playlist
