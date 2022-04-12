@@ -808,7 +808,7 @@ ogg: 'mp3/daylightmindaryn.ogg'
 {
 title: 'Bam Bam',
 artist: 'Camila Cabello',
-album: 'Color',
+album: '',
 cover: 'img/bambamcamilacabello.jpg',
 mp3: '',
 ogg: 'mp3/bambamcamilacabello.ogg'
@@ -816,7 +816,7 @@ ogg: 'mp3/bambamcamilacabello.ogg'
 {
 title: 'luv starved',
 artist: 'GAYLE',
-album: 'Color',
+album: '',
 cover: 'img/luvstarvedgayle.jpg',
 mp3: '',
 ogg: 'mp3/luvstarvedgayle.ogg'
