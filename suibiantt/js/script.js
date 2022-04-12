@@ -6734,6 +6734,70 @@ cover: 'img/voltageitzy.jpg',
 mp3: '',
 ogg: 'mp3/voltageitzy.ogg'
 },
+{			
+title: '喜劇',
+artist: '星野源',
+album: '',
+cover: 'img/kigekihoshinogen.jpg',
+mp3: '',
+ogg: 'mp3/kigekihoshinogen.ogg'
+},
+{
+title: 'MAISON',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/maisondreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/maisondreamcatcher.ogg'
+},
+{
+title: 'NEVER STOP ME 말리지마',
+artist: '(G)I-DLE',
+album: 'I NEVER DIE',
+cover: 'img/neverstopmegidle.jpg',
+mp3: '',
+ogg: 'mp3/neverstopmegidle.ogg'
+},
+{
+title: 'Glitch',
+artist: '권은비',
+album: 'Color',
+cover: 'img/glitchkwoneunbi.jpg',
+mp3: '',
+ogg: 'mp3/glitchkwoneunbi.ogg'
+},
+{
+title: 'Bam Bam',
+artist: 'Camila Cabello',
+album: '',
+cover: 'img/bambamcamilacabello.jpg',
+mp3: '',
+ogg: 'mp3/bambamcamilacabello.ogg'
+},
+{
+title: 'luv starved',
+artist: 'GAYLE',
+album: '',
+cover: 'img/luvstarvedgayle.jpg',
+mp3: '',
+ogg: 'mp3/luvstarvedgayle.ogg'
+},
+{
+title: 'Bulikirály',
+artist: 'Jolly',
+album: '',
+cover: 'img/bulikiralyjolly.jpg',
+mp3: '',
+ogg: 'mp3/bulikiralyjolly.ogg'
+},
+{
+title: '嗚呼、我が浪漫の道よ',
+artist: 'PelleK',
+album: '',
+cover: 'img/aawagaroumannomichiyo.jpg',
+mp3: '',
+ogg: 'mp3/aawagaroumannomichiyo.ogg'
+},
 ];
 
 	// Load playlist
