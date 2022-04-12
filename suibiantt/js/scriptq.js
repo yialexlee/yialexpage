@@ -285,6 +285,14 @@ cover: 'img/materikartemkacheranilorak.jpg',
 mp3: '',
 ogg: 'mp3/materikartemkacheranilorak.ogg'
 },
+{
+title: 'Bulikirály',
+artist: 'Jolly',
+album: '',
+cover: 'img/bulikiralyjolly.jpg',
+mp3: '',
+ogg: 'mp3/bulikiralyjolly.ogg'
+},
 ];
 
 	// Load playlist
