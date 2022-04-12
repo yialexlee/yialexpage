@@ -2709,6 +2709,14 @@ cover: 'img/voltageitzy.jpg',
 mp3: '',
 ogg: 'mp3/voltageitzy.ogg'
 },
+{
+title: '喜劇',
+artist: '星野源',
+album: '',
+cover: 'img/kigekihoshinogen.jpg',
+mp3: '',
+ogg: 'mp3/kigekihoshinogen.ogg'
+},
 ];
 
 	// Load playlist
