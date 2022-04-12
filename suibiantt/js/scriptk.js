@@ -1878,6 +1878,30 @@ cover: 'img/lovemaybemelomance.jpg',
 mp3: '',
 ogg: 'mp3/lovemaybemelomance.ogg'
 },
+{
+title: 'MAISON',
+artist: 'Dreamcatcher',
+album: '',
+cover: 'img/maisondreamcatcher.jpg',
+mp3: '',
+ogg: 'mp3/maisondreamcatcher.ogg'
+},
+{
+title: 'NEVER STOP ME 말리지마',
+artist: '(G)I-DLE',
+album: 'I NEVER DIE',
+cover: 'img/neverstopmegidle.jpg',
+mp3: '',
+ogg: 'mp3/neverstopmegidle.ogg'
+},
+{
+title: 'Glitch',
+artist: '권은비',
+album: 'Color',
+cover: 'img/glitchkwoneunbi.jpg',
+mp3: '',
+ogg: 'mp3/glitchkwoneunbi.ogg'
+},
 ];
 
 	// Load playlist
