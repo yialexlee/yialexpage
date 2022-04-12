@@ -2717,6 +2717,14 @@ cover: 'img/kigekihoshinogen.jpg',
 mp3: '',
 ogg: 'mp3/kigekihoshinogen.ogg'
 },
+{
+title: '嗚呼、我が浪漫の道よ',
+artist: 'PelleK',
+album: '',
+cover: 'img/aawagaroumannomichiyo.jpg',
+mp3: '',
+ogg: 'mp3/aawagaroumannomichiyo.ogg'
+},
 ];
 
 	// Load playlist
