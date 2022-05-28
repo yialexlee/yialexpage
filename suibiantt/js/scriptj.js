@@ -2725,6 +2725,134 @@ cover: 'img/aawagaroumannomichiyo.jpg',
 mp3: '',
 ogg: 'mp3/aawagaroumannomichiyo.ogg'
 },
+{
+title: 'ここにある約束',
+artist: 'ayaho + 曽我淳',
+album: '',
+cover: 'img/kokoniaruyakusokuayahojunichisoga.jpg',
+mp3: '',
+ogg: 'mp3/kokoniaruyakusokuayahojunichisoga.ogg'
+},
+{
+title: 'Be Crazy For Me',
+artist: 'EIKO Starring 96猫',
+album: '',
+cover: 'img/becrazyformeeikostarring96neko.jpg',
+mp3: '',
+ogg: 'mp3/becrazyformeeikostarring96neko.ogg'
+},
+{
+title: '私の最後の日',
+artist: 'ユアネス',
+album: '',
+cover: 'img/watashinosaigonohiyuanesu.jpg',
+mp3: '',
+ogg: 'mp3/watashinosaigonohiyuanesu.ogg'
+},
+{
+title: 'あの子コンプレックス',
+artist: '=LOVE',
+album: '',
+cover: 'img/anokokonpurekkusu.jpg',
+mp3: '',
+ogg: 'mp3/anokokonpurekkusu.ogg'
+},
+{
+title: 'Tamed-Dashed',
+artist: 'ENHYPEN',
+album: '',
+cover: 'img/tameddashedenhypen.jpg',
+mp3: '',
+ogg: 'mp3/tameddashedenhypen.ogg'
+},
+{
+title: 'それを愛と呼ぶなら',
+artist: 'Uru',
+album: '',
+cover: 'img/soreoaitoyobunara.jpg',
+mp3: '',
+ogg: 'mp3/soreoaitoyobunara.ogg'
+},
+{
+title: '選んでくれてありがとう',
+artist: 'feat. 榎本虎太朗・瀬戸口雛',
+album: '',
+cover: 'img/erandekuretearigatouenomoto.jpg',
+mp3: '',
+ogg: 'mp3/erandekuretearigatouenomoto.ogg'
+},
+{
+title: 'Bubble feat.Uta',
+artist: 'Eve',
+album: '',
+cover: 'img/bubbleutaeve.jpg',
+mp3: '',
+ogg: 'mp3/bubbleutaeve.ogg'
+},
+{
+title: '灯日',
+artist: 'saji',
+album: '',
+cover: 'img/toubisaji.jpg',
+mp3: '',
+ogg: 'mp3/toubisaji.ogg'
+},
+{
+title: 'M八七',
+artist: '米津玄師',
+album: '',
+cover: 'img/mhachinanayonezukenshi.jpg',
+mp3: '',
+ogg: 'mp3/mhachinanayonezukenshi.ogg'
+},
+{
+title: 'ばいばい、テディベア',
+artist: 'HACHI',
+album: '',
+cover: 'img/baibaitedibeahachi.jpg',
+mp3: '',
+ogg: 'mp3/baibaitedibeahachi.ogg'
+},
+{
+title: '自由に捕らわれる',
+artist: 'カンザキイオリ',
+album: '',
+cover: 'img/jiyunitowarerukanzakiiori.jpg',
+mp3: '',
+ogg: 'mp3/jiyunitowarerukanzakiiori.ogg'
+},
+{
+title: 'じゃあね、またね。',
+artist: 'りりあ',
+album: '',
+cover: 'img/jyanemataneriria.jpg',
+mp3: '',
+ogg: 'mp3/jyanemataneriria.ogg'
+},
+{
+title: ' チキチキバンバン',
+artist: 'QUEENDOM',
+album: '',
+cover: 'img/chikichikibanbanqueendom.jpg',
+mp3: '',
+ogg: 'mp3/chikichikibanbanqueendom.ogg'
+},
+{
+title: ' Diary',
+artist: 'SEKAI NO OWARI',
+album: '',
+cover: 'img/diarysekainoowari.jpg',
+mp3: '',
+ogg: 'mp3/diarysekainoowari.ogg'
+},
+{
+title: ' 想い出はお揃い',
+artist: 'こはならむ',
+album: '',
+cover: 'img/omoidewaozoroikohanaramu.jpg',
+mp3: '',
+ogg: 'mp3/omoidewaozoroikohanaramu.ogg'
+},
 ];
 
 	// Load playlist
