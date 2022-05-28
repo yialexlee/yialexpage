@@ -1062,6 +1062,78 @@ cover: 'img/mailangyihuik.jpg',
 mp3: '',
 ogg: 'mp3/mailangyihuik.ogg'
 },
+{
+title: '巴赫旧约',
+artist: '江苏龙',
+album: '',
+cover: 'img/bahejiuyuejiangsulong.jpg',
+mp3: '',
+ogg: 'mp3/bahejiuyuejiangsulong.ogg'
+},
+{
+title: '巴赫旧约',
+artist: '沈以誠',
+album: '',
+cover: 'img/bahejiuyueshenyicheng.jpg',
+mp3: '',
+ogg: 'mp3/bahejiuyueshenyicheng.ogg'
+},
+{
+title: '孤獨頌歌',
+artist: '陳文非',
+album: '',
+cover: 'img/gudusonggechenwenfei.jpg',
+mp3: '',
+ogg: 'mp3/gudusonggechenwenfei.ogg'
+},
+{
+title: '落在生命裡的光',
+artist: '尹昔眠',
+album: '',
+cover: 'img/ruozaishengminglideguangyingximian.jpg',
+mp3: '',
+ogg: 'mp3/ruozaishengminglideguangyingximian.ogg'
+},
+{
+title: '骁',
+artist: '井胧/井迪儿',
+album: '',
+cover: 'img/shaojinglongjingdier.jpg',
+mp3: '',
+ogg: 'mp3/shaojinglongjingdier.ogg'
+},
+{
+title: '我好像在哪里见过你',
+artist: '薛之谦',
+album: '',
+cover: 'img/wohaoxiangzainalijianguonixuezhiqian.jpg',
+mp3: '',
+ogg: 'mp3/wohaoxiangzainalijianguonixuezhiqian.ogg'
+},
+{
+title: '安娜的橱窗',
+artist: '封茗囧菌',
+album: '',
+cover: 'img/annadechuchuangfengmingjiongjun.jpg',
+mp3: '',
+ogg: 'mp3/annadechuchuangfengmingjiongjun.ogg'
+},
+{
+title: '你不懂',
+artist: '蔡恩雨',
+album: '',
+cover: 'img/nibudongcaienyu.jpg',
+mp3: '',
+ogg: 'mp3/nibudongcaienyu.ogg'
+},
+{
+title: '落日晚風的盡頭',
+artist: '林木',
+album: '',
+cover: 'img/ruoriwanfengdejingtoulingmu.jpg',
+mp3: '',
+ogg: 'mp3/ruoriwanfengdejingtoulingmu.ogg'
+},
 ];
 
 	// Load playlist
