@@ -6798,6 +6798,246 @@ cover: 'img/aawagaroumannomichiyo.jpg',
 mp3: '',
 ogg: 'mp3/aawagaroumannomichiyo.ogg'
 },
+{
+title: '巴赫旧约',
+artist: '江苏龙',
+album: '',
+cover: 'img/bahejiuyuejiangsulong.jpg',
+mp3: '',
+ogg: 'mp3/bahejiuyuejiangsulong.ogg'
+},
+{
+title: '巴赫旧约',
+artist: '沈以誠',
+album: '',
+cover: 'img/bahejiuyueshenyicheng.jpg',
+mp3: '',
+ogg: 'mp3/bahejiuyueshenyicheng.ogg'
+},
+{
+title: '孤獨頌歌',
+artist: '陳文非',
+album: '',
+cover: 'img/gudusonggechenwenfei.jpg',
+mp3: '',
+ogg: 'mp3/gudusonggechenwenfei.ogg'
+},
+{
+title: '落在生命裡的光',
+artist: '尹昔眠',
+album: '',
+cover: 'img/ruozaishengminglideguangyingximian.jpg',
+mp3: '',
+ogg: 'mp3/ruozaishengminglideguangyingximian.ogg'
+},
+{
+title: '骁',
+artist: '井胧/井迪儿',
+album: '',
+cover: 'img/shaojinglongjingdier.jpg',
+mp3: '',
+ogg: 'mp3/shaojinglongjingdier.ogg'
+},
+{
+title: '我好像在哪里见过你',
+artist: '薛之谦',
+album: '',
+cover: 'img/wohaoxiangzainalijianguonixuezhiqian.jpg',
+mp3: '',
+ogg: 'mp3/wohaoxiangzainalijianguonixuezhiqian.ogg'
+},
+{
+title: '安娜的橱窗',
+artist: '封茗囧菌',
+album: '',
+cover: 'img/annadechuchuangfengmingjiongjun.jpg',
+mp3: '',
+ogg: 'mp3/annadechuchuangfengmingjiongjun.ogg'
+},
+{
+title: '你不懂',
+artist: '蔡恩雨',
+album: '',
+cover: 'img/nibudongcaienyu.jpg',
+mp3: '',
+ogg: 'mp3/nibudongcaienyu.ogg'
+},
+{
+title: '落日晚風的盡頭',
+artist: '林木',
+album: '',
+cover: 'img/ruoriwanfengdejingtoulingmu.jpg',
+mp3: '',
+ogg: 'mp3/ruoriwanfengdejingtoulingmu.ogg'
+},
+{
+title: 'ここにある約束',
+artist: 'ayaho + 曽我淳',
+album: '',
+cover: 'img/kokoniaruyakusokuayahojunichisoga.jpg',
+mp3: '',
+ogg: 'mp3/kokoniaruyakusokuayahojunichisoga.ogg'
+},
+{
+title: 'Be Crazy For Me',
+artist: 'EIKO Starring 96猫',
+album: '',
+cover: 'img/becrazyformeeikostarring96neko.jpg',
+mp3: '',
+ogg: 'mp3/becrazyformeeikostarring96neko.ogg'
+},
+{
+title: '私の最後の日',
+artist: 'ユアネス',
+album: '',
+cover: 'img/watashinosaigonohiyuanesu.jpg',
+mp3: '',
+ogg: 'mp3/watashinosaigonohiyuanesu.ogg'
+},
+{
+title: 'あの子コンプレックス',
+artist: '=LOVE',
+album: '',
+cover: 'img/anokokonpurekkusu.jpg',
+mp3: '',
+ogg: 'mp3/anokokonpurekkusu.ogg'
+},
+{
+title: 'Tamed-Dashed',
+artist: 'ENHYPEN',
+album: '',
+cover: 'img/tameddashedenhypen.jpg',
+mp3: '',
+ogg: 'mp3/tameddashedenhypen.ogg'
+},
+{
+title: 'それを愛と呼ぶなら',
+artist: 'Uru',
+album: '',
+cover: 'img/soreoaitoyobunara.jpg',
+mp3: '',
+ogg: 'mp3/soreoaitoyobunara.ogg'
+},
+{
+title: '選んでくれてありがとう',
+artist: 'feat. 榎本虎太朗・瀬戸口雛',
+album: '',
+cover: 'img/erandekuretearigatouenomoto.jpg',
+mp3: '',
+ogg: 'mp3/erandekuretearigatouenomoto.ogg'
+},
+{
+title: 'Bubble feat.Uta',
+artist: 'Eve',
+album: '',
+cover: 'img/bubbleutaeve.jpg',
+mp3: '',
+ogg: 'mp3/bubbleutaeve.ogg'
+},
+{
+title: '灯日',
+artist: 'saji',
+album: '',
+cover: 'img/toubisaji.jpg',
+mp3: '',
+ogg: 'mp3/toubisaji.ogg'
+},
+{
+title: 'M八七',
+artist: '米津玄師',
+album: '',
+cover: 'img/mhachinanayonezukenshi.jpg',
+mp3: '',
+ogg: 'mp3/mhachinanayonezukenshi.ogg'
+},
+{
+title: 'ばいばい、テディベア',
+artist: 'HACHI',
+album: '',
+cover: 'img/baibaitedibeahachi.jpg',
+mp3: '',
+ogg: 'mp3/baibaitedibeahachi.ogg'
+},
+{
+title: '自由に捕らわれる',
+artist: 'カンザキイオリ',
+album: '',
+cover: 'img/jiyunitowarerukanzakiiori.jpg',
+mp3: '',
+ogg: 'mp3/jiyunitowarerukanzakiiori.ogg'
+},
+{
+title: 'じゃあね、またね。',
+artist: 'りりあ',
+album: '',
+cover: 'img/jyanemataneriria.jpg',
+mp3: '',
+ogg: 'mp3/jyanemataneriria.ogg'
+},
+{
+title: 'チキチキバンバン',
+artist: 'QUEENDOM',
+album: '',
+cover: 'img/chikichikibanbanqueendom.jpg',
+mp3: '',
+ogg: 'mp3/chikichikibanbanqueendom.ogg'
+},
+{
+title: 'Diary',
+artist: 'SEKAI NO OWARI',
+album: '',
+cover: 'img/diarysekainoowari.jpg',
+mp3: '',
+ogg: 'mp3/diarysekainoowari.ogg'
+},
+{
+title: '想い出はお揃い',
+artist: 'こはならむ',
+album: '',
+cover: 'img/omoidewaozoroikohanaramu.jpg',
+mp3: '',
+ogg: 'mp3/omoidewaozoroikohanaramu.ogg'
+},
+{
+title: '우리들의블루스',
+artist: '임영웅',
+album: '',
+cover: 'img/ulideuluibeulluseuimyeongung.jpg',
+mp3: '',
+ogg: 'mp3/ulideuluibeulluseuimyeongung.ogg'
+},
+{
+title: '니 소식2',
+artist: '임영웅',
+album: '',
+cover: 'img/urregards2ttolaibag.jpg',
+mp3: '',
+ogg: 'mp3/urregards2ttolaibag.ogg'
+},
+{
+title: 'Drive',
+artist: '미연 (MIYEON)',
+album: '',
+cover: 'img/drivemiyeon.jpg',
+mp3: '',
+ogg: 'mp3/drivemiyeon.ogg'
+},
+{
+title: 'FEARLESS',
+artist: 'LE SSERAFIM',
+album: '',
+cover: 'img/fearlesslesserafim.jpg',
+mp3: '',
+ogg: 'mp3/fearlesslesserafim.ogg'
+},
+{
+title: 'HOT',
+artist: 'SEVENTEEN',
+album: 'FACE THE SUN',
+cover: 'img/hotseventeen.jpg',
+mp3: '',
+ogg: 'mp3/hotseventeen.ogg'
+},
 ];
 
 	// Load playlist
