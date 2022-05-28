@@ -1902,6 +1902,46 @@ cover: 'img/glitchkwoneunbi.jpg',
 mp3: '',
 ogg: 'mp3/glitchkwoneunbi.ogg'
 },
+{
+title: '우리들의블루스',
+artist: '임영웅',
+album: '',
+cover: 'img/ulideuluibeulluseuimyeongung.jpg',
+mp3: '',
+ogg: 'mp3/ulideuluibeulluseuimyeongung.ogg'
+},
+{
+title: '니 소식2',
+artist: '임영웅',
+album: '',
+cover: 'img/urregards2ttolaibag.jpg',
+mp3: '',
+ogg: 'mp3/urregards2ttolaibag.ogg'
+},
+{
+title: 'Drive',
+artist: '미연 (MIYEON)',
+album: '',
+cover: 'img/drivemiyeon.jpg',
+mp3: '',
+ogg: 'mp3/drivemiyeon.ogg'
+},
+{
+title: 'FEARLESS',
+artist: 'LE SSERAFIM',
+album: '',
+cover: 'img/fearlesslesserafim.jpg',
+mp3: '',
+ogg: 'mp3/fearlesslesserafim.ogg'
+},
+{
+title: 'HOT',
+artist: 'SEVENTEEN',
+album: 'FACE THE SUN',
+cover: 'img/hotseventeen.jpg',
+mp3: '',
+ogg: 'mp3/hotseventeen.ogg'
+},
 ];
 
 	// Load playlist
