@@ -2830,7 +2830,7 @@ mp3: '',
 ogg: 'mp3/jyanemataneriria.ogg'
 },
 {
-title: ' チキチキバンバン',
+title: 'チキチキバンバン',
 artist: 'QUEENDOM',
 album: '',
 cover: 'img/chikichikibanbanqueendom.jpg',
@@ -2838,7 +2838,7 @@ mp3: '',
 ogg: 'mp3/chikichikibanbanqueendom.ogg'
 },
 {
-title: ' Diary',
+title: 'Diary',
 artist: 'SEKAI NO OWARI',
 album: '',
 cover: 'img/diarysekainoowari.jpg',
@@ -2846,7 +2846,7 @@ mp3: '',
 ogg: 'mp3/diarysekainoowari.ogg'
 },
 {
-title: ' 想い出はお揃い',
+title: '想い出はお揃い',
 artist: 'こはならむ',
 album: '',
 cover: 'img/omoidewaozoroikohanaramu.jpg',
