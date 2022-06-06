@@ -7038,6 +7038,126 @@ cover: 'img/hotseventeen.jpg',
 mp3: '',
 ogg: 'mp3/hotseventeen.ogg'
 },
+{
+title: 'Words (Feat. Zara Larsson)',
+artist: 'Alesso',
+album: '',
+cover: 'img/wordsalesso.jpg',
+mp3: '',
+ogg: 'mp3/wordsalesso.ogg'
+},
+{
+title: 'Infinity',
+artist: 'Jaymes Young',
+album: '',
+cover: 'img/infinityjaymesyoung.jpg',
+mp3: '',
+ogg: 'mp3/infinityjaymesyoung.ogg'
+},
+{
+title: '晚風作酒',
+artist: 'L(桃籽)&周林楓&三楠',
+album: '',
+cover: 'img/wanfengzuojiulzhoulinsannan.jpg',
+mp3: '',
+ogg: 'mp3/wanfengzuojiulzhoulinsannan.ogg'
+},
+{
+title: '神魂颠倒',
+artist: '邓典',
+album: '',
+cover: 'img/shenhundiandaodengdian.jpg',
+mp3: '',
+ogg: 'mp3/shenhundiandaodengdian.ogg'
+},
+{
+title: '妈妈的话',
+artist: '弹棉花的小花',
+album: '',
+cover: 'img/mamadehuatanmianhuadexiaohua.jpg',
+mp3: '',
+ogg: 'mp3/mamadehuatanmianhuadexiaohua.ogg'
+},
+{
+title: '可能',
+artist: '程响',
+album: '',
+cover: 'img/kenengchengxiang.jpg',
+mp3: '',
+ogg: 'mp3/kenengchengxiang.mp3'
+},
+{
+title: '叹别离',
+artist: '豆包',
+album: '',
+cover: 'img/tanbielidoubao.jpg',
+mp3: '',
+ogg: 'mp3/tanbielidoubao.ogg'
+},
+{
+title: '叹别离 (DJ阿卓版)',
+artist: '豆包',
+album: '',
+cover: 'img/tanbielidoubao.jpg',
+mp3: '',
+ogg: 'mp3/tanbielidoubaodj.ogg'
+},
+{
+title: '刪了又加',
+artist: '沈彥宇',
+album: '',
+cover: 'img/shanleyoujiashenyanyu.jpg',
+mp3: '',
+ogg: 'mp3/shanleyoujiashenyanyu.ogg'
+},
+{
+title: '好きだ',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/sukidayoasobi.jpg',
+mp3: '',
+ogg: 'mp3/sukidayoasobi.ogg'
+},
+{
+title: '足りない',
+artist: 'DUSTCELL',
+album: '',
+cover: 'img/tarinaidustcell.jpg',
+mp3: '',
+ogg: 'mp3/tarinaidustcell.ogg'
+},
+{
+title: 'Eighteen Color',
+artist: 'コバソロ feat. こぴ',
+album: '',
+cover: 'img/eighteencolorkobasorokobi.jpg',
+mp3: '',
+ogg: 'mp3/eighteencolorkobasorokobi.ogg'
+},
+{
+title: '무지개 (Rainbow)',
+artist: '임영웅 (Lim Young Woong)',
+album: 'Im HERO',
+cover: 'img/rainbowlimyoungwoong.jpg',
+mp3: '',
+ogg: 'mp3/rainbowlimyoungwoong.ogg'
+},
+{
+title: '상상더하기',
+artist: 'LABOUM',
+album: '',
+cover: 'img/sangsangdeohagilaboum.jpg',
+mp3: '',
+ogg: 'mp3/sangsangdeohagilaboum.ogg'
+},
+{
+title: 'CLASSY',
+artist: 'CLASS:y(클라씨)',
+album: 'CLASS IS OVER',
+cover: 'img/classyclassyy.jpg',
+mp3: '',
+ogg: 'mp3/classyclassyy.ogg'
+},
 ];
 
 	// Load playlist
