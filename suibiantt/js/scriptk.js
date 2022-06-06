@@ -1942,6 +1942,30 @@ cover: 'img/hotseventeen.jpg',
 mp3: '',
 ogg: 'mp3/hotseventeen.ogg'
 },
+{
+title: '무지개 (Rainbow)',
+artist: '임영웅 (Lim Young Woong)',
+album: 'Im HERO',
+cover: 'img/rainbowlimyoungwoong.jpg',
+mp3: '',
+ogg: 'mp3/rainbowlimyoungwoong.ogg'
+},
+{
+title: '상상더하기',
+artist: 'LABOUM',
+album: '',
+cover: 'img/sangsangdeohagilaboum.jpg',
+mp3: '',
+ogg: 'mp3/sangsangdeohagilaboum.ogg'
+},
+{
+title: 'CLASSY',
+artist: 'CLASS:y(클라씨)',
+album: 'CLASS IS OVER',
+cover: 'img/classyclassyy.jpg',
+mp3: '',
+ogg: 'mp3/classyclassyy.ogg'
+},
 ];
 
 	// Load playlist
