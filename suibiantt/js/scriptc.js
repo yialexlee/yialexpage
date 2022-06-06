@@ -1134,6 +1134,62 @@ cover: 'img/ruoriwanfengdejingtoulingmu.jpg',
 mp3: '',
 ogg: 'mp3/ruoriwanfengdejingtoulingmu.ogg'
 },
+{
+title: '晚風作酒',
+artist: 'L(桃籽)&周林楓&三楠',
+album: '',
+cover: 'img/wanfengzuojiulzhoulinsannan.jpg',
+mp3: '',
+ogg: 'mp3/wanfengzuojiulzhoulinsannan.ogg'
+},
+{
+title: '神魂颠倒',
+artist: '邓典',
+album: '',
+cover: 'img/shenhundiandaodengdian.jpg',
+mp3: '',
+ogg: 'mp3/shenhundiandaodengdian.ogg'
+},
+{
+title: '妈妈的话',
+artist: '弹棉花的小花',
+album: '',
+cover: 'img/mamadehuatanmianhuadexiaohua.jpg',
+mp3: '',
+ogg: 'mp3/mamadehuatanmianhuadexiaohua.ogg'
+},
+{
+title: '可能',
+artist: '程响',
+album: '',
+cover: 'img/kenengchengxiang.jpg',
+mp3: '',
+ogg: 'mp3/kenengchengxiang.mp3'
+},
+{
+title: '叹别离',
+artist: '豆包',
+album: '',
+cover: 'img/tanbielidoubao.jpg',
+mp3: '',
+ogg: 'mp3/tanbielidoubao.ogg'
+},
+{
+title: '叹别离 (DJ阿卓版)',
+artist: '豆包',
+album: '',
+cover: 'img/tanbielidoubao.jpg',
+mp3: '',
+ogg: 'mp3/tanbielidoubaodj.ogg'
+},
+{
+title: '刪了又加',
+artist: '沈彥宇',
+album: '',
+cover: 'img/shanleyoujiashenyanyu.jpg',
+mp3: '',
+ogg: 'mp3/shanleyoujiashenyanyu.ogg'
+},
 ];
 
 	// Load playlist
