@@ -2853,6 +2853,30 @@ cover: 'img/omoidewaozoroikohanaramu.jpg',
 mp3: '',
 ogg: 'mp3/omoidewaozoroikohanaramu.ogg'
 },
+{
+title: '好きだ',
+artist: 'YOASOBI',
+album: '',
+cover: 'img/sukidayoasobi.jpg',
+mp3: '',
+ogg: 'mp3/sukidayoasobi.ogg'
+},
+{
+title: '足りない',
+artist: 'DUSTCELL',
+album: '',
+cover: 'img/tarinaidustcell.jpg',
+mp3: '',
+ogg: 'mp3/tarinaidustcell.ogg'
+},
+{
+title: 'Eighteen Color',
+artist: 'コバソロ feat. こぴ',
+album: '',
+cover: 'img/eighteencolorkobasorokobi.jpg',
+mp3: '',
+ogg: 'mp3/eighteencolorkobasorokobi.ogg'
+},
 ];
 
 	// Load playlist
