@@ -821,6 +821,22 @@ cover: 'img/luvstarvedgayle.jpg',
 mp3: '',
 ogg: 'mp3/luvstarvedgayle.ogg'
 },
+{
+title: 'Words (Feat. Zara Larsson)',
+artist: 'Alesso',
+album: '',
+cover: 'img/wordsalesso.jpg',
+mp3: '',
+ogg: 'mp3/wordsalesso.ogg'
+},
+{
+title: 'Infinity',
+artist: 'Jaymes Young',
+album: '',
+cover: 'img/infinityjaymesyoung.jpg',
+mp3: '',
+ogg: 'mp3/infinityjaymesyoung.ogg'
+},
 ];
 
 	// Load playlist
