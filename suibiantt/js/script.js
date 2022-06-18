@@ -7158,6 +7158,30 @@ cover: 'img/classyclassyy.jpg',
 mp3: '',
 ogg: 'mp3/classyclassyy.ogg'
 },
+{
+title: '就忘了吧 Cover',
+artist: '查榑酱',
+album: '',
+cover: 'img/jiuwanglebachabojiang.jpg',
+mp3: '',
+ogg: 'mp3/jiuwanglebachabojiang.ogg'
+},
+{
+title: '反正',
+artist: '于冬然',
+album: '',
+cover: 'img/fanzhengyudongran.jpg',
+mp3: '',
+ogg: 'mp3/fanzhengyudongran.ogg'
+},
+{
+title: '反正',
+artist: '于冬然',
+album: '',
+cover: 'img/fanzhengyudongran.jpg',
+mp3: '',
+ogg: 'mp3/fanzhengyudongran.ogg'
+},
 ];
 
 	// Load playlist
