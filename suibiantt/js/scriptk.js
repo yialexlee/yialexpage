@@ -1966,6 +1966,22 @@ cover: 'img/classyclassyy.jpg',
 mp3: '',
 ogg: 'mp3/classyclassyy.ogg'
 },
+{
+title: 'SHUT DOWN',
+artist: 'CLASS:y',
+album: 'CLASS IS OVER',
+cover: 'img/shutdownclassy.jpg',
+mp3: '',
+ogg: 'mp3/shutdownclassy.ogg'
+},
+{
+title: 'Yet To Come',
+artist: 'BTS',
+album: 'Proof',
+cover: 'img/yettocomebts.jpg',
+mp3: '',
+ogg: 'mp3/yettocomebts.ogg'
+},
 ];
 
 	// Load playlist
