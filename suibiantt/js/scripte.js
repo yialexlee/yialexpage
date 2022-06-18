@@ -837,6 +837,30 @@ cover: 'img/infinityjaymesyoung.jpg',
 mp3: '',
 ogg: 'mp3/infinityjaymesyoung.ogg'
 },
+{
+title: 'Never knew a heart could break itself (acoustic)',
+artist: 'Zach Hood',
+album: '',
+cover: 'img/neverknewaheartcouldbreakitselfzachhood.jpg',
+mp3: '',
+ogg: 'mp3/neverknewaheartcouldbreakitselfzachhood.ogg'
+},
+{
+title: 'In The Stars',
+artist: 'Benson Boone',
+album: '',
+cover: 'img/inthestarsbensonboone.jpg',
+mp3: '',
+ogg: 'mp3/inthestarsbensonboone.ogg'
+},
+{
+title: 'DONT YOU WORRY',
+artist: 'Black Eyed Peas, Shakira, David Guetta',
+album: '',
+cover: 'img/dontuworryblackeyedpeasshakiradavid.jpg',
+mp3: '',
+ogg: 'mp3/dontuworryblackeyedpeasshakiradavid.ogg'
+},
 ];
 
 	// Load playlist
