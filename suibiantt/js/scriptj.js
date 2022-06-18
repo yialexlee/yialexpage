@@ -2877,6 +2877,38 @@ cover: 'img/eighteencolorkobasorokobi.jpg',
 mp3: '',
 ogg: 'mp3/eighteencolorkobasorokobi.ogg'
 },
+{
+title: '見たこともない景色',
+artist: '菅田将暉',
+album: '',
+cover: 'img/mitakotomonaikeshikimasakisuda.jpg',
+mp3: '',
+ogg: 'mp3/mitakotomonaikeshikimasakisuda.ogg'
+},
+{
+title: 'レンズ',
+artist: '幾田りら',
+album: '',
+cover: 'img/renzuikutarira.jpg',
+mp3: '',
+ogg: 'mp3/renzuikutarira.ogg'
+},
+{
+title: 'うぉ',
+artist: '優里',
+album: '',
+cover: 'img/uoyuri.jpg',
+mp3: '',
+ogg: 'mp3/uoyuri.ogg'
+},
+{
+title: 'Habit',
+artist: 'SEKAI NO OWARI',
+album: '',
+cover: 'img/habitsekainoowari.jpg',
+mp3: '',
+ogg: 'mp3/habitsekainoowari.ogg'
+},
 ];
 
 	// Load playlist
