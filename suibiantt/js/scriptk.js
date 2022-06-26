@@ -1982,6 +1982,14 @@ cover: 'img/yettocomebts.jpg',
 mp3: '',
 ogg: 'mp3/yettocomebts.ogg'
 },
+{
+title: '아메리카노 같아 넌',
+artist: '유주(YUJU)',
+album: '',
+cover: 'img/amelikanogataneonyuju.jpg',
+mp3: '',
+ogg: 'mp3/amelikanogataneonyuju.ogg'
+},
 ];
 
 	// Load playlist
