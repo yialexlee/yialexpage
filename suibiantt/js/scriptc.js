@@ -1206,6 +1206,22 @@ cover: 'img/fanzhengyudongran.jpg',
 mp3: '',
 ogg: 'mp3/fanzhengyudongran.ogg'
 },
+{
+title: '时光作渡',
+artist: '蓝小泽',
+album: '',
+cover: 'img/shiguangzuodulanxiaoze.jpg',
+mp3: '',
+ogg: 'mp3/shiguangzuodulanxiaoze.ogg'
+},
+{
+title: '从前说',
+artist: '小阿七',
+album: '',
+cover: 'img/congqianshuoxiaoahqi.jpg',
+mp3: '',
+ogg: 'mp3/congqianshuoxiaoahqi.ogg'
+},
 ];
 
 	// Load playlist
