@@ -7246,6 +7246,70 @@ cover: 'img/yettocomebts.jpg',
 mp3: '',
 ogg: 'mp3/yettocomebts.ogg'
 },
+{
+title: '时光作渡',
+artist: '蓝小泽',
+album: '',
+cover: 'img/shiguangzuodulanxiaoze.jpg',
+mp3: '',
+ogg: 'mp3/shiguangzuodulanxiaoze.ogg'
+},
+{
+title: '从前说',
+artist: '小阿七',
+album: '',
+cover: 'img/congqianshuoxiaoahqi.jpg',
+mp3: '',
+ogg: 'mp3/congqianshuoxiaoahqi.ogg'
+},
+{
+title: '知らないままで',
+artist: 'ロクデナシ',
+album: '',
+cover: 'img/shiranaimamaderokudenashi.jpg',
+mp3: '',
+ogg: 'mp3/shiranaimamaderokudenashi.ogg'
+},
+{
+title: '아메리카노 같아 넌',
+artist: '유주(YUJU)',
+album: '',
+cover: 'img/amelikanogataneonyuju.jpg',
+mp3: '',
+ogg: 'mp3/amelikanogataneonyuju.ogg'
+},
+{
+title: 'Ring The Alarm',
+artist: 'KARD',
+album: '',
+cover: 'img/ringthealarm.jpg',
+mp3: '',
+ogg: 'mp3/ringthealarm.ogg'
+},
+{
+title: 'Drag Me Down',
+artist: 'One Direction',
+album: '',
+cover: 'img/dragmedownonedirection.jpg',
+mp3: '',
+ogg: 'mp3/dragmedownonedirection.ogg'
+},
+{
+title: 'Left And Right (feat. Jung Kook of BTS)',
+artist: 'Charlie Puth',
+album: '',
+cover: 'img/leftnrightcharlieputhbts.jpg',
+mp3: '',
+ogg: 'mp3/leftnrightcharlieputhbts.ogg'
+},
+{
+title: 'Lifes Too Short',
+artist: 'aespa',
+album: '',
+cover: 'img/lifestooshortaespa.jpg',
+mp3: '',
+ogg: 'mp3/lifestooshortaespa.ogg'
+},
 ];
 
 	// Load playlist
