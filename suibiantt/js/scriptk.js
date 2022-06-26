@@ -1990,6 +1990,14 @@ cover: 'img/amelikanogataneonyuju.jpg',
 mp3: '',
 ogg: 'mp3/amelikanogataneonyuju.ogg'
 },
+{
+title: 'Ring The Alarm',
+artist: 'KARD',
+album: '',
+cover: 'img/ringthealarm.jpg',
+mp3: '',
+ogg: 'mp3/ringthealarm.ogg'
+},
 ];
 
 	// Load playlist
