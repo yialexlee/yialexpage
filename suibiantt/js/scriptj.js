@@ -2909,6 +2909,14 @@ cover: 'img/habitsekainoowari.jpg',
 mp3: '',
 ogg: 'mp3/habitsekainoowari.ogg'
 },
+{
+title: '知らないままで',
+artist: 'ロクデナシ',
+album: '',
+cover: 'img/shiranaimamaderokudenashi.jpg',
+mp3: '',
+ogg: 'mp3/shiranaimamaderokudenashi.ogg'
+},
 ];
 
 	// Load playlist
