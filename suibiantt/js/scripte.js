@@ -861,6 +861,30 @@ cover: 'img/dontuworryblackeyedpeasshakiradavid.jpg',
 mp3: '',
 ogg: 'mp3/dontuworryblackeyedpeasshakiradavid.ogg'
 },
+{
+title: 'Drag Me Down',
+artist: 'One Direction',
+album: '',
+cover: 'img/dragmedownonedirection.jpg',
+mp3: '',
+ogg: 'mp3/dragmedownonedirection.ogg'
+},
+{
+title: 'Left And Right (feat. Jung Kook of BTS)',
+artist: 'Charlie Puth',
+album: '',
+cover: 'img/leftnrightcharlieputhbts.jpg',
+mp3: '',
+ogg: 'mp3/leftnrightcharlieputhbts.ogg'
+},
+{
+title: 'Lifes Too Short',
+artist: 'aespa',
+album: '',
+cover: 'img/lifestooshortaespa.jpg',
+mp3: '',
+ogg: 'mp3/lifestooshortaespa.ogg'
+},
 ];
 
 	// Load playlist
