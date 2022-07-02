@@ -885,6 +885,14 @@ cover: 'img/lifestooshortaespa.jpg',
 mp3: '',
 ogg: 'mp3/lifestooshortaespa.ogg'
 },
+{
+title: 'Glimpse of Us',
+artist: 'Joji',
+album: '',
+cover: 'img/glimpseofusjoji.jpg',
+mp3: '',
+ogg: 'mp3/glimpseofusjoji.ogg'
+},
 ];
 
 	// Load playlist
