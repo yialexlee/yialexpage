@@ -2917,6 +2917,30 @@ cover: 'img/shiranaimamaderokudenashi.jpg',
 mp3: '',
 ogg: 'mp3/shiranaimamaderokudenashi.ogg'
 },
+{
+title: '断面',
+artist: 'Dios',
+album: '',
+cover: 'img/danmendios.jpg',
+mp3: '',
+ogg: 'mp3/danmendios.ogg'
+},
+{
+title: 'ゆずれない',
+artist: '藤川千愛',
+album: '',
+cover: 'img/yuzurenaifujikawachiai.jpg',
+mp3: '',
+ogg: 'mp3/yuzurenaifujikawachiai.ogg'
+},
+{
+title: 'ラクガキ',
+artist: 'もさを',
+album: '',
+cover: 'img/rakugakimosao.jpg',
+mp3: '',
+ogg: 'mp3/rakugakimosao.ogg'
+},
 ];
 
 	// Load playlist
