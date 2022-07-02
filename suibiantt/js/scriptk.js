@@ -1998,6 +1998,38 @@ cover: 'img/ringthealarm.jpg',
 mp3: '',
 ogg: 'mp3/ringthealarm.ogg'
 },
+{
+title: 'HIT YA!',
+artist: 'Lapillus',
+album: '',
+cover: 'img/hityalapillus.jpg',
+mp3: '',
+ogg: 'mp3/hityalapillus.ogg'
+},
+{
+title: 'POP!',
+artist: 'NAYEON',
+album: '',
+cover: 'img/popnayeon.jpg',
+mp3: '',
+ogg: 'mp3/popnayeon.ogg'
+},
+{
+title: '너의 하루를 묻고 싶어',
+artist: '민니',
+album: '링크: 먹고 사랑하라, 죽이게 OST Part.2',
+cover: 'img/neouihaluleulmudgosipeominni.jpg',
+mp3: '',
+ogg: 'mp3/neouihaluleulmudgosipeominni.ogg'
+},
+{
+title: '열이올라요',
+artist: '선미 (SUNMI)',
+album: '',
+cover: 'img/yeoliollayosunmi.jpg',
+mp3: '',
+ogg: 'mp3/yeoliollayosunmi.ogg'
+},
 ];
 
 	// Load playlist
