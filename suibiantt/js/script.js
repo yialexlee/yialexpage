@@ -7310,6 +7310,78 @@ cover: 'img/lifestooshortaespa.jpg',
 mp3: '',
 ogg: 'mp3/lifestooshortaespa.ogg'
 },
+{
+title: '生分（男版）',
+artist: 'en',
+album: '',
+cover: 'img/shengfenen.jpg',
+mp3: '',
+ogg: 'mp3/shengfenen.ogg'
+},
+{
+title: 'HIT YA!',
+artist: 'Lapillus',
+album: '',
+cover: 'img/hityalapillus.jpg',
+mp3: '',
+ogg: 'mp3/hityalapillus.ogg'
+},
+{
+title: 'POP!',
+artist: 'NAYEON',
+album: '',
+cover: 'img/popnayeon.jpg',
+mp3: '',
+ogg: 'mp3/popnayeon.ogg'
+},
+{
+title: '너의 하루를 묻고 싶어',
+artist: '민니',
+album: '링크: 먹고 사랑하라, 죽이게 OST Part.2',
+cover: 'img/neouihaluleulmudgosipeominni.jpg',
+mp3: '',
+ogg: 'mp3/neouihaluleulmudgosipeominni.ogg'
+},
+{
+title: '열이올라요',
+artist: '선미 (SUNMI)',
+album: '',
+cover: 'img/yeoliollayosunmi.jpg',
+mp3: '',
+ogg: 'mp3/yeoliollayosunmi.ogg'
+},
+{
+title: '断面',
+artist: 'Dios',
+album: '',
+cover: 'img/danmendios.jpg',
+mp3: '',
+ogg: 'mp3/danmendios.ogg'
+},
+{
+title: 'ゆずれない',
+artist: '藤川千愛',
+album: '',
+cover: 'img/yuzurenaifujikawachiai.jpg',
+mp3: '',
+ogg: 'mp3/yuzurenaifujikawachiai.ogg'
+},
+{
+title: 'ラクガキ',
+artist: 'もさを',
+album: '',
+cover: 'img/rakugakimosao.jpg',
+mp3: '',
+ogg: 'mp3/rakugakimosao.ogg'
+},
+{
+title: 'Glimpse of Us',
+artist: 'Joji',
+album: '',
+cover: 'img/glimpseofusjoji.jpg',
+mp3: '',
+ogg: 'mp3/glimpseofusjoji.ogg'
+},
 ];
 
 	// Load playlist
