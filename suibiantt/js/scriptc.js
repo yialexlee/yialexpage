@@ -1222,6 +1222,14 @@ cover: 'img/congqianshuoxiaoahqi.jpg',
 mp3: '',
 ogg: 'mp3/congqianshuoxiaoahqi.ogg'
 },
+{
+title: '生分（男版）',
+artist: 'en',
+album: '',
+cover: 'img/shengfenen.jpg',
+mp3: '',
+ogg: 'mp3/shengfenen.ogg'
+},
 ];
 
 	// Load playlist
