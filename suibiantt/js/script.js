@@ -7382,6 +7382,158 @@ cover: 'img/glimpseofusjoji.jpg',
 mp3: '',
 ogg: 'mp3/glimpseofusjoji.ogg'
 },
+{
+title: '過渡期',
+artist: '施語庭',
+album: '',
+cover: 'img/guoduqishiyuting.jpg',
+mp3: '',
+ogg: 'mp3/guoduqishiyuting.ogg'
+},
+{
+title: '好像没来过',
+artist: 'CEN枫仔',
+album: '',
+cover: 'img/haoxiangmeilaiguocenfengzhai.jpg',
+mp3: '',
+ogg: 'mp3/haoxiangmeilaiguocenfengzhai.ogg'
+},
+{
+title: 'Milky Way',
+artist: 'SEOHYUN(서현)',
+album: '',
+cover: 'img/milkywayseohyun.jpg',
+mp3: '',
+ogg: 'mp3/milkywayseohyun.ogg'
+},
+{
+title: 'Future Perfect (Pass the MIC)',
+artist: 'ENHYPEN (엔하이픈)',
+album: 'MANIFESTO : DAY 1',
+cover: 'img/futureperfectenhypen.jpg',
+mp3: '',
+ogg: 'mp3/futureperfectenhypen.ogg'
+},
+{
+title: 'Girls',
+artist: 'aespa',
+album: '',
+cover: 'img/girlsaespa.jpg',
+mp3: '',
+ogg: 'mp3/girlsaespa.ogg'
+},
+{
+title: 'WANNA KNOW',
+artist: 'IRRIS',
+album: '',
+cover: 'img/wannaknowirris.jpg',
+mp3: '',
+ogg: 'mp3/wannaknowirris.ogg'
+},
+{
+title: '아리운',
+artist: '케이시(Kassy)',
+album: '환혼 OST Part 2',
+cover: 'img/ailunkassy.jpg',
+mp3: '',
+ogg: 'mp3/ailunkassy.ogg'
+},
+{
+title: 'Copycat',
+artist: 'Apink 초봄(CHOBOM)',
+album: '',
+cover: 'img/copycatapinkchobom.jpg',
+mp3: '',
+ogg: 'mp3/copycatapinkchobom.ogg'
+},
+{
+title: 'OASIS',
+artist: '1CHU',
+album: '',
+cover: 'img/oasis1chu.jpg',
+mp3: '',
+ogg: 'mp3/oasis1chu.ogg'
+},
+{
+title: '逆光（ウタ from ONE PIECE FILM RED）',
+artist: 'Ado',
+album: '',
+cover: 'img/gyakkoado.jpg',
+mp3: '',
+ogg: 'mp3/gyakkoado.ogg'
+},
+{
+title: '交差点',
+artist: 'majiko',
+album: '',
+cover: 'img/kosatenmajiko.jpg',
+mp3: '',
+ogg: 'mp3/kosatenmajiko.ogg'
+},
+{
+title: 'School',
+artist: 'Chilli Beans.',
+album: '',
+cover: 'img/schoolchilibeans.jpg',
+mp3: '',
+ogg: 'mp3/schoolchilibeans.ogg'
+},
+{
+title: 'ロックでキスfeat.もっさ(ネクライトーキー)',
+artist: '和ぬか',
+album: '青二才',
+cover: 'img/rokkudekisuwanuka.jpg',
+mp3: '',
+ogg: 'mp3/rokkudekisuwanuka.ogg'
+},
+{
+title: '浪漫ショー',
+artist: '和ぬか',
+album: '青二才',
+cover: 'img/rokkudekisuwanuka.jpg',
+mp3: '',
+ogg: 'mp3/romanshowanuka.ogg'
+},
+{
+title: 'I Need You',
+artist: 'Nissy(⻄島隆弘)',
+album: '',
+cover: 'img/ineedyounissy.jpg',
+mp3: '',
+ogg: 'mp3/ineedyounissy.ogg'
+},
+{
+title: 'CLAP CLAP',
+artist: 'NiziU',
+album: '',
+cover: 'img/clapclapniziu.jpg',
+mp3: '',
+ogg: 'mp3/clapclapniziu.ogg'
+},
+{
+title: 'ASOBO',
+artist: 'NiziU',
+album: '',
+cover: 'img/asoboniziu.jpg',
+mp3: '',
+ogg: 'mp3/asoboniziu.ogg'
+},
+{
+title: 'MÌNH CƯỚI NHAU ĐI',
+artist: 'Pjnboys x Huỳnh James',
+album: '',
+cover: 'img/minhcuoinhaudipjnbojshuynhjames.jpg',
+mp3: '',
+ogg: 'mp3/minhcuoinhaudipjnbojshuynhjames.ogg'
+},
+{
+title: 'ĐÁM CƯỚI NHA?',
+artist: 'HỒNG THANH X MIE',
+album: '',
+cover: 'img/damcuoinhahongthanhmie.jpg',
+mp3: '',
+ogg: 'mp3/damcuoinhahongthanhmie.ogg'
+},
 ];
 
 	// Load playlist
