@@ -2078,6 +2078,14 @@ cover: 'img/copycatapinkchobom.jpg',
 mp3: '',
 ogg: 'mp3/copycatapinkchobom.ogg'
 },
+{
+title: 'OASIS',
+artist: '1CHU',
+album: '',
+cover: 'img/oasis1chu.jpg',
+mp3: '',
+ogg: 'mp3/oasis1chu.ogg'
+},
 ];
 
 	// Load playlist
