@@ -2030,6 +2030,54 @@ cover: 'img/yeoliollayosunmi.jpg',
 mp3: '',
 ogg: 'mp3/yeoliollayosunmi.ogg'
 },
+{
+title: 'Milky Way',
+artist: 'SEOHYUN(서현)',
+album: '',
+cover: 'img/milkywayseohyun.jpg',
+mp3: '',
+ogg: 'mp3/milkywayseohyun.ogg'
+},
+{
+title: 'Future Perfect (Pass the MIC)',
+artist: 'ENHYPEN (엔하이픈)',
+album: 'MANIFESTO : DAY 1',
+cover: 'img/futureperfectenhypen.jpg',
+mp3: '',
+ogg: 'mp3/futureperfectenhypen.ogg'
+},
+{
+title: 'Girls',
+artist: 'aespa',
+album: '',
+cover: 'img/girlsaespa.jpg',
+mp3: '',
+ogg: 'mp3/girlsaespa.ogg'
+},
+{
+title: 'WANNA KNOW',
+artist: 'IRRIS',
+album: '',
+cover: 'img/wannaknowirris.jpg',
+mp3: '',
+ogg: 'mp3/wannaknowirris.ogg'
+},
+{
+title: '아리운',
+artist: '케이시(Kassy)',
+album: '환혼 OST Part 2',
+cover: 'img/ailunkassy.jpg',
+mp3: '',
+ogg: 'mp3/ailunkassy.ogg'
+},
+{
+title: 'Copycat',
+artist: 'Apink 초봄(CHOBOM)',
+album: '',
+cover: 'img/copycatapinkchobom.jpg',
+mp3: '',
+ogg: 'mp3/copycatapinkchobom.ogg'
+},
 ];
 
 	// Load playlist
