@@ -1230,6 +1230,22 @@ cover: 'img/shengfenen.jpg',
 mp3: '',
 ogg: 'mp3/shengfenen.ogg'
 },
+{
+title: '過渡期',
+artist: '施語庭',
+album: '',
+cover: 'img/guoduqishiyuting.jpg',
+mp3: '',
+ogg: 'mp3/guoduqishiyuting.mp3'
+},
+{
+title: '好像没来过',
+artist: 'CEN枫仔',
+album: '',
+cover: 'img/haoxiangmeilaiguocenfengzhai.jpg',
+mp3: '',
+ogg: 'mp3/haoxiangmeilaiguocenfengzhai.ogg'
+},
 ];
 
 	// Load playlist
