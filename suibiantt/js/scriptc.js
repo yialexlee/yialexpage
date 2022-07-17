@@ -1236,7 +1236,7 @@ artist: '施語庭',
 album: '',
 cover: 'img/guoduqishiyuting.jpg',
 mp3: '',
-ogg: 'mp3/guoduqishiyuting.mp3'
+ogg: 'mp3/guoduqishiyuting.ogg'
 },
 {
 title: '好像没来过',
