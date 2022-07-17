@@ -2941,6 +2941,70 @@ cover: 'img/rakugakimosao.jpg',
 mp3: '',
 ogg: 'mp3/rakugakimosao.ogg'
 },
+{
+title: '逆光（ウタ from ONE PIECE FILM RED）',
+artist: 'Ado',
+album: '',
+cover: 'img/gyakkoado.jpg',
+mp3: '',
+ogg: 'mp3/gyakkoado.ogg'
+},
+{
+title: '交差点',
+artist: 'majiko',
+album: '',
+cover: 'img/kosatenmajiko.jpg',
+mp3: '',
+ogg: 'mp3/kosatenmajiko.ogg'
+},
+{
+title: 'School',
+artist: 'Chilli Beans.',
+album: '',
+cover: 'img/schoolchilibeans.jpg',
+mp3: '',
+ogg: 'mp3/schoolchilibeans.ogg'
+},
+{
+title: 'ロックでキスfeat.もっさ(ネクライトーキー)',
+artist: '和ぬか',
+album: '青二才',
+cover: 'img/rokkudekisuwanuka.jpg',
+mp3: '',
+ogg: 'mp3/rokkudekisuwanuka.ogg'
+},
+{
+title: '浪漫ショー',
+artist: '和ぬか',
+album: '青二才',
+cover: 'img/rokkudekisuwanuka.jpg',
+mp3: '',
+ogg: 'mp3/romanshowanuka.ogg'
+},
+{
+title: 'I Need You',
+artist: 'Nissy(⻄島隆弘)',
+album: '',
+cover: 'img/ineedyounissy.jpg',
+mp3: '',
+ogg: 'mp3/ineedyounissy.ogg'
+},
+{
+title: 'CLAP CLAP',
+artist: 'NiziU',
+album: '',
+cover: 'img/clapclapniziu.jpg',
+mp3: '',
+ogg: 'mp3/clapclapniziu.ogg'
+},
+{
+title: 'ASOBO',
+artist: 'NiziU',
+album: '',
+cover: 'img/asoboniziu.jpg',
+mp3: '',
+ogg: 'mp3/asoboniziu.ogg'
+},
 ];
 
 	// Load playlist
