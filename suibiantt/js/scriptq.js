@@ -293,6 +293,22 @@ cover: 'img/bulikiralyjolly.jpg',
 mp3: '',
 ogg: 'mp3/bulikiralyjolly.ogg'
 },
+{
+title: 'MÌNH CƯỚI NHAU ĐI',
+artist: 'Pjnboys x Huỳnh James',
+album: '',
+cover: 'img/minhcuoinhaudipjnbojshuynhjames.jpg',
+mp3: '',
+ogg: 'mp3/minhcuoinhaudipjnbojshuynhjames.ogg'
+},
+{
+title: 'ĐÁM CƯỚI NHA?',
+artist: 'HỒNG THANH X MIE',
+album: '',
+cover: 'img/damcuoinhahongthanhmie.jpg',
+mp3: '',
+ogg: 'mp3/damcuoinhahongthanhmie.ogg'
+},
 ];
 
 	// Load playlist
