@@ -1250,9 +1250,9 @@ ogg: 'mp3/haoxiangmeilaiguocenfengzhai.ogg'
 title: '巴生 榮耀之歌',
 artist: '3P',
 album: '',
-cover: 'img/bashengrongyaozhige3p.jpg',
+cover: 'img2/bashengrongyaozhige3p.jpg',
 mp3: '',
-ogg: 'mp3/bashengrongyaozhige3p.ogg'
+ogg: 'ogg/bashengrongyaozhige3p.ogg'
 },
 ];
 
