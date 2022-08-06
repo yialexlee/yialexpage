@@ -3005,6 +3005,46 @@ cover: 'img/asoboniziu.jpg',
 mp3: '',
 ogg: 'mp3/asoboniziu.ogg'
 },
+{
+title: 'Never Grow Up',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img/nevergrowupchanmina.jpg',
+mp3: '',
+ogg: 'mp3/nevergrowupchanmina.mp3'
+},
+{
+title: 'A Song Saved to Archived',
+artist: 'ちゃんみな',
+album: 'Never Grow Up',
+cover: 'img/nevergrowupchanmina.jpg',
+mp3: '',
+ogg: 'mp3/asongsavedtoarchivedchanmina.ogg'
+},
+{
+title: 'Believe',
+artist: 'みさき',
+album: '',
+cover: 'img/believemisaki.jpg',
+mp3: '',
+ogg: 'mp3/believemisaki.mp3'
+},
+{
+title: '左右盲',
+artist: 'ヨルシカ',
+album: '',
+cover: 'img/sayumoyorushika.jpg',
+mp3: '',
+ogg: 'mp3/sayumoyorushika.mp3'
+},
+{
+title: 'Wing Wing',
+artist: 'Kep1er',
+album: 'FLY-UP',
+cover: 'img/wingwingkep1er.jpg',
+mp3: '',
+ogg: 'mp3/wingwingkep1er.ogg'
+},
 ];
 
 	// Load playlist
