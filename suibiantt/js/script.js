@@ -7538,73 +7538,73 @@ ogg: 'mp3/damcuoinhahongthanhmie.ogg'
 title: '巴生 榮耀之歌',
 artist: '3P',
 album: '',
-cover: 'img/bashengrongyaozhige3p.jpg',
+cover: 'img2/bashengrongyaozhige3p.jpg',
 mp3: '',
-ogg: 'mp3/bashengrongyaozhige3p.ogg'
+ogg: 'ogg/bashengrongyaozhige3p.ogg'
 },
 {
 title: 'BEAUTIFUL MONSTER',
 artist: 'STAYC',
 album: 'WE NEED LOVE',
-cover: 'img/beautifulmonsterstayc.jpg',
+cover: 'img2/beautifulmonsterstayc.jpg',
 mp3: '',
-ogg: 'mp3/beautifulmonsterstayc.ogg'
+ogg: 'ogg/beautifulmonsterstayc.ogg'
 },
 {
 title: 'Ready For Love',
 artist: 'BLACKPINK X PUBG MOBILE',
 album: '',
-cover: 'img/readyforloveblackpinkxpubg.jpg',
+cover: 'img2/readyforloveblackpinkxpubg.jpg',
 mp3: '',
-ogg: 'mp3/readyforloveblackpinkxpubg.ogg'
+ogg: 'ogg/readyforloveblackpinkxpubg.ogg'
 },
 {
 title: 'SNEAKERS',
 artist: 'ITZY',
 album: 'CHECKMATE',
-cover: 'img/sneakersitzy.jpg',
+cover: 'img2/sneakersitzy.jpg',
 mp3: '',
-ogg: 'mp3/sneakersitzy.ogg'
+ogg: 'ogg/sneakersitzy.ogg'
 },
 {
 title: 'Never Grow Up',
 artist: 'ちゃんみな',
 album: '',
-cover: 'img/nevergrowupchanmina.jpg',
+cover: 'img2/nevergrowupchanmina.jpg',
 mp3: '',
-ogg: 'mp3/nevergrowupchanmina.mp3'
+ogg: 'ogg/nevergrowupchanmina.mp3'
 },
 {
 title: 'A Song Saved to Archived',
 artist: 'ちゃんみな',
 album: 'Never Grow Up',
-cover: 'img/nevergrowupchanmina.jpg',
+cover: 'img2/nevergrowupchanmina.jpg',
 mp3: '',
-ogg: 'mp3/asongsavedtoarchivedchanmina.ogg'
+ogg: 'ogg/asongsavedtoarchivedchanmina.ogg'
 },
 {
 title: 'Believe',
 artist: 'みさき',
 album: '',
-cover: 'img/believemisaki.jpg',
+cover: 'img2/believemisaki.jpg',
 mp3: '',
-ogg: 'mp3/believemisaki.mp3'
+ogg: 'ogg/believemisaki.mp3'
 },
 {
 title: '左右盲',
 artist: 'ヨルシカ',
 album: '',
-cover: 'img/sayumoyorushika.jpg',
+cover: 'img2/sayumoyorushika.jpg',
 mp3: '',
-ogg: 'mp3/sayumoyorushika.mp3'
+ogg: 'ogg/sayumoyorushika.mp3'
 },
 {
 title: 'Wing Wing',
 artist: 'Kep1er',
 album: 'FLY-UP',
-cover: 'img/wingwingkep1er.jpg',
+cover: 'img2/wingwingkep1er.jpg',
 mp3: '',
-ogg: 'mp3/wingwingkep1er.ogg'
+ogg: 'ogg/wingwingkep1er.ogg'
 },
 ];
 
