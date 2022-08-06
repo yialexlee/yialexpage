@@ -2090,25 +2090,25 @@ ogg: 'mp3/oasis1chu.ogg'
 title: 'BEAUTIFUL MONSTER',
 artist: 'STAYC',
 album: 'WE NEED LOVE',
-cover: 'img/beautifulmonsterstayc.jpg',
+cover: 'img2/beautifulmonsterstayc.jpg',
 mp3: '',
-ogg: 'mp3/beautifulmonsterstayc.ogg'
+ogg: 'ogg/beautifulmonsterstayc.ogg'
 },
 {
 title: 'Ready For Love',
 artist: 'BLACKPINK X PUBG MOBILE',
 album: '',
-cover: 'img/readyforloveblackpinkxpubg.jpg',
+cover: 'img2/readyforloveblackpinkxpubg.jpg',
 mp3: '',
-ogg: 'mp3/readyforloveblackpinkxpubg.ogg'
+ogg: 'ogg/readyforloveblackpinkxpubg.ogg'
 },
 {
 title: 'SNEAKERS',
 artist: 'ITZY',
 album: 'CHECKMATE',
-cover: 'img/sneakersitzy.jpg',
+cover: 'img2/sneakersitzy.jpg',
 mp3: '',
-ogg: 'mp3/sneakersitzy.ogg'
+ogg: 'ogg/sneakersitzy.ogg'
 },
 ];
 
