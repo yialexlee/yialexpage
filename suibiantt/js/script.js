@@ -7606,6 +7606,158 @@ cover: 'img2/wingwingkep1er.jpg',
 mp3: '',
 ogg: 'ogg/wingwingkep1er.ogg'
 },
+{
+title: 'ㄅㄆㄇ 注音歌',
+artist: '放火Louis',
+album: '',
+cover: 'img2/zhuyingefanghuo.jpg',
+mp3: '',
+ogg: 'ogg/zhuyingefanghuo.ogg'
+},
+{
+title: '你不是第一個離開的人',
+artist: 'G.E.M. 鄧紫棋',
+album: '',
+cover: 'img2/nibuzhidiyigelikaiderengem.jpg',
+mp3: '',
+ogg: 'ogg/nibuzhidiyigelikaiderengem.mp3'
+},
+{
+title: 'HELL',
+artist: 'G.E.M. 鄧紫棋',
+album: '',
+cover: 'img2/hellgem.jpg',
+mp3: '',
+ogg: 'ogg/hellgem.mp3'
+},
+{
+title: '受難曲 PASSION',
+artist: 'G.E.M. 鄧紫棋',
+album: '',
+cover: 'img2/passiongem.jpg',
+mp3: '',
+ogg: 'ogg/passiongem.mp3'
+},
+{
+title: '後來我們的愛',
+artist: '陸傑awr',
+album: '',
+cover: 'img2/houlaiwomendeailujieawr.jpg',
+mp3: '',
+ogg: 'ogg/houlaiwomendeailujieawr.ogg'
+},
+{
+title: '訣愛',
+artist: '詹雯婷 FAYE',
+album: '',
+cover: 'img2/jueaifaye.jpg',
+mp3: '',
+ogg: 'ogg/jueaifaye.ogg'
+},
+{
+title: '寻一个你',
+artist: '摩登兄弟刘宇宁',
+album: '',
+cover: 'img2/xunyigeniliuyuning.jpg',
+mp3: '',
+ogg: 'ogg/xunyigeniliuyuning.ogg'
+},
+{
+title: 'Life Too Short',
+artist: 'aespa 에스파',
+album: '',
+cover: 'img2/lifetooshortaespa.jpg',
+mp3: '',
+ogg: 'ogg/lifetooshortaespa.mp3'
+},
+{
+title: 'Fight Song',
+artist: 'Rachel Platten',
+album: '',
+cover: 'img2/fightsongrachelplatten.jpg',
+mp3: '',
+ogg: 'ogg/fightsongrachelplatten.mp3'
+},
+{
+title: 'Complicated / THE FIRST TAKE',
+artist: 'Avril Lavigne',
+album: '',
+cover: 'img2/complicatedavrilllavigne.jpg',
+mp3: '',
+ogg: 'ogg/complicatedavrilllavigne.ogg'
+},
+{
+title: 'Pink Venom',
+artist: 'BLACKPINK',
+album: '',
+cover: 'img2/pinkvenomblackpink.jpg',
+mp3: '',
+ogg: 'ogg/pinkvenomblackpink.mp3'
+},
+{
+title: 'Talk that Talk',
+artist: 'TWICE',
+album: 'BETWEEN 1&2',
+cover: 'img2/talkthattalktwice.jpg',
+mp3: '',
+ogg: 'ogg/talkthattalktwice.ogg'
+},
+{
+title: 'シャル・ウィ・ダンス？',
+artist: 'ReoNa',
+album: '',
+cover: 'img2/shallwedancereona.jpg',
+mp3: '',
+ogg: 'ogg/shallwedancereona.mp3'
+},
+{
+title: 'テディ',
+artist: 'ReoNa',
+album: 'Naked',
+cover: 'img2/teddyreona.jpg',
+mp3: '',
+ogg: 'ogg/teddyreona.mp3'
+},
+{
+title: 'Someday Live ver',
+artist: 'ReoNa',
+album: 'Naked',
+cover: 'img2/somedaylivereona.jpg',
+mp3: '',
+ogg: 'ogg/teddyreona.ogg'
+},
+{
+title: 'Time',
+artist: 'SawanoHiroyuki[nZk]:ReoNa',
+album: '',
+cover: 'img2/timeaawanohiroyukireona.jpg',
+mp3: '',
+ogg: 'ogg/timeaawanohiroyukireona.mp3'
+},
+{
+title: 'Oath',
+artist: '三上枝織',
+album: '',
+cover: 'img2/oathmikamishiori.jpg',
+mp3: '',
+ogg: 'ogg/oathmikamishiori.ogg'
+},
+{
+title: '風のゆくえ',
+artist: 'Ado',
+album: 'ONE PIECE FILM RED',
+cover: 'img2/kazenoyukueado.jpg',
+mp3: '',
+ogg: 'ogg/kazenoyukueado.ogg'
+},
+{
+title: 'TOKYO 4AM',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img2/tokyo4amchanmina.jpg',
+mp3: '',
+ogg: 'ogg/tokyo4amchanmina.mp3'
+},
 ];
 
 	// Load playlist
