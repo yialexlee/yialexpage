@@ -893,6 +893,30 @@ cover: 'img/glimpseofusjoji.jpg',
 mp3: '',
 ogg: 'mp3/glimpseofusjoji.ogg'
 },
+{
+title: 'Life Too Short',
+artist: 'aespa 에스파',
+album: '',
+cover: 'img2/lifetooshortaespa.jpg',
+mp3: '',
+ogg: 'ogg/lifetooshortaespa.mp3'
+},
+{
+title: 'Fight Song',
+artist: 'Rachel Platten',
+album: '',
+cover: 'img2/fightsongrachelplatten.jpg',
+mp3: '',
+ogg: 'ogg/fightsongrachelplatten.mp3'
+},
+{
+title: 'Complicated / THE FIRST TAKE',
+artist: 'Avril Lavigne',
+album: '',
+cover: 'img2/complicatedavrilllavigne.jpg',
+mp3: '',
+ogg: 'ogg/complicatedavrilllavigne.ogg'
+},
 ];
 
 	// Load playlist
