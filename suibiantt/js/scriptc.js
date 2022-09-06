@@ -1254,6 +1254,62 @@ cover: 'img2/bashengrongyaozhige3p.jpg',
 mp3: '',
 ogg: 'ogg/bashengrongyaozhige3p.ogg'
 },
+{
+title: 'ㄅㄆㄇ 注音歌',
+artist: '放火Louis',
+album: '',
+cover: 'img2/zhuyingefanghuo.jpg',
+mp3: '',
+ogg: 'ogg/zhuyingefanghuo.ogg'
+},
+{
+title: '你不是第一個離開的人',
+artist: 'G.E.M. 鄧紫棋',
+album: '',
+cover: 'img2/nibuzhidiyigelikaiderengem.jpg',
+mp3: '',
+ogg: 'ogg/nibuzhidiyigelikaiderengem.mp3'
+},
+{
+title: 'HELL',
+artist: 'G.E.M. 鄧紫棋',
+album: '',
+cover: 'img2/hellgem.jpg',
+mp3: '',
+ogg: 'ogg/hellgem.mp3'
+},
+{
+title: '受難曲 PASSION',
+artist: 'G.E.M. 鄧紫棋',
+album: '',
+cover: 'img2/passiongem.jpg',
+mp3: '',
+ogg: 'ogg/passiongem.mp3'
+},
+{
+title: '後來我們的愛',
+artist: '陸傑awr',
+album: '',
+cover: 'img2/houlaiwomendeailujieawr.jpg',
+mp3: '',
+ogg: 'ogg/houlaiwomendeailujieawr.ogg'
+},
+{
+title: '訣愛',
+artist: '詹雯婷 FAYE',
+album: '',
+cover: 'img2/jueaifaye.jpg',
+mp3: '',
+ogg: 'ogg/jueaifaye.ogg'
+},
+{
+title: '寻一个你',
+artist: '摩登兄弟刘宇宁',
+album: '',
+cover: 'img2/xunyigeniliuyuning.jpg',
+mp3: '',
+ogg: 'ogg/xunyigeniliuyuning.ogg'
+},
 ];
 
 	// Load playlist
