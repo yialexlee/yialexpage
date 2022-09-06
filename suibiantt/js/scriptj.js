@@ -3045,6 +3045,62 @@ cover: 'img2/wingwingkep1er.jpg',
 mp3: '',
 ogg: 'ogg/wingwingkep1er.ogg'
 },
+{
+title: 'シャル・ウィ・ダンス？',
+artist: 'ReoNa',
+album: '',
+cover: 'img2/shallwedancereona.jpg',
+mp3: '',
+ogg: 'ogg/shallwedancereona.mp3'
+},
+{
+title: 'テディ',
+artist: 'ReoNa',
+album: 'Naked',
+cover: 'img2/teddyreona.jpg',
+mp3: '',
+ogg: 'ogg/teddyreona.mp3'
+},
+{
+title: 'Someday Live ver',
+artist: 'ReoNa',
+album: 'Naked',
+cover: 'img2/somedaylivereona.jpg',
+mp3: '',
+ogg: 'ogg/teddyreona.ogg'
+},
+{
+title: 'Time',
+artist: 'SawanoHiroyuki[nZk]:ReoNa',
+album: '',
+cover: 'img2/timeaawanohiroyukireona.jpg',
+mp3: '',
+ogg: 'ogg/timeaawanohiroyukireona.mp3'
+},
+{
+title: 'Oath',
+artist: '三上枝織',
+album: '',
+cover: 'img2/oathmikamishiori.jpg',
+mp3: '',
+ogg: 'ogg/oathmikamishiori.ogg'
+},
+{
+title: '風のゆくえ',
+artist: 'Ado',
+album: 'ONE PIECE FILM RED',
+cover: 'img2/kazenoyukueado.jpg',
+mp3: '',
+ogg: 'ogg/kazenoyukueado.ogg'
+},
+{
+title: 'TOKYO 4AM',
+artist: 'ちゃんみな',
+album: '',
+cover: 'img2/tokyo4amchanmina.jpg',
+mp3: '',
+ogg: 'ogg/tokyo4amchanmina.mp3'
+},
 ];
 
 	// Load playlist
