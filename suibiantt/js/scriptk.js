@@ -2110,6 +2110,22 @@ cover: 'img2/sneakersitzy.jpg',
 mp3: '',
 ogg: 'ogg/sneakersitzy.ogg'
 },
+{
+title: 'Pink Venom',
+artist: 'BLACKPINK',
+album: '',
+cover: 'img2/pinkvenomblackpink.jpg',
+mp3: '',
+ogg: 'ogg/pinkvenomblackpink.mp3'
+},
+{
+title: 'Talk that Talk',
+artist: 'TWICE',
+album: 'BETWEEN 1&2',
+cover: 'img2/talkthattalktwice.jpg',
+mp3: '',
+ogg: 'ogg/talkthattalktwice.ogg'
+},
 ];
 
 	// Load playlist
