@@ -1,6 +1,0 @@
-deploy:
-  type: git
-  repository: https://github.com/yialexlee/yialexlee.github.io
-  branch: master
-# Google Analytics
-google_analytics: G-XVG0ECCKJX
