@@ -10,7 +10,20 @@
 </head>
 
 <body style="background-color:#202020">
-	
+<audio id="backgroundMusic" autoplay="autoplay" loop="loop" preload="auto"src="backgroundmusic .mp3"> </audio>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var audio = document.getElementById('backgroundMusic');
+
+    function playMusic() {
+      if (audio.paused) {
+        audio.play();
+      }
+    }
+    document.addEventListener('click', playMusic);
+    document.addEventListener('keydown', playMusic);
+  });
+</script>
     <input type="checkbox" id="difficulty" checked />
     <input type="checkbox" id="sound" />
     <input type="checkbox" id="first" />
