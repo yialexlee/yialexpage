@@ -8,7 +8,20 @@
         canvas{border:solid .2em #fff;height:90vh;}
 		body{background-image:url('b.jpg');color:#fff;font-family:sans-serif;font-size:2em;text-align:center;}</style>
 </head>
-<audio autoplay="autoplay" loop="loop" preload="auto"src="backgroundmusic.mp3"> </audio>
+<audio id="backgroundMusic" autoplay="autoplay" loop="loop" preload="auto"src="backgroundmusic.mp3"> </audio>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var audio = document.getElementById('backgroundMusic');
+
+    function playMusic() {
+      if (audio.paused) {
+        audio.play();
+      }
+    }
+    document.addEventListener('click', playMusic);
+    document.addEventListener('keydown', playMusic);
+  });
+</script>
 <div>Score : <div id="score">0</div></div>
 <div> </div>
 <canvas id="tetris" width="200" height="400" />	
